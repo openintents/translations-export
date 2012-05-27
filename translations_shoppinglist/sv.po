@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Jocke Pihlström <Unknown>\n"
+"Last-Translator: Carl Fredrik Sima <cf.sima@gmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -23,18 +23,20 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
+"  Carl Fredrik Sima https://launchpad.net/~cf-sima\n"
 "  Jocke Pihlström https://launchpad.net/~jockepihlstrom\n"
-"  Peli https://launchpad.net/~peli0101"
+"  Peli https://launchpad.net/~peli0101\n"
+"  Rikard Edgren https://launchpad.net/~rikard-edgren"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:27(string)
 msgid "Keep track of your shopping items with OI Shopping List."
-msgstr ""
+msgstr "Håll koll på dina inköpsvaror med hjälp av OI Shopping List"
 
 #. Name of application. Can be localized. OI = OpenIntents should stay unmodified.
 #: tmp_strings.xml:33(string)
 msgid "OI Shopping List"
-msgstr ""
+msgstr "OI Shopping List"
 
 #: tmp_strings.xml:35(string)
 msgid "New item"
@@ -50,7 +52,7 @@ msgstr "Skicka lista"
 
 #: tmp_strings.xml:38(string)
 msgid "Mark all items"
-msgstr ""
+msgstr "Markera alla varor"
 
 #: tmp_strings.xml:39(string)
 msgid "Empty list not sent."
@@ -66,10 +68,10 @@ msgstr "Min inköpslista"
 
 #: tmp_strings.xml:42(string)
 msgid "e.g. wishlist, family list"
-msgstr ""
+msgstr "t. ex. önskelista, familjelista"
 
 #. Automation action to clean up a list.
-#: tmp_strings.xml:43(string) tmp_strings.xml:346(item)
+#: tmp_strings.xml:43(string) tmp_strings.xml:360(item)
 msgid "Clean up list"
 msgstr "Rensa lista"
 
@@ -91,7 +93,7 @@ msgstr "Redigera post"
 
 #: tmp_strings.xml:48(string)
 msgid "Enter new store name"
-msgstr ""
+msgstr "Skriv in en ny affär"
 
 #: tmp_strings.xml:49(string)
 msgid "Please enter a name"
@@ -139,19 +141,19 @@ msgstr "Lägg till automatiskt"
 
 #: tmp_strings.xml:61(string)
 msgid "Stores..."
-msgstr ""
+msgstr "Affärer..."
 
 #: tmp_strings.xml:62(string)
 msgid "Rename store"
-msgstr ""
+msgstr "Byt namn på affär"
 
 #: tmp_strings.xml:63(string)
 msgid "Delete store"
-msgstr ""
+msgstr "Ta bort affär"
 
 #: tmp_strings.xml:64(string)
 msgid "Do you really want to delete this store?"
-msgstr ""
+msgstr "Vill du verkligen ta bort affären?"
 
 #: tmp_strings.xml:65(string)
 msgid "No items available"
@@ -159,11 +161,11 @@ msgstr "Inga poster tillgängliga"
 
 #: tmp_strings.xml:66(string)
 msgid "No stores available for this list"
-msgstr ""
+msgstr "Inga affärer tillgängliga för den här listan"
 
 #: tmp_strings.xml:67(string)
 msgid "No tags available for this list"
-msgstr ""
+msgstr "Inga etiketter tillgängliga för den här listan"
 
 #. Remove item from this list, but keep it internally, so that the user
 #. 	     can choose it later for inclusion again. Information like
@@ -180,11 +182,11 @@ msgstr "Ta bort post permanent"
 
 #: tmp_strings.xml:77(string)
 msgid "Move item to other list"
-msgstr ""
+msgstr "Flytta vara till annan lista"
 
 #: tmp_strings.xml:78(string)
 msgid "Copy item"
-msgstr ""
+msgstr "Kopiera vara"
 
 #. Button label to add an item to the list.
 #: tmp_strings.xml:81(string)
@@ -193,7 +195,7 @@ msgstr "Lägg till"
 
 #: tmp_strings.xml:83(string)
 msgid "Pick items"
-msgstr "Välj poster"
+msgstr "Välj varor"
 
 #: tmp_strings.xml:84(string)
 msgid "Shopping"
@@ -212,15 +214,15 @@ msgstr "%s - Handla"
 #. Title supplement. '%s' is the name of the current item.
 #: tmp_strings.xml:93(string)
 msgid "%s - Stores"
-msgstr ""
+msgstr "%s - Affärer"
 
 #: tmp_strings.xml:94(string)
 msgid "Edit Item Stores"
-msgstr ""
+msgstr "Ändra affärer"
 
 #: tmp_strings.xml:96(string)
 msgid "Tags"
-msgstr "Nyckelord"
+msgstr "Etiketter"
 
 #: tmp_strings.xml:97(string)
 msgid "Price"
@@ -228,47 +230,47 @@ msgstr "Pris"
 
 #: tmp_strings.xml:98(string)
 msgid "Item"
-msgstr "Post"
+msgstr "Vara"
 
 #: tmp_strings.xml:99(string)
 msgid "Quantity"
-msgstr "Antal"
+msgstr "Kvantitet"
 
 #: tmp_strings.xml:100(string)
 msgid "Priority"
-msgstr ""
+msgstr "Prioritet"
 
 #: tmp_strings.xml:101(string)
 msgid "Has Note"
-msgstr ""
+msgstr "Har anteckning"
 
 #: tmp_strings.xml:102(string)
 msgid "Units"
-msgstr ""
+msgstr "Enhet"
 
 #: tmp_strings.xml:103(string)
 msgid "Note"
-msgstr ""
+msgstr "Anteckning"
 
 #: tmp_strings.xml:104(string)
 msgid "Stores"
-msgstr ""
+msgstr "Affärer"
 
 #: tmp_strings.xml:105(string)
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: tmp_strings.xml:107(string)
 msgid "Other Quantity..."
-msgstr ""
+msgstr "Annan kvantitet..."
 
 #: tmp_strings.xml:108(string)
 msgid "Other Priority..."
-msgstr ""
+msgstr "Annan prioritet..."
 
 #: tmp_strings.xml:109(string)
 msgid "(Unfiltered)"
-msgstr ""
+msgstr "(Ofiltrerad)"
 
 #. Total sum of all prices. '%s' is the sum
 #: tmp_strings.xml:112(string)
@@ -282,23 +284,23 @@ msgstr "Avbockat: %s"
 
 #: tmp_strings.xml:116(string)
 msgid "Priority 1: %s"
-msgstr ""
+msgstr "Prioritet 1: %s"
 
 #: tmp_strings.xml:117(string)
 msgid "Priority 1-2: %s"
-msgstr ""
+msgstr "Prioritet 1-2: %s"
 
 #: tmp_strings.xml:118(string)
 msgid "Priority 1-3: %s"
-msgstr ""
+msgstr "Prioritet 1-3: %s"
 
 #: tmp_strings.xml:119(string)
 msgid "Priority 1-4: %s"
-msgstr ""
+msgstr "Prioritet 1-4: %s"
 
 #: tmp_strings.xml:121(string)
 msgid "Are you sure you want to permanently delete this item?"
-msgstr ""
+msgstr "Är du säker på att du permanent vill ta bort den här varan?"
 
 #: tmp_strings.xml:122(string)
 msgid "Delete"
@@ -329,8 +331,8 @@ msgid "Choose a theme for this list"
 msgstr "Välj ett tema för denna listan"
 
 #. Preference fontsize: default font size
-#: tmp_strings.xml:138(string) tmp_strings.xml:302(item)
-#: tmp_strings.xml:309(item)
+#: tmp_strings.xml:138(string) tmp_strings.xml:316(item)
+#: tmp_strings.xml:323(item)
 msgid "Default"
 msgstr "Standard"
 
@@ -399,15 +401,15 @@ msgstr "Välj teckenstorlek"
 
 #: tmp_strings.xml:162(string)
 msgid "Orientation"
-msgstr ""
+msgstr "Orientering"
 
 #: tmp_strings.xml:163(string)
 msgid "Change orientation"
-msgstr ""
+msgstr "Byt orientering"
 
 #: tmp_strings.xml:164(string)
 msgid "Choose orientation"
-msgstr ""
+msgstr "Välj orientering"
 
 #: tmp_strings.xml:165(string)
 msgid "Sort order"
@@ -419,11 +421,11 @@ msgstr "Ändra sorteringsordning av poster"
 
 #: tmp_strings.xml:167(string)
 msgid "Sort order - Pick Items"
-msgstr ""
+msgstr "Sorteringsordning - Välj Varor"
 
 #: tmp_strings.xml:168(string)
 msgid "Change sort order of list items in Pick Items mode."
-msgstr ""
+msgstr "Ändra sorteringsordning för varor i Varuväljläge."
 
 #: tmp_strings.xml:169(string)
 msgid "Choose sort order"
@@ -431,264 +433,289 @@ msgstr "Välj sorteringsordning"
 
 #: tmp_strings.xml:170(string)
 msgid "Choose sort order for Pick Items mode"
-msgstr ""
+msgstr "Välj sorteringsordning för Varuväljläge"
 
 #: tmp_strings.xml:171(string)
+#, fuzzy
+msgid "Sort order - Shopping Lists"
+msgstr "skriv inköpslistor"
+
+#: tmp_strings.xml:172(string)
+#, fuzzy
+msgid "Change sort order of shopping lists."
+msgstr "Ändra sorteringsordning av poster"
+
+#: tmp_strings.xml:173(string)
+#, fuzzy
+msgid "Choose sort order for shopping lists"
+msgstr "Välj sorteringsordning för Varuväljläge"
+
+#: tmp_strings.xml:174(string)
 msgid "Load last list used"
 msgstr "Ladda senaste listan"
 
-#: tmp_strings.xml:172(string)
+#: tmp_strings.xml:175(string)
 msgid "Always start with the list viewed last time."
 msgstr "Starta alltid med senaste listan"
 
-#: tmp_strings.xml:173(string)
+#: tmp_strings.xml:176(string)
 msgid "Capitalization"
 msgstr "Versaler"
 
-#: tmp_strings.xml:174(string)
+#: tmp_strings.xml:177(string)
 msgid "Automatic capitalization of entries"
 msgstr "Automatisk ändring till versaler"
 
-#: tmp_strings.xml:175(string)
+#: tmp_strings.xml:178(string)
 msgid "Choose capitalization"
 msgstr "Välj typ av versaler"
 
-#: tmp_strings.xml:176(string)
+#: tmp_strings.xml:179(string)
 msgid "Hide checked items"
 msgstr "Göm bockade poster"
 
-#: tmp_strings.xml:177(string)
+#: tmp_strings.xml:180(string)
 msgid "Immediately hide items checked off."
 msgstr "Göm genast bockade poster"
 
-#: tmp_strings.xml:178(string)
+#: tmp_strings.xml:181(string)
 msgid "Fast Scrolling"
-msgstr ""
+msgstr "Snabbrullning"
 
-#: tmp_strings.xml:179(string)
+#: tmp_strings.xml:182(string)
 msgid "Scroll handle appears when scrolling 35 items or more."
-msgstr ""
+msgstr "Rullhandtag visar sig när 35 eller fler varor visas."
 
-#: tmp_strings.xml:180(string)
+#: tmp_strings.xml:183(string)
 msgid "Show price"
 msgstr "Visa pris"
 
-#: tmp_strings.xml:181(string) tmp_strings.xml:194(string)
-#: tmp_strings.xml:196(string) tmp_strings.xml:198(string)
-#: tmp_strings.xml:200(string)
+#: tmp_strings.xml:184(string) tmp_strings.xml:197(string)
+#: tmp_strings.xml:199(string) tmp_strings.xml:201(string)
+#: tmp_strings.xml:203(string)
 msgid "Shown as extra column in list."
 msgstr "Visa som extra kolumn i listan"
 
-#: tmp_strings.xml:182(string)
-msgid "Per-store prices"
-msgstr ""
-
-#: tmp_strings.xml:183(string)
-msgid "Track per-store prices"
-msgstr ""
-
-#: tmp_strings.xml:184(string)
-msgid "Keep track of separate prices for each item at each store."
-msgstr ""
-
 #: tmp_strings.xml:185(string)
-msgid "Disable screen lock"
-msgstr ""
+msgid "Per-store prices"
+msgstr "Priser per affär"
 
 #: tmp_strings.xml:186(string)
-msgid "Prevents the screen to be locked when checked."
-msgstr ""
+msgid "Track per-store prices"
+msgstr "Spåra priser per affär"
 
 #: tmp_strings.xml:187(string)
-msgid "Filters"
+msgid "Keep track of separate prices for each item at each store."
 msgstr ""
+"Spåra individuella priser för varje enskild vara och varje enskild affär."
 
 #: tmp_strings.xml:188(string)
-msgid "Lists can be filtered by tags or stores."
-msgstr ""
+msgid "Disable screen lock"
+msgstr "Stäng av skärmlås"
 
 #: tmp_strings.xml:189(string)
-msgid "Reset Quantity"
-msgstr ""
+msgid "Prevents the screen to be locked when checked."
+msgstr "Förhindrar att skärmen kan låsas."
 
 #: tmp_strings.xml:190(string)
-msgid "Resets the quantity when adding items again."
-msgstr ""
+msgid "Filters"
+msgstr "Filter"
 
 #: tmp_strings.xml:191(string)
-msgid "Barcode Scanner"
-msgstr ""
+msgid "Lists can be filtered by tags or stores."
+msgstr "Listor kan filtreras med hjälp av taggar eller affärer."
 
 #: tmp_strings.xml:192(string)
-msgid "Long press the Add button to start Barcode OI Plugin (if installed)."
-msgstr ""
+msgid "Reset Quantity"
+msgstr "Nollställningskvantitet"
 
 #: tmp_strings.xml:193(string)
+msgid "Resets the quantity when adding items again."
+msgstr "Nollställer antalet varor när antalet går över den valda siffran."
+
+#: tmp_strings.xml:194(string)
+msgid "Barcode Scanner"
+msgstr "Streckkodsscanner"
+
+#: tmp_strings.xml:195(string)
+msgid "Long press the Add button to start Barcode OI Plugin (if installed)."
+msgstr ""
+"Håll in Lägg Till-knappen för att starta Barcode OI Plugin (om den är "
+"installerad)"
+
+#: tmp_strings.xml:196(string)
 msgid "Show tags"
 msgstr "Visa taggar"
 
-#: tmp_strings.xml:195(string)
+#: tmp_strings.xml:198(string)
 msgid "Show quantity"
 msgstr "Visa antal"
 
-#: tmp_strings.xml:197(string)
+#: tmp_strings.xml:200(string)
 msgid "Show priority"
-msgstr ""
+msgstr "Visa prioritet"
 
-#: tmp_strings.xml:199(string)
+#: tmp_strings.xml:202(string)
 msgid "Show units"
-msgstr ""
+msgstr "Visa enhet"
 
-#: tmp_strings.xml:201(string) tmp_strings.xml:202(string)
-#: tmp_strings.xml:204(string)
+#: tmp_strings.xml:204(string) tmp_strings.xml:205(string)
+#: tmp_strings.xml:207(string)
 msgid "Subtotal by priority"
-msgstr ""
-
-#: tmp_strings.xml:203(string)
-msgid "No subtotal by priority shown."
-msgstr ""
-
-#: tmp_strings.xml:205(string)
-msgid "Include checked items"
-msgstr ""
+msgstr "Delresultat med prioritet"
 
 #: tmp_strings.xml:206(string)
-msgid "Subtotal by priority includes checked items"
-msgstr ""
-
-#: tmp_strings.xml:207(string)
-msgid "Subtotal by priority excludes checked items"
-msgstr ""
+msgid "No subtotal by priority shown."
+msgstr "Inget delresultat med prioritet visat."
 
 #: tmp_strings.xml:208(string)
-msgid "Pick items directly in list"
-msgstr ""
+msgid "Include checked items"
+msgstr "Inkludera markerade varor"
 
 #: tmp_strings.xml:209(string)
-msgid "Switch main list to edit mode to re-add existing items"
-msgstr ""
+msgid "Subtotal by priority includes checked items"
+msgstr "Delresultat med prioritet inkluderar markerade varor"
 
 #: tmp_strings.xml:210(string)
-msgid "Add items to list using a dedicated dialog"
-msgstr ""
+msgid "Subtotal by priority excludes checked items"
+msgstr "Delresultat med prioritet exkluderar markerade varor"
 
 #: tmp_strings.xml:211(string)
-msgid "Always same sort order"
-msgstr ""
+msgid "Pick items directly in list"
+msgstr "Välj varor direkt i listan"
 
 #: tmp_strings.xml:212(string)
-msgid "Items are sorted in Pick Items mode just as in Shopping mode."
+msgid "Switch main list to edit mode to re-add existing items"
 msgstr ""
+"Byt till ändringsläge för huvudlistan för lägga till redan inlagda varor"
 
 #: tmp_strings.xml:213(string)
+msgid "Add items to list using a dedicated dialog"
+msgstr "Lägg till varor till listan via en dedikerad dialogruta"
+
+#: tmp_strings.xml:214(string)
+msgid "Always same sort order"
+msgstr "Alltid samma sortering"
+
+#: tmp_strings.xml:215(string)
+msgid "Items are sorted in Pick Items mode just as in Shopping mode."
+msgstr "Varor blir sorterade i Varuväljläget precis som i Shoppingläget."
+
+#: tmp_strings.xml:216(string)
 msgid "Sort order for Pick Items mode can be chosen separately."
-msgstr ""
+msgstr "Sorteringsordningen för Varuväljläget kan bli vald separat."
 
 #. Preference title: Shake the phone to clean up the list.
-#: tmp_strings.xml:216(string)
+#: tmp_strings.xml:219(string)
 msgid "Shake to clean up"
 msgstr "Skaka för att rensa"
 
 #. Preference summary: Shake the phone to clean up the list.
-#: tmp_strings.xml:219(string)
+#: tmp_strings.xml:222(string)
 msgid "Shake the phone to clean up the list."
 msgstr "Skaka telefonen för att rensa listan"
 
-#: tmp_strings.xml:221(string)
+#: tmp_strings.xml:224(string)
 msgid "Advanced settings"
 msgstr "Avancerade inställningar"
 
-#: tmp_strings.xml:222(string)
+#: tmp_strings.xml:225(string)
 msgid "Additional settings."
-msgstr ""
+msgstr "Ytterligare inställningar."
 
 #. Preference category: General settings
-#: tmp_strings.xml:225(string)
+#: tmp_strings.xml:228(string)
 msgid "General"
 msgstr "Generellt"
 
-#: tmp_strings.xml:226(string)
+#: tmp_strings.xml:229(string)
 msgid "Pick Items"
-msgstr ""
+msgstr "Välj varor"
 
-#: tmp_strings.xml:228(string)
+#: tmp_strings.xml:231(string)
 msgid "Appearance"
 msgstr "Utseende"
 
-#: tmp_strings.xml:230(string)
+#: tmp_strings.xml:233(string)
 msgid "Add-ons"
 msgstr "Tillägg"
 
-#: tmp_strings.xml:231(string)
+#: tmp_strings.xml:234(string)
 msgid "Get new add-ons"
 msgstr "Hämta nya tillägg"
 
-#: tmp_strings.xml:232(string)
+#: tmp_strings.xml:235(string)
 msgid "Search for extensions and themes online."
 msgstr "Sök tillägg och teman online"
 
-#: tmp_strings.xml:233(string)
+#: tmp_strings.xml:236(string)
 msgid "Get add-ons from Market"
 msgstr "Hämta tillägg från Market"
 
-#: tmp_strings.xml:234(string)
+#: tmp_strings.xml:237(string)
 msgid "Get add-ons from OpenIntents"
 msgstr "Hämta tillägg från OpenIntents"
 
-#: tmp_strings.xml:235(string)
+#: tmp_strings.xml:238(string)
 msgid "Extensions"
 msgstr "Tillägg"
 
-#: tmp_strings.xml:236(string)
+#: tmp_strings.xml:239(string)
 msgid "Themes"
 msgstr "Teman"
 
-#: tmp_strings.xml:237(string)
+#: tmp_strings.xml:240(string)
 msgid "Search for extensions at Android Market."
 msgstr "Sök efter tillägg på Android Market"
 
-#: tmp_strings.xml:238(string)
+#: tmp_strings.xml:241(string)
 msgid "Search for themes at Android Market."
 msgstr "Sök efter teman på Android Market"
 
-#: tmp_strings.xml:239(string)
+#: tmp_strings.xml:242(string)
 msgid "Get extensions from the OpenIntents homepage."
 msgstr "Hämta tillägg från OpenIntents hemsida"
 
-#: tmp_strings.xml:240(string)
+#: tmp_strings.xml:243(string)
 msgid "Get themes from the OpenIntents homepage."
 msgstr "Hämta teman från OpenIntents hemsida"
 
-#: tmp_strings.xml:241(string)
-msgid "Quick Edit Mode"
-msgstr ""
-
-#: tmp_strings.xml:242(string)
-msgid "Touch Priority or Quantity values for a menu of common values."
-msgstr ""
-
-#: tmp_strings.xml:243(string)
-msgid "Touching Priority or Quantity values summons the Edit Item dialog."
-msgstr ""
-
 #: tmp_strings.xml:244(string)
-msgid "Reset all settings"
-msgstr ""
+msgid "Quick Edit Mode"
+msgstr "Snabbändringsläge"
 
 #: tmp_strings.xml:245(string)
-msgid "Do you really want to RESET ALL settings? This cannot be undone."
+msgid "Touch Priority or Quantity values for a menu of common values."
 msgstr ""
+"Tryck på värdena för Prioritet eller Antal i listan för att visa en meny med "
+"de vanligaste värdena."
 
 #: tmp_strings.xml:246(string)
-msgid "All settings have been reset"
+msgid "Touching Priority or Quantity values summons the Edit Item dialog."
 msgstr ""
+"Ett tryck på värdena för Prioritet eller Antal i listan visar Ändra Varor "
+"dialogen."
+
+#: tmp_strings.xml:247(string)
+msgid "Reset all settings"
+msgstr "Återställ alla inställningar"
+
+#: tmp_strings.xml:248(string)
+msgid "Do you really want to RESET ALL settings? This cannot be undone."
+msgstr ""
+"Vill du verkligen ÅTERSTÄLLA ALLA inställningar? Det går ej att göra detta "
+"ogjort."
+
+#: tmp_strings.xml:249(string)
+msgid "All settings have been reset"
+msgstr "All inställningar har blivit återställda"
 
 #. Permission to read shopping lists
-#: tmp_strings.xml:254(string)
+#: tmp_strings.xml:257(string)
 msgid "read shopping lists"
 msgstr "läs inköpslistor"
 
-#: tmp_strings.xml:255(string)
+#: tmp_strings.xml:258(string)
 msgid ""
 "Allows an application to read shopping lists. Note that encrypted lists and "
 "items are provided in the encrypted format."
@@ -697,11 +724,11 @@ msgstr ""
 "och objekt finns i krypterat format."
 
 #. Permission to write to shopping lists
-#: tmp_strings.xml:257(string)
+#: tmp_strings.xml:260(string)
 msgid "write shopping lists"
 msgstr "skriv inköpslistor"
 
-#: tmp_strings.xml:258(string)
+#: tmp_strings.xml:261(string)
 msgid ""
 "Allows an application to create new lists and items or change existing ones."
 msgstr ""
@@ -709,147 +736,159 @@ msgstr ""
 "befintliga."
 
 #. Preference sort order: List unchecked items first, sort items alphabetically
-#: tmp_strings.xml:267(item)
+#: tmp_strings.xml:270(item)
 msgid "unchecked first, alphabetical"
 msgstr "obockat först, alfabetiskt"
 
 #. Preference sort order: Sort by item name
-#: tmp_strings.xml:269(item)
+#: tmp_strings.xml:272(item)
 msgid "alphabetical"
 msgstr "alfabetiskt"
 
 #. Preference sort order: Newest item first
-#: tmp_strings.xml:271(item)
+#: tmp_strings.xml:274(item) tmp_strings.xml:297(item)
 msgid "newest first"
 msgstr "nyast först"
 
 #. Preference sort order: Oldest item first
-#: tmp_strings.xml:273(item)
+#: tmp_strings.xml:276(item) tmp_strings.xml:299(item)
 msgid "oldest first"
 msgstr "äldst först"
 
 #. Preference sort order: Sort alphabetically by tags
-#: tmp_strings.xml:275(item)
+#: tmp_strings.xml:278(item)
 msgid "tags alphabetical"
 msgstr "taggar alfabetiskt"
 
 #. Preference sort order: Sort by priority, then alphabetically by tags
-#: tmp_strings.xml:277(item)
+#: tmp_strings.xml:280(item)
 msgid "priority, tags alphabetical"
-msgstr ""
+msgstr "prioritet, etiketter i alfabetsordning"
 
 #. Preference sort order: Sort by price, the most expensive first
-#: tmp_strings.xml:279(item)
+#: tmp_strings.xml:282(item)
 msgid "most expensive first"
 msgstr "dyraste först"
 
 #. Preference sort order: List unchecked items first, sort alphabetically by tags
-#: tmp_strings.xml:281(item)
+#: tmp_strings.xml:284(item)
 msgid "unchecked first, tags alphabetical"
 msgstr "obockat först, taggar alfabetiskt"
 
 #. Preference sort order: List unchecked items first, priority, sort items alphabetically
-#: tmp_strings.xml:283(item)
+#: tmp_strings.xml:286(item)
 msgid "unchecked first, priority, alphabetical"
-msgstr ""
+msgstr "omarkerade varor  först, prioritet, alfabetisk ordning"
 
 #. Preference sort order: List unchecked items first, priority, tags, sort items alphabetically
-#: tmp_strings.xml:285(item)
+#: tmp_strings.xml:288(item)
 msgid "unchecked first, priority, tags alphabetical"
-msgstr ""
+msgstr "omarkerade varor  först, prioritet, etiketter i alfabetisk ordning"
 
-#: tmp_strings.xml:289(item)
-msgid "Not shown"
-msgstr ""
-
-#: tmp_strings.xml:290(item)
-msgid "Priority 1"
-msgstr ""
-
-#: tmp_strings.xml:291(item)
-msgid "Priority 1-2"
-msgstr ""
-
-#: tmp_strings.xml:292(item)
-msgid "Priority 1-3"
-msgstr ""
-
+#. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
+#, fuzzy
+msgid "alphabetical ascending"
+msgstr "alfabetiskt"
+
+#. Preference sort order: Sort by list name in descending order
+#: tmp_strings.xml:295(item)
+#, fuzzy
+msgid "alphabetical descending"
+msgstr "alfabetiskt"
+
+#: tmp_strings.xml:303(item)
+msgid "Not shown"
+msgstr "Inte visad"
+
+#: tmp_strings.xml:304(item)
+msgid "Priority 1"
+msgstr "Prioritet 1"
+
+#: tmp_strings.xml:305(item)
+msgid "Priority 1-2"
+msgstr "Prioritet 1-2"
+
+#: tmp_strings.xml:306(item)
+msgid "Priority 1-3"
+msgstr "Prioritet 1-3"
+
+#: tmp_strings.xml:307(item)
 msgid "Priority 1-4"
-msgstr ""
+msgstr "Prioritet 1-4"
 
 #. Preference fontsize: tiny font size
-#: tmp_strings.xml:298(item)
+#: tmp_strings.xml:312(item)
 msgid "Tiny"
 msgstr "Mycket liten"
 
 #. Preference fontsize: small font size
-#: tmp_strings.xml:300(item)
+#: tmp_strings.xml:314(item)
 msgid "Small"
 msgstr "Liten"
 
 #. Preference fontsize: large font size
-#: tmp_strings.xml:304(item)
+#: tmp_strings.xml:318(item)
 msgid "Large"
 msgstr "Stor"
 
 #. Preference orientation: landscape
-#: tmp_strings.xml:311(item)
+#: tmp_strings.xml:325(item)
 msgid "Landscape"
-msgstr ""
+msgstr "Landskapsläge"
 
 #. Preference orientation: portrait
-#: tmp_strings.xml:313(item)
+#: tmp_strings.xml:327(item)
 msgid "Portrait"
-msgstr ""
+msgstr "Porträttläge"
 
 #. Preference capitalization: No capitalization
-#: tmp_strings.xml:318(item)
+#: tmp_strings.xml:332(item)
 msgid "None"
 msgstr "Ingen"
 
 #. Preference capitalization: Automatically capitalize first letter of a sentence.
-#: tmp_strings.xml:320(item)
+#: tmp_strings.xml:334(item)
 msgid "Per sentence"
-msgstr ""
+msgstr "Per mening"
 
 #. Preference capitalization: Automatically capitalize first letter of each word.
-#: tmp_strings.xml:322(item)
+#: tmp_strings.xml:336(item)
 msgid "Per word"
-msgstr ""
+msgstr "Per ord"
 
 #. Message box warning if user wants to edit a note, but OI Notepad is not installed.
-#: tmp_strings.xml:329(string)
+#: tmp_strings.xml:343(string)
 msgid "Editing item notes requires OI Notepad."
-msgstr ""
+msgstr "Ändring av varunoteringar kräver att OI Notepad är installerat."
 
 #. Name of application "OI Notepad". Translations should be consistent.
-#: tmp_strings.xml:331(string)
+#: tmp_strings.xml:345(string)
 msgid "OI Notepad"
-msgstr ""
+msgstr "OI Notepad"
 
 #. Label above spinner for all actions (automation tasks) that can be performed.
-#: tmp_strings.xml:337(string)
+#: tmp_strings.xml:351(string)
 msgid "Select action:"
 msgstr "Välj åtgärd:"
 
 #. Label above button that opens a list of all shopping lists to choose from.
-#: tmp_strings.xml:340(string)
+#: tmp_strings.xml:354(string)
 msgid "Select list:"
 msgstr "Välj lista:"
 
-#: tmp_strings.xml:349(string)
+#: tmp_strings.xml:363(string)
 msgid "Previous page"
-msgstr ""
+msgstr "Föregående sida"
 
-#: tmp_strings.xml:350(string)
+#: tmp_strings.xml:364(string)
 msgid "Next page"
-msgstr ""
+msgstr "Nästa sida"
 
-#: tmp_strings.xml:351(string)
+#: tmp_strings.xml:365(string)
 msgid "Choose a list"
-msgstr ""
+msgstr "Välj en lista"
 
-#: tmp_strings.xml:352(string)
+#: tmp_strings.xml:366(string)
 msgid "No items on page %d"
-msgstr ""
+msgstr "Inga varor på sida %d"
