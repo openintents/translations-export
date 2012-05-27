@@ -54,17 +54,9 @@ msgstr "Capturador de colors d'OI"
 msgid "Preferences"
 msgstr "Preferències"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr "Mantenir el color"
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr "Desar el color pel següent cop que s'engegui l'aplicació Llanterna"
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but 
 #. 		user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
@@ -72,20 +64,44 @@ msgstr ""
 "Per fer el capturador de colors més útil per a altres desenvolupadors, l'hem "
 "dividit a la seva aplicació pròpia."
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
 msgstr "Utilitzar el flaix de la càmera"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
 msgstr ""
 "Utilitzar el flaix de la càmera en lloc de la fons de llum de la pantalla."
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
 msgstr "Prem per activar la llum de la càmera (Pot tardar un segon)."
 
-#: tmp_strings.xml:48(string)
+#: tmp_strings.xml:46(string)
 msgid "Press to disable camera light."
 msgstr "Prem per desactivar la llum de la càmera."
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr ""
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+
+#: tmp_strings.xml:51(item)
+#, fuzzy
+msgid "Keep Color"
+msgstr "Mantenir el color"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr ""
+
+
+

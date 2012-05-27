@@ -25,12 +25,13 @@ msgstr ""
 "Launchpad Contributions:\n"
 "  Alexander 'FONTER' Zinin https://launchpad.net/~spore-09\n"
 "  Artur https://launchpad.net/~arturyak\n"
+"  Maxim S. https://launchpad.net/~luvme-nn\n"
 "  Peli https://launchpad.net/~peli0101"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:11(string)
 msgid "Keep the camera flash or the backlight turned on with OI Flashlight."
-msgstr ""
+msgstr "Держите вспышку камеры или подсветку включенной с OI Flashlight."
 
 #. Name of application. Can be localized. OI = OpenIntents should stay unmodified.
 #: tmp_strings.xml:17(string)
@@ -55,17 +56,9 @@ msgstr "О. И. Палитра"
 msgid "Preferences"
 msgstr "Настройки"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr "Сохранить цвет"
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr "Сохранить цвет для следующего запуска Flashlight"
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but 
 #. 		user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
@@ -73,19 +66,43 @@ msgstr ""
 "Для того, чтобы Color Picker был более полезным для других разработчиков, мы "
 "отделили его в отдельное приложение."
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
 msgstr "Использование вспышки"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
 msgstr "Используйте вспышку вместо подсветки экрана."
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
 msgstr "Нажмите для включения света камеры (это может занять секунду)."
 
-#: tmp_strings.xml:48(string)
+#: tmp_strings.xml:46(string)
 msgid "Press to disable camera light."
 msgstr "Нажмите, чтобы отключить вспышку."
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr ""
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+
+#: tmp_strings.xml:51(item)
+#, fuzzy
+msgid "Keep Color"
+msgstr "Сохранить цвет"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr ""
+
+
+

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Neta Oren <Unknown>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,8 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Neta Oren https://launchpad.net/~netao212\n"
-"  OpenIntents devs https://launchpad.net/~openintents-devs"
+"  OpenIntents devs https://launchpad.net/~openintents-devs\n"
+"  Yaron https://launchpad.net/~sh-yaron"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:11(string)
@@ -54,17 +55,9 @@ msgstr "בחור צבעים OI"
 msgid "Preferences"
 msgstr "העדפות"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr "שמור צבע"
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr "שמור צבע לפעם הבאה שיישום פנס יפתח"
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but 
 #. 		user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
@@ -72,19 +65,43 @@ msgstr ""
 "כדי להפוך את בוחר הצבעים ליותר שימושי למפתחים אחרים , אנחנו פיצלנו אותו "
 "ליישום משלו."
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
 msgstr "השתמש בפלאש של מצלמה"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
 msgstr "השתמש בפלאש של מצלמה במקום בפנס האחורי של המסך."
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
 msgstr "לחץ כדי לאפשר אור מצלמה (יכול לקחת שנייה)."
 
-#: tmp_strings.xml:48(string)
+#: tmp_strings.xml:46(string)
 msgid "Press to disable camera light."
 msgstr "לחץ כדי לבטל אור מצלמה."
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr ""
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+
+#: tmp_strings.xml:51(item)
+#, fuzzy
+msgid "Keep Color"
+msgstr "שמור צבע"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr ""
+
+
+

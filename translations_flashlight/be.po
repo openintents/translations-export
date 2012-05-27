@@ -54,17 +54,9 @@ msgstr "OI Палітра"
 msgid "Preferences"
 msgstr "Наладкі"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr "Захаваць колер"
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr "Захаваць колер для наступнага запуску Flashlight"
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but 
 #. 		user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
@@ -72,19 +64,43 @@ msgstr ""
 "Каб зрабіць палітру больш зручнай для іншых распрацоўнікаў, мы вылучылі яе ў "
 "асобнае прыкладанне."
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
 msgstr "Выкарыстоўваць ўспышку камеры"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
 msgstr "Выкарыстоўваць ўспышку камеры замест падсветкі экрана."
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
 msgstr "Дакраніцеся, каб уключыць успышку камеры (Можа заняць секунду)."
 
-#: tmp_strings.xml:48(string)
+#: tmp_strings.xml:46(string)
 msgid "Press to disable camera light."
 msgstr "Дакраніцеся, каб выключыць успышку камеры."
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr ""
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+
+#: tmp_strings.xml:51(item)
+#, fuzzy
+msgid "Keep Color"
+msgstr "Захаваць колер"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr ""
+
+
+

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Maarten de Vries <maarten.k.de.vries@gmail.com>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -23,6 +23,7 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
+"  Maarten de Vries https://launchpad.net/~maarten-k-de-vries\n"
 "  Menno Vogel https://launchpad.net/~mennovogel90\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
@@ -119,15 +120,15 @@ msgstr "Arabisch"
 
 #: tmp_strings.xml:80(item)
 msgid "Belarusian"
-msgstr ""
+msgstr "Wit-Russisch (Belarussisch)"
 
 #: tmp_strings.xml:81(item)
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgaars"
 
 #: tmp_strings.xml:82(item)
 msgid "Catalan"
-msgstr ""
+msgstr "Catalaans"
 
 #: tmp_strings.xml:83(item)
 msgid "Czech"
@@ -151,7 +152,7 @@ msgstr "Engels"
 
 #: tmp_strings.xml:88(item)
 msgid "English (United Kingdom)"
-msgstr ""
+msgstr "Engels (Verenigd Koninkrijk)"
 
 #: tmp_strings.xml:89(item)
 msgid "Spanish"
@@ -175,7 +176,7 @@ msgstr "Frans"
 
 #: tmp_strings.xml:94(item)
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 #: tmp_strings.xml:95(item)
 msgid "Croatian"
@@ -191,7 +192,7 @@ msgstr "Italiaans"
 
 #: tmp_strings.xml:98(item)
 msgid "Hebrew"
-msgstr ""
+msgstr "Hebreeuws"
 
 #: tmp_strings.xml:99(item)
 msgid "Japanese"
@@ -207,15 +208,15 @@ msgstr "Laotiaans"
 
 #: tmp_strings.xml:102(item)
 msgid "Latvian"
-msgstr ""
+msgstr "Lets"
 
 #: tmp_strings.xml:103(item)
 msgid "Macedonian"
-msgstr ""
+msgstr "Macedonisch"
 
 #: tmp_strings.xml:104(item)
 msgid "Norwegian Bokmal"
-msgstr ""
+msgstr "Noors Bokmål"
 
 #: tmp_strings.xml:105(item)
 msgid "Dutch"
@@ -227,7 +228,7 @@ msgstr "Occitaans (na 1500)"
 
 #: tmp_strings.xml:107(item)
 msgid "Punjabi"
-msgstr ""
+msgstr "Punjabi"
 
 #: tmp_strings.xml:108(item)
 msgid "Polish"
@@ -255,7 +256,7 @@ msgstr "Sardisch"
 
 #: tmp_strings.xml:114(item)
 msgid "Sindhi"
-msgstr ""
+msgstr "Sindhi"
 
 #: tmp_strings.xml:115(item)
 msgid "Slovak"
@@ -263,7 +264,7 @@ msgstr "Slowaaks"
 
 #: tmp_strings.xml:116(item)
 msgid "Slovenian"
-msgstr ""
+msgstr "Sloveens"
 
 #: tmp_strings.xml:117(item)
 msgid "Swedish"
@@ -271,7 +272,7 @@ msgstr "Zweeds"
 
 #: tmp_strings.xml:118(item)
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: tmp_strings.xml:119(item)
 msgid "Turkish"

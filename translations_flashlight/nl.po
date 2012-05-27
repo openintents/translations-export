@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Peli <peli0101@googlemail.com>\n"
+"Last-Translator: Maarten de Vries <maarten.k.de.vries@gmail.com>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -24,12 +24,15 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Henk van der Velden https://launchpad.net/~henkvandervelden86\n"
+"  Maarten de Vries https://launchpad.net/~maarten-k-de-vries\n"
 "  Peli https://launchpad.net/~peli0101"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:11(string)
 msgid "Keep the camera flash or the backlight turned on with OI Flashlight."
 msgstr ""
+"Laat de flitser van je camera of het backlight van je scherm aan met OI "
+"Flashlight."
 
 #. Name of application. Can be localized. OI = OpenIntents should stay unmodified.
 #: tmp_strings.xml:17(string)
@@ -54,19 +57,9 @@ msgstr "OI Kleurenkiezer"
 msgid "Preferences"
 msgstr "Instellingen"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr "Bewaar kleur"
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr ""
-"Sla de kleur op voor de volgende keer de Flashlight-toepassing wordt "
-"opgestart"
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but 
 #. 		user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
@@ -74,19 +67,45 @@ msgstr ""
 "Om de kleurenkiezer bruikbaar te maken voor andere ontwikkelaars, hebben we "
 "onze eigen applicatie opgesplitst."
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
-msgstr ""
+msgstr "Flitser van de camera gebruiken"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
-msgstr ""
+msgstr "Flitser van de camera gebruiken in plaats van backlight scherm"
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
+msgstr "Drukken om flitser in te schakelen (kan even duren)."
+
+#: tmp_strings.xml:46(string)
+msgid "Press to disable camera light."
+msgstr "Drukken om flitser uit te schakelen."
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
 msgstr ""
 
 #: tmp_strings.xml:48(string)
-msgid "Press to disable camera light."
+msgid "Choose either to remember color or to display random colors"
 msgstr ""
+
+#: tmp_strings.xml:51(item)
+#, fuzzy
+msgid "Keep Color"
+msgstr "Bewaar kleur"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr ""
+
+
+
+
+

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Abdessamad Derraz <derraz.abdessamad@gmail.com>\n"
+"Last-Translator: Tanguy Herrmann <Unknown>\n"
 "Language-Team: French <fr@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,7 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Abdessamad Derraz https://launchpad.net/~derraz\n"
+"  Tanguy Herrmann https://launchpad.net/~dolanor\n"
 "  Yakari https://launchpad.net/~yakari"
 
 #. Explanation what this application does. It is a menu extension for other applications.
@@ -118,15 +119,15 @@ msgstr "Arabe"
 
 #: tmp_strings.xml:80(item)
 msgid "Belarusian"
-msgstr ""
+msgstr "Biélorusse"
 
 #: tmp_strings.xml:81(item)
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgare"
 
 #: tmp_strings.xml:82(item)
 msgid "Catalan"
-msgstr ""
+msgstr "Catalan"
 
 #: tmp_strings.xml:83(item)
 msgid "Czech"
@@ -150,7 +151,7 @@ msgstr "Anglaise"
 
 #: tmp_strings.xml:88(item)
 msgid "English (United Kingdom)"
-msgstr ""
+msgstr "Anglais (Royaume-Uni)"
 
 #: tmp_strings.xml:89(item)
 msgid "Spanish"
@@ -174,7 +175,7 @@ msgstr "Française"
 
 #: tmp_strings.xml:94(item)
 msgid "Hindi"
-msgstr ""
+msgstr "Hindî"
 
 #: tmp_strings.xml:95(item)
 msgid "Croatian"
@@ -190,7 +191,7 @@ msgstr "Italienne"
 
 #: tmp_strings.xml:98(item)
 msgid "Hebrew"
-msgstr ""
+msgstr "Hébreu"
 
 #: tmp_strings.xml:99(item)
 msgid "Japanese"
@@ -206,15 +207,15 @@ msgstr "laoSuède"
 
 #: tmp_strings.xml:102(item)
 msgid "Latvian"
-msgstr ""
+msgstr "Letton"
 
 #: tmp_strings.xml:103(item)
 msgid "Macedonian"
-msgstr ""
+msgstr "Macédonien"
 
 #: tmp_strings.xml:104(item)
 msgid "Norwegian Bokmal"
-msgstr ""
+msgstr "Norvégien « Bokmal »"
 
 #: tmp_strings.xml:105(item)
 msgid "Dutch"
@@ -226,7 +227,7 @@ msgstr "Occitan (post 1500)"
 
 #: tmp_strings.xml:107(item)
 msgid "Punjabi"
-msgstr ""
+msgstr "Punjabi"
 
 #: tmp_strings.xml:108(item)
 msgid "Polish"
@@ -254,7 +255,7 @@ msgstr "Sardaigne"
 
 #: tmp_strings.xml:114(item)
 msgid "Sindhi"
-msgstr ""
+msgstr "Sindhî"
 
 #: tmp_strings.xml:115(item)
 msgid "Slovak"
@@ -262,7 +263,7 @@ msgstr "Slovaques"
 
 #: tmp_strings.xml:116(item)
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovène"
 
 #: tmp_strings.xml:117(item)
 msgid "Swedish"
@@ -270,7 +271,7 @@ msgstr "Suède"
 
 #: tmp_strings.xml:118(item)
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: tmp_strings.xml:119(item)
 msgid "Turkish"
@@ -278,7 +279,7 @@ msgstr "Turque"
 
 #: tmp_strings.xml:120(item)
 msgid "Uyghur"
-msgstr ""
+msgstr "Ouïghour"
 
 #: tmp_strings.xml:121(item)
 msgid "Chinese (Simplified)"

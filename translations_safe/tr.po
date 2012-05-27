@@ -48,7 +48,7 @@ msgstr "Bu katagori için şifre hazırlanmamış."
 msgid "No categories present. Please add one via Menu-&gt;Add"
 msgstr "Katagori yok. Lütfen menü aracılığıyla bir tane -&gt ekleyin."
 
-#: tmp_strings.xml:37(string) tmp_strings.xml:206(string)
+#: tmp_strings.xml:37(string) tmp_strings.xml:205(string)
 msgid "Lock"
 msgstr "Kilitle"
 
@@ -445,55 +445,51 @@ msgid "Version not supported: %s"
 msgstr "Sürüm desteklenmiyor: %s"
 
 #: tmp_strings.xml:130(string)
-msgid "Restore error."
-msgstr "Geri yükleme hatası"
-
-#: tmp_strings.xml:131(string)
 msgid "Bad password."
 msgstr "Kötü parola."
 
-#: tmp_strings.xml:132(string)
+#: tmp_strings.xml:131(string)
 msgid "Restore Database"
 msgstr "Geri yükleme veri tabanı"
 
-#: tmp_strings.xml:133(string)
+#: tmp_strings.xml:132(string)
 msgid "Are you sure you want to replace the current data?"
 msgstr "Şuan kullanılan veri tabanının değiştirilmesini istiyor musunuz?"
 
-#: tmp_strings.xml:134(string)
+#: tmp_strings.xml:133(string)
 msgid "Found %1$s passwords from backup dated %2$s."
 msgstr "Yedekleme tarihinden %1$s şifresini bulun."
 
-#: tmp_strings.xml:135(string)
+#: tmp_strings.xml:134(string)
 msgid "Complete. Passwords restored: %s"
 msgstr "Tamamlandı.Şifre geri yükleme: %s"
 
-#: tmp_strings.xml:136(string)
+#: tmp_strings.xml:135(string)
 msgid "copied to Clipboard"
 msgstr "Panoya kopyalandı"
 
-#: tmp_strings.xml:137(string)
+#: tmp_strings.xml:136(string)
 msgid "Invalid website"
 msgstr "Geçersiz web sitesi"
 
-#: tmp_strings.xml:138(string)
+#: tmp_strings.xml:137(string)
 msgid "Database Error"
 msgstr "Veri tabanı hatası."
 
-#: tmp_strings.xml:139(string)
+#: tmp_strings.xml:138(string)
 msgid "Database error. Out of space?"
 msgstr "veri tabanı hatası.Alanın dışında."
 
 #. Menu label to open a category
-#: tmp_strings.xml:142(string)
+#: tmp_strings.xml:141(string)
 msgid "Open"
 msgstr "Aç"
 
-#: tmp_strings.xml:144(string)
+#: tmp_strings.xml:143(string)
 msgid "Database Version Error"
 msgstr "Veri tabanı sürüm hatası"
 
-#: tmp_strings.xml:145(string)
+#: tmp_strings.xml:144(string)
 msgid ""
 "Sorry, but the version of the database is not supported. You must install "
 "the version associated with this database."
@@ -502,218 +498,218 @@ msgstr ""
 "uyumlu sürümü yüklemek zorundasınız."
 
 #. Menu label to move a password to another category
-#: tmp_strings.xml:148(string)
+#: tmp_strings.xml:147(string)
 msgid "Move"
 msgstr "Taşı"
 
-#: tmp_strings.xml:150(string)
+#: tmp_strings.xml:149(string)
 msgid "Select Category"
 msgstr "Kategori seçin"
 
 #. Toast that password has been moved to another category
-#: tmp_strings.xml:153(string)
+#: tmp_strings.xml:152(string)
 msgid "Moved to %s"
 msgstr "%s taşındı"
 
-#: tmp_strings.xml:155(string)
+#: tmp_strings.xml:154(string)
 msgid "Settings"
 msgstr "Ayarlar"
 
-#: tmp_strings.xml:156(string)
+#: tmp_strings.xml:155(string)
 msgid "Allow external access"
 msgstr "Harici erişim izni"
 
-#: tmp_strings.xml:157(string)
+#: tmp_strings.xml:156(string)
 msgid "Allow other applications to secure your data with OI Safe"
 msgstr "Diğer uygulamalara OI Kasa ile verilerini korumaları için izin ver"
 
-#: tmp_strings.xml:158(string)
+#: tmp_strings.xml:157(string)
 msgid "OI Safe: Another application requests access."
 msgstr "OI Kasa: Başka bir uygulamanın erişim talebi."
 
-#: tmp_strings.xml:159(string)
+#: tmp_strings.xml:158(string)
 msgid "Allow other applications to secure your data with OI Safe."
 msgstr "Diğer uygulamalara OI Kasa ile verilerini korumaları için izin ver"
 
-#: tmp_strings.xml:160(string)
+#: tmp_strings.xml:159(string)
 msgid "This can also be set in OI Safe's Menu / Settings."
 msgstr "Bu aynı zamanda OI Kasa  Menu/Ayarlar ayarlanabilir."
 
 #. Preference title for auto lock timeout
-#: tmp_strings.xml:163(string) tmp_strings.xml:168(string)
+#: tmp_strings.xml:162(string) tmp_strings.xml:167(string)
 msgid "Auto lock timeout"
 msgstr "Otomatik kilit zaman aşımı"
 
 #. Preference summary for auto lock timeout
-#: tmp_strings.xml:166(string)
+#: tmp_strings.xml:165(string)
 msgid "Number of minutes before timeout occurs and safe is locked"
 msgstr ""
 "Sürenin dolmasından ve kasanın kilitlenmesinden önceki kalan dakika sayısı."
 
 #. Preference title for lock (OI Safe) on screen lock (device)
-#: tmp_strings.xml:171(string)
+#: tmp_strings.xml:170(string)
 msgid "Lock on screen lock"
 msgstr "Ekran kilidini kilitle"
 
 #. Preference summary for lock (OI Safe) on screen lock
-#: tmp_strings.xml:174(string)
+#: tmp_strings.xml:173(string)
 msgid "Lock when the screen locks"
 msgstr "Ekran kilitliyken  kilitler"
 
 #. Preference title: use a numeric keypad to enter the password
-#: tmp_strings.xml:177(string)
+#: tmp_strings.xml:176(string)
 msgid "Keypad"
 msgstr "Tuş takımı"
 
 #. Preference summary: for a numeric keypad
-#: tmp_strings.xml:180(string)
+#: tmp_strings.xml:179(string)
 msgid "Use a keypad to enter Master Password"
 msgstr "Ana şifreyi girmek için tuş takımını kullanın."
 
 #. Preference title for keypad mute
-#: tmp_strings.xml:183(string)
+#: tmp_strings.xml:182(string)
 msgid "Keypad Mute"
 msgstr "Tuş takımı Sessiz"
 
 #. Preference summary: Make the keypad sounds mute. 
 #. 	     If a user chooses this, then the keypad does not sound when pressing the keys.
-#: tmp_strings.xml:187(string)
+#: tmp_strings.xml:186(string)
 msgid "Mute keypad sounds"
 msgstr "Tuş takımının sesini kapatın"
 
-#: tmp_strings.xml:189(string)
+#: tmp_strings.xml:188(string)
 msgid "Auto backup"
 msgstr "Otomatik yedekleme"
 
-#: tmp_strings.xml:190(string)
+#: tmp_strings.xml:189(string)
 msgid "Automatically prompt to backup passwords"
 msgstr "Yedekleme şifresini otomatik olarak iste"
 
-#: tmp_strings.xml:192(string)
+#: tmp_strings.xml:191(string)
 msgid "Auto backup days"
 msgstr "Otomatik yedekleme günü"
 
-#: tmp_strings.xml:193(string)
+#: tmp_strings.xml:192(string)
 msgid "Number of days to wait before next auto backup"
 msgstr "Bir sonraki yedeklemeye kalan gün sayısı."
 
-#: tmp_strings.xml:194(string)
+#: tmp_strings.xml:193(string)
 msgid "Auto Backup Days"
 msgstr "Otomatik Yedekleme Günü"
 
-#: tmp_strings.xml:196(string)
+#: tmp_strings.xml:195(string)
 msgid "Default backup path"
 msgstr ""
 
-#: tmp_strings.xml:197(string)
+#: tmp_strings.xml:196(string)
 msgid "Default export path"
 msgstr ""
 
-#: tmp_strings.xml:200(string)
+#: tmp_strings.xml:199(string)
 msgid "Decrypt (OI Safe)"
 msgstr "Şifreyi Çözmek(OI Kasa)"
 
-#: tmp_strings.xml:201(string)
+#: tmp_strings.xml:200(string)
 msgid "Encrypt (OI Safe)"
 msgstr "Şifrelemek(OI Kasa)"
 
-#: tmp_strings.xml:202(string)
+#: tmp_strings.xml:201(string)
 msgid "Get password (OI Safe)"
 msgstr "Şifreyi alın (OI Kasa)"
 
-#: tmp_strings.xml:203(string)
+#: tmp_strings.xml:202(string)
 msgid "Set password (OI Safe)"
 msgstr "Şifreyi ayarlayın(OI Kasa)"
 
-#: tmp_strings.xml:204(string)
+#: tmp_strings.xml:203(string)
 msgid "Restart timer (OI Safe)"
 msgstr "Yeniden başlatma zamanlayıcısı(OI Kasa)"
 
-#: tmp_strings.xml:205(string)
+#: tmp_strings.xml:204(string)
 msgid "Open OI Safe"
 msgstr "OI Kasayı aç."
 
-#: tmp_strings.xml:207(string)
+#: tmp_strings.xml:206(string)
 msgid "Continue"
 msgstr "Devam et"
 
-#: tmp_strings.xml:208(string)
+#: tmp_strings.xml:207(string)
 msgid "Generate Password"
 msgstr "Parola oluştur"
 
-#: tmp_strings.xml:209(string)
+#: tmp_strings.xml:208(string)
 msgid "Password Length"
 msgstr "Parola uzunluğu"
 
-#: tmp_strings.xml:210(string)
+#: tmp_strings.xml:209(string)
 msgid "Uppercase [A-Z]"
 msgstr "Büyük [A-Z]"
 
-#: tmp_strings.xml:211(string)
+#: tmp_strings.xml:210(string)
 msgid "Lowercase [a-z]"
 msgstr "Küçük [a-z]"
 
-#: tmp_strings.xml:212(string)
+#: tmp_strings.xml:211(string)
 msgid "Numbers [0-9]"
 msgstr "Sayılar [0-9]"
 
-#: tmp_strings.xml:213(string)
+#: tmp_strings.xml:212(string)
 msgid "Symbols [!@#$%^\\*]"
 msgstr "Semboller [!@#$%^\\*]"
 
-#: tmp_strings.xml:214(string)
+#: tmp_strings.xml:213(string)
 msgid "Copy to Current Entry"
 msgstr "Şuanki girdiyi koyalayın"
 
-#: tmp_strings.xml:215(string)
+#: tmp_strings.xml:214(string)
 msgid "Copy to Clipboard"
 msgstr "Panoya Kopyala"
 
-#: tmp_strings.xml:216(string)
+#: tmp_strings.xml:215(string)
 msgid "Cancel"
 msgstr "İptal"
 
-#: tmp_strings.xml:217(string)
+#: tmp_strings.xml:216(string)
 msgid "Discard changes"
 msgstr "Değişikleri kaydetme."
 
-#: tmp_strings.xml:218(string)
+#: tmp_strings.xml:217(string)
 msgid "Entry saved"
 msgstr "Girdiler kaydedildi."
 
-#: tmp_strings.xml:219(string)
+#: tmp_strings.xml:218(string)
 msgid "Unable to save due to database error"
 msgstr "Veri tabanı hatasından dolayı kaydedilemiyor."
 
-#: tmp_strings.xml:220(string)
+#: tmp_strings.xml:219(string)
 msgid "Last edited"
 msgstr "Son düzenleme"
 
-#: tmp_strings.xml:221(string)
+#: tmp_strings.xml:220(string)
 msgid "unknown"
 msgstr "bilinmiyor"
 
-#: tmp_strings.xml:222(string)
+#: tmp_strings.xml:221(string)
 msgid "Crypto error:"
 msgstr "Şifreleme hatası:"
 
-#: tmp_strings.xml:223(string)
+#: tmp_strings.xml:222(string)
 msgid "Unique name"
 msgstr "Ad"
 
-#: tmp_strings.xml:224(string)
+#: tmp_strings.xml:223(string)
 msgid "Package access"
 msgstr "Paket erişimi"
 
-#: tmp_strings.xml:225(string)
+#: tmp_strings.xml:224(string)
 msgid "not found"
 msgstr "bulunamadı"
 
-#: tmp_strings.xml:226(string)
+#: tmp_strings.xml:225(string)
 msgid "New master key"
 msgstr "Yeni Ana anahtar"
 
-#: tmp_strings.xml:227(string)
+#: tmp_strings.xml:226(string)
 msgid ""
 "A new random master key has been created. Use menu &gt; backup and store "
 "this key in a safe place. Without this key you may lose encrypted data."
@@ -722,126 +718,131 @@ msgstr ""
 "güvenli bir yere yedekle ve depola. Bu anahtarsız  şifrelenmiş veriyi "
 "kaybedebilirsiniz."
 
-#: tmp_strings.xml:228(string)
+#: tmp_strings.xml:227(string)
 msgid "Switch mode"
 msgstr "Modu değiştirin."
 
-#: tmp_strings.xml:229(string)
+#: tmp_strings.xml:228(string)
 msgid "Decrypting..."
 msgstr "Şifre çözülüyor."
 
-#: tmp_strings.xml:230(string)
+#: tmp_strings.xml:229(string)
 msgid "Search"
 msgstr "Ara"
 
-#: tmp_strings.xml:231(string)
+#: tmp_strings.xml:230(string)
 msgid "Searching..."
 msgstr "Aranıyor..."
 
-#: tmp_strings.xml:232(string)
+#: tmp_strings.xml:231(string)
 msgid "Type search criteria"
 msgstr "Arama kriteri yazın."
 
-#: tmp_strings.xml:233(string)
+#: tmp_strings.xml:232(string)
 msgid "Nothing found"
 msgstr "Hiç bir şey bulunamadı"
 
-#: tmp_strings.xml:234(string)
+#: tmp_strings.xml:233(string)
 msgid "Mute"
 msgstr "Sessiz"
 
-#: tmp_strings.xml:235(string)
+#: tmp_strings.xml:234(string)
 msgid "Sounds"
 msgstr "Sesler"
 
-#: tmp_strings.xml:236(string)
+#: tmp_strings.xml:235(string)
 msgid "Previous"
 msgstr "Önceki"
 
-#: tmp_strings.xml:237(string)
+#: tmp_strings.xml:236(string)
 msgid "Next"
 msgstr "Sonraki"
 
-#: tmp_strings.xml:238(string)
+#: tmp_strings.xml:237(string)
 msgid "AutoBackup"
 msgstr "Otomatik yedekleme"
 
-#: tmp_strings.xml:239(string)
+#: tmp_strings.xml:238(string)
 msgid "No backup has been performed yet. Would you like to backup now?"
 msgstr ""
 "Henüz hiç bir yedekleme yapılmadı .Şimdi yedekleme yapmak istiyor musunuz?"
 
-#: tmp_strings.xml:240(string)
+#: tmp_strings.xml:239(string)
 msgid "The last backup was %d days ago. Would you like to backup now?"
 msgstr "Son yedeklem %d gün önce yapıldı.Şimdi yedekleme yapmak istermisiniz?"
 
-#: tmp_strings.xml:241(string)
+#: tmp_strings.xml:240(string)
 msgid "Turn off autobackup"
 msgstr "Otomatik yedeklemeyi kapatma."
 
-#: tmp_strings.xml:242(string)
+#: tmp_strings.xml:241(string)
 msgid "Time to autolock: %s"
 msgstr ""
 
-#: tmp_strings.xml:243(string)
+#: tmp_strings.xml:242(string)
 msgid "While not downloaded, default location will be used."
 msgstr ""
 
-#: tmp_strings.xml:244(string)
+#: tmp_strings.xml:243(string)
 msgid "A backup file was found. Would you like to restore it?"
 msgstr ""
 
-#: tmp_strings.xml:245(string)
+#: tmp_strings.xml:244(string)
 msgid "Backup file found"
 msgstr ""
 
-#: tmp_strings.xml:246(string)
+#: tmp_strings.xml:245(string)
 msgid "0"
 msgstr ""
 
-#: tmp_strings.xml:247(string)
+#: tmp_strings.xml:246(string)
 msgid "1"
 msgstr ""
 
-#: tmp_strings.xml:248(string)
+#: tmp_strings.xml:247(string)
 msgid "2"
 msgstr ""
 
-#: tmp_strings.xml:249(string)
+#: tmp_strings.xml:248(string)
 msgid "3"
 msgstr ""
 
-#: tmp_strings.xml:250(string)
+#: tmp_strings.xml:249(string)
 msgid "4"
 msgstr ""
 
-#: tmp_strings.xml:251(string)
+#: tmp_strings.xml:250(string)
 msgid "5"
 msgstr ""
 
-#: tmp_strings.xml:252(string)
+#: tmp_strings.xml:251(string)
 msgid "6"
 msgstr ""
 
-#: tmp_strings.xml:253(string)
+#: tmp_strings.xml:252(string)
 msgid "7"
 msgstr ""
 
-#: tmp_strings.xml:254(string)
+#: tmp_strings.xml:253(string)
 msgid "8"
 msgstr ""
 
-#: tmp_strings.xml:255(string)
+#: tmp_strings.xml:254(string)
 msgid "9"
 msgstr ""
 
-#: tmp_strings.xml:256(string)
+#: tmp_strings.xml:255(string)
 msgid "#"
 msgstr ""
 
-#: tmp_strings.xml:257(string)
+#: tmp_strings.xml:256(string)
 msgid "*"
 msgstr ""
+
+#: tmp_strings.xml:257(string)
+#, fuzzy
+msgid "Invalid URL"
+msgstr "Geçersiz web sitesi"
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -904,3 +905,6 @@ msgstr "30 gün"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 gün"
+
+
+

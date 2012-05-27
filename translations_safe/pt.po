@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Sérgio Marques <Unknown>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,7 @@ msgstr "Não existem senhas nesta categoria."
 msgid "No categories present. Please add one via Menu-&gt;Add"
 msgstr "Não existem categorias. Adicione-as através do menu &gt;Adicionar"
 
-#: tmp_strings.xml:37(string) tmp_strings.xml:206(string)
+#: tmp_strings.xml:37(string) tmp_strings.xml:205(string)
 msgid "Lock"
 msgstr "Bloquear"
 
@@ -446,55 +446,51 @@ msgid "Version not supported: %s"
 msgstr "Versão não suportada: %s"
 
 #: tmp_strings.xml:130(string)
-msgid "Restore error."
-msgstr "Erro ao restaurar."
-
-#: tmp_strings.xml:131(string)
 msgid "Bad password."
 msgstr "Senha inválida."
 
-#: tmp_strings.xml:132(string)
+#: tmp_strings.xml:131(string)
 msgid "Restore Database"
 msgstr "Restaurar base de dados"
 
-#: tmp_strings.xml:133(string)
+#: tmp_strings.xml:132(string)
 msgid "Are you sure you want to replace the current data?"
 msgstr "tem a certeza que pretende substituir os dados existentes?"
 
-#: tmp_strings.xml:134(string)
+#: tmp_strings.xml:133(string)
 msgid "Found %1$s passwords from backup dated %2$s."
 msgstr "Encontradas %1$s senhas na cópia de segurança com data de %2$s."
 
-#: tmp_strings.xml:135(string)
+#: tmp_strings.xml:134(string)
 msgid "Complete. Passwords restored: %s"
 msgstr "Terminado. Senhas restauradas: %s"
 
-#: tmp_strings.xml:136(string)
+#: tmp_strings.xml:135(string)
 msgid "copied to Clipboard"
 msgstr "Copiado para a área de transferência"
 
-#: tmp_strings.xml:137(string)
+#: tmp_strings.xml:136(string)
 msgid "Invalid website"
 msgstr "Página web inválida"
 
-#: tmp_strings.xml:138(string)
+#: tmp_strings.xml:137(string)
 msgid "Database Error"
 msgstr "Erro na base de dados"
 
-#: tmp_strings.xml:139(string)
+#: tmp_strings.xml:138(string)
 msgid "Database error. Out of space?"
 msgstr "Erro na base de dados. Possui espaço?"
 
 #. Menu label to open a category
-#: tmp_strings.xml:142(string)
+#: tmp_strings.xml:141(string)
 msgid "Open"
 msgstr "Abrir"
 
-#: tmp_strings.xml:144(string)
+#: tmp_strings.xml:143(string)
 msgid "Database Version Error"
 msgstr "Erro na versão da base de dados"
 
-#: tmp_strings.xml:145(string)
+#: tmp_strings.xml:144(string)
 msgid ""
 "Sorry, but the version of the database is not supported. You must install "
 "the version associated with this database."
@@ -503,343 +499,350 @@ msgstr ""
 "associada a esta base de dados."
 
 #. Menu label to move a password to another category
-#: tmp_strings.xml:148(string)
+#: tmp_strings.xml:147(string)
 msgid "Move"
 msgstr "Mover"
 
-#: tmp_strings.xml:150(string)
+#: tmp_strings.xml:149(string)
 msgid "Select Category"
 msgstr "Selecione a categoria"
 
 #. Toast that password has been moved to another category
-#: tmp_strings.xml:153(string)
+#: tmp_strings.xml:152(string)
 msgid "Moved to %s"
 msgstr "Movida para %s"
 
-#: tmp_strings.xml:155(string)
+#: tmp_strings.xml:154(string)
 msgid "Settings"
 msgstr "Definições"
 
-#: tmp_strings.xml:156(string)
+#: tmp_strings.xml:155(string)
 msgid "Allow external access"
 msgstr "Permitir acesso externo"
 
-#: tmp_strings.xml:157(string)
+#: tmp_strings.xml:156(string)
 msgid "Allow other applications to secure your data with OI Safe"
 msgstr "Permitir que outras aplicações utilizem o OI Safe."
 
-#: tmp_strings.xml:158(string)
+#: tmp_strings.xml:157(string)
 msgid "OI Safe: Another application requests access."
 msgstr "OI Safe: outra aplicação a solicitar acesso."
 
-#: tmp_strings.xml:159(string)
+#: tmp_strings.xml:158(string)
 msgid "Allow other applications to secure your data with OI Safe."
 msgstr "Permitir que outras aplicações utilizem o OI Safe."
 
-#: tmp_strings.xml:160(string)
+#: tmp_strings.xml:159(string)
 msgid "This can also be set in OI Safe's Menu / Settings."
 msgstr "Isto também pode ser feito nas definições do OI Safe."
 
 #. Preference title for auto lock timeout
-#: tmp_strings.xml:163(string) tmp_strings.xml:168(string)
+#: tmp_strings.xml:162(string) tmp_strings.xml:167(string)
 msgid "Auto lock timeout"
 msgstr "Bloqueio automático"
 
 #. Preference summary for auto lock timeout
-#: tmp_strings.xml:166(string)
+#: tmp_strings.xml:165(string)
 msgid "Number of minutes before timeout occurs and safe is locked"
 msgstr "N.º de minutos para que seja efetuado o bloqueio automaticamente"
 
 #. Preference title for lock (OI Safe) on screen lock (device)
-#: tmp_strings.xml:171(string)
+#: tmp_strings.xml:170(string)
 msgid "Lock on screen lock"
 msgstr "Bloquear ao bloquear o ecrã"
 
 #. Preference summary for lock (OI Safe) on screen lock
-#: tmp_strings.xml:174(string)
+#: tmp_strings.xml:173(string)
 msgid "Lock when the screen locks"
 msgstr "Bloquear quando o ecrã é bloqueado"
 
 #. Preference title: use a numeric keypad to enter the password
-#: tmp_strings.xml:177(string)
+#: tmp_strings.xml:176(string)
 msgid "Keypad"
 msgstr "Teclado numérico"
 
 #. Preference summary: for a numeric keypad
-#: tmp_strings.xml:180(string)
+#: tmp_strings.xml:179(string)
 msgid "Use a keypad to enter Master Password"
 msgstr "Utilizar teclado numérico para indicar a senha principal"
 
 #. Preference title for keypad mute
-#: tmp_strings.xml:183(string)
+#: tmp_strings.xml:182(string)
 msgid "Keypad Mute"
 msgstr "Silenciar teclado numérico"
 
 #. Preference summary: Make the keypad sounds mute. 
 #. 	     If a user chooses this, then the keypad does not sound when pressing the keys.
-#: tmp_strings.xml:187(string)
+#: tmp_strings.xml:186(string)
 msgid "Mute keypad sounds"
 msgstr "Silenciar sons do teclado"
 
-#: tmp_strings.xml:189(string)
+#: tmp_strings.xml:188(string)
 msgid "Auto backup"
 msgstr "Cópia de segurança automática"
 
-#: tmp_strings.xml:190(string)
+#: tmp_strings.xml:189(string)
 msgid "Automatically prompt to backup passwords"
 msgstr "Solicitar gravação de senhas automaticamente"
 
-#: tmp_strings.xml:192(string)
+#: tmp_strings.xml:191(string)
 msgid "Auto backup days"
 msgstr "Dias de cópia"
 
-#: tmp_strings.xml:193(string)
+#: tmp_strings.xml:192(string)
 msgid "Number of days to wait before next auto backup"
 msgstr "Número de dias antes da nova cópia de segurança"
 
-#: tmp_strings.xml:194(string)
+#: tmp_strings.xml:193(string)
 msgid "Auto Backup Days"
 msgstr "Dias de cópia"
 
-#: tmp_strings.xml:196(string)
+#: tmp_strings.xml:195(string)
 msgid "Default backup path"
 msgstr "Caminho padrão das cópias"
 
-#: tmp_strings.xml:197(string)
+#: tmp_strings.xml:196(string)
 msgid "Default export path"
 msgstr "Caminho padrão da exportação"
 
-#: tmp_strings.xml:200(string)
+#: tmp_strings.xml:199(string)
 msgid "Decrypt (OI Safe)"
 msgstr "Descodificar (OI Safe)"
 
-#: tmp_strings.xml:201(string)
+#: tmp_strings.xml:200(string)
 msgid "Encrypt (OI Safe)"
 msgstr "Codificar (OI Safe)"
 
-#: tmp_strings.xml:202(string)
+#: tmp_strings.xml:201(string)
 msgid "Get password (OI Safe)"
 msgstr "Obter senha (OI Safe)"
 
-#: tmp_strings.xml:203(string)
+#: tmp_strings.xml:202(string)
 msgid "Set password (OI Safe)"
 msgstr "Definir senha (OI Safe)"
 
-#: tmp_strings.xml:204(string)
+#: tmp_strings.xml:203(string)
 msgid "Restart timer (OI Safe)"
 msgstr "Reiniciar temporizador (OI Safe)"
 
-#: tmp_strings.xml:205(string)
+#: tmp_strings.xml:204(string)
 msgid "Open OI Safe"
 msgstr "Abrir OI Safe"
 
-#: tmp_strings.xml:207(string)
+#: tmp_strings.xml:206(string)
 msgid "Continue"
 msgstr "Continuar"
 
-#: tmp_strings.xml:208(string)
+#: tmp_strings.xml:207(string)
 msgid "Generate Password"
 msgstr "Gerar senha"
 
-#: tmp_strings.xml:209(string)
+#: tmp_strings.xml:208(string)
 msgid "Password Length"
 msgstr "Tamanho da senha"
 
-#: tmp_strings.xml:210(string)
+#: tmp_strings.xml:209(string)
 msgid "Uppercase [A-Z]"
 msgstr "Maiúsculas [A-Z]"
 
-#: tmp_strings.xml:211(string)
+#: tmp_strings.xml:210(string)
 msgid "Lowercase [a-z]"
 msgstr "Minúsculas [a-z]"
 
-#: tmp_strings.xml:212(string)
+#: tmp_strings.xml:211(string)
 msgid "Numbers [0-9]"
 msgstr "Números [0-9]"
 
-#: tmp_strings.xml:213(string)
+#: tmp_strings.xml:212(string)
 msgid "Symbols [!@#$%^\\*]"
 msgstr "Símbolos [!@#$%^\\*]"
 
-#: tmp_strings.xml:214(string)
+#: tmp_strings.xml:213(string)
 msgid "Copy to Current Entry"
 msgstr "Copiar para a entrada atual"
 
-#: tmp_strings.xml:215(string)
+#: tmp_strings.xml:214(string)
 msgid "Copy to Clipboard"
 msgstr "Copiar para a área de transferência"
 
-#: tmp_strings.xml:216(string)
+#: tmp_strings.xml:215(string)
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: tmp_strings.xml:217(string)
+#: tmp_strings.xml:216(string)
 msgid "Discard changes"
 msgstr "Não guardar alterações"
 
-#: tmp_strings.xml:218(string)
+#: tmp_strings.xml:217(string)
 msgid "Entry saved"
 msgstr "Entrada gravada"
 
-#: tmp_strings.xml:219(string)
+#: tmp_strings.xml:218(string)
 msgid "Unable to save due to database error"
 msgstr "Incapaz de gravar - erro na base de dados"
 
-#: tmp_strings.xml:220(string)
+#: tmp_strings.xml:219(string)
 msgid "Last edited"
 msgstr "Última edição"
 
-#: tmp_strings.xml:221(string)
+#: tmp_strings.xml:220(string)
 msgid "unknown"
 msgstr "desconhecido"
 
-#: tmp_strings.xml:222(string)
+#: tmp_strings.xml:221(string)
 msgid "Crypto error:"
 msgstr "Erro de codificação:"
 
-#: tmp_strings.xml:223(string)
+#: tmp_strings.xml:222(string)
 msgid "Unique name"
 msgstr "Nome exclusivo"
 
-#: tmp_strings.xml:224(string)
+#: tmp_strings.xml:223(string)
 msgid "Package access"
 msgstr "Acesso ao pacote"
 
-#: tmp_strings.xml:225(string)
+#: tmp_strings.xml:224(string)
 msgid "not found"
 msgstr "não encontrado"
 
-#: tmp_strings.xml:226(string)
+#: tmp_strings.xml:225(string)
 msgid "New master key"
 msgstr "Nova chave principal"
 
-#: tmp_strings.xml:227(string)
+#: tmp_strings.xml:226(string)
 msgid ""
 "A new random master key has been created. Use menu &gt; backup and store "
 "this key in a safe place. Without this key you may lose encrypted data."
 msgstr ""
+"Foi criada uma nova senha principal. Utilize o menu para guardar esta senha "
+"num local seguro. Sem esta chave pode perder os dados codificados."
 
-#: tmp_strings.xml:228(string)
+#: tmp_strings.xml:227(string)
 msgid "Switch mode"
 msgstr "Trocar de modo"
 
-#: tmp_strings.xml:229(string)
+#: tmp_strings.xml:228(string)
 msgid "Decrypting..."
 msgstr "A descodificar..."
 
-#: tmp_strings.xml:230(string)
+#: tmp_strings.xml:229(string)
 msgid "Search"
 msgstr "Procurar"
 
-#: tmp_strings.xml:231(string)
+#: tmp_strings.xml:230(string)
 msgid "Searching..."
 msgstr "A procurar..."
 
-#: tmp_strings.xml:232(string)
+#: tmp_strings.xml:231(string)
 msgid "Type search criteria"
 msgstr "Escreva os critérios"
 
-#: tmp_strings.xml:233(string)
+#: tmp_strings.xml:232(string)
 msgid "Nothing found"
 msgstr "Nada encontrado"
 
-#: tmp_strings.xml:234(string)
+#: tmp_strings.xml:233(string)
 msgid "Mute"
 msgstr "Sem som"
 
-#: tmp_strings.xml:235(string)
+#: tmp_strings.xml:234(string)
 msgid "Sounds"
 msgstr "Sons"
 
-#: tmp_strings.xml:236(string)
+#: tmp_strings.xml:235(string)
 msgid "Previous"
 msgstr "Anterior"
 
-#: tmp_strings.xml:237(string)
+#: tmp_strings.xml:236(string)
 msgid "Next"
 msgstr "Seguinte"
 
-#: tmp_strings.xml:238(string)
+#: tmp_strings.xml:237(string)
 msgid "AutoBackup"
 msgstr "Cópia de segurança automática"
 
-#: tmp_strings.xml:239(string)
+#: tmp_strings.xml:238(string)
 msgid "No backup has been performed yet. Would you like to backup now?"
 msgstr "Ainda não fez uma cópia de segurança. Pretende fazer agora?"
 
-#: tmp_strings.xml:240(string)
+#: tmp_strings.xml:239(string)
 msgid "The last backup was %d days ago. Would you like to backup now?"
 msgstr ""
 "A última cópia de segurança tem %d dias. Pretende criar uma cópia de "
 "segurança?"
 
-#: tmp_strings.xml:241(string)
+#: tmp_strings.xml:240(string)
 msgid "Turn off autobackup"
 msgstr "Desligar cópias automáticas"
 
-#: tmp_strings.xml:242(string)
+#: tmp_strings.xml:241(string)
 msgid "Time to autolock: %s"
 msgstr "Tempo para bloquear: %s"
 
-#: tmp_strings.xml:243(string)
+#: tmp_strings.xml:242(string)
 msgid "While not downloaded, default location will be used."
-msgstr ""
+msgstr "Enquanto não transferida, será utilizada a localização padrão."
 
-#: tmp_strings.xml:244(string)
+#: tmp_strings.xml:243(string)
 msgid "A backup file was found. Would you like to restore it?"
 msgstr "Foi encontrada uma cópia de segurança. Restaurar?"
 
-#: tmp_strings.xml:245(string)
+#: tmp_strings.xml:244(string)
 msgid "Backup file found"
 msgstr "Cópia de segurança encontrada"
 
-#: tmp_strings.xml:246(string)
+#: tmp_strings.xml:245(string)
 msgid "0"
 msgstr "0"
 
-#: tmp_strings.xml:247(string)
+#: tmp_strings.xml:246(string)
 msgid "1"
 msgstr "1"
 
-#: tmp_strings.xml:248(string)
+#: tmp_strings.xml:247(string)
 msgid "2"
 msgstr "2"
 
-#: tmp_strings.xml:249(string)
+#: tmp_strings.xml:248(string)
 msgid "3"
 msgstr "3"
 
-#: tmp_strings.xml:250(string)
+#: tmp_strings.xml:249(string)
 msgid "4"
 msgstr "4"
 
-#: tmp_strings.xml:251(string)
+#: tmp_strings.xml:250(string)
 msgid "5"
 msgstr "5"
 
-#: tmp_strings.xml:252(string)
+#: tmp_strings.xml:251(string)
 msgid "6"
 msgstr "6"
 
-#: tmp_strings.xml:253(string)
+#: tmp_strings.xml:252(string)
 msgid "7"
 msgstr "7"
 
-#: tmp_strings.xml:254(string)
+#: tmp_strings.xml:253(string)
 msgid "8"
 msgstr "8"
 
-#: tmp_strings.xml:255(string)
+#: tmp_strings.xml:254(string)
 msgid "9"
 msgstr "9"
 
-#: tmp_strings.xml:256(string)
+#: tmp_strings.xml:255(string)
 msgid "#"
 msgstr "#"
 
-#: tmp_strings.xml:257(string)
+#: tmp_strings.xml:256(string)
 msgid "*"
 msgstr "*"
+
+#: tmp_strings.xml:257(string)
+#, fuzzy
+msgid "Invalid URL"
+msgstr "Página web inválida"
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -902,3 +905,6 @@ msgstr "30 dias"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 dias"
+
+
+

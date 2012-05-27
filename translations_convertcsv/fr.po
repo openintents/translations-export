@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Tanguy Herrmann <Unknown>\n"
 "Language-Team: French <fr@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -24,12 +24,13 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  John Andre https://launchpad.net/~john-andre\n"
-"  OpenIntents devs https://launchpad.net/~openintents-devs"
+"  OpenIntents devs https://launchpad.net/~openintents-devs\n"
+"  Tanguy Herrmann https://launchpad.net/~dolanor"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:28(string)
 msgid "Import and export lists and notes with OI Convert CSV."
-msgstr ""
+msgstr "Importer et exporter des listes et des notes avec OI Convert CSV."
 
 #. Name of an application. Please make sure that translations are consistent.
 #: tmp_strings.xml:34(string)
@@ -330,7 +331,7 @@ msgstr "DUPLICATE - Autoriser les doublons d'enregistrements."
 
 #: tmp_strings.xml:137(item) tmp_strings.xml:151(item)
 msgid "KEEP - Don't overwrite existing records."
-msgstr ""
+msgstr "GARDER - ne pas supprimer les enregistrements existants."
 
 #: tmp_strings.xml:138(item)
 msgid "Overwrite - Overwrite existing records."
@@ -350,6 +351,8 @@ msgstr ""
 msgid ""
 "KEEP - Don't overwrite an existing record, ignore the one in the CSV file."
 msgstr ""
+"GARDER - ne pas supprimer un enregistrement existant, ignorer celui dans le "
+"fichiers CSV."
 
 #: tmp_strings.xml:145(item)
 msgid "Overwrite - A record in the CSV will OVERWRITE an existing record."

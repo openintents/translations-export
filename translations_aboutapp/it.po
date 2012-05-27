@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: simone.sandri <lexluxsox@hotmail.it>\n"
+"Last-Translator: Diego Pierotto <Unknown>\n"
 "Language-Team: Italian <it@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -118,15 +118,15 @@ msgstr "Arabo"
 
 #: tmp_strings.xml:80(item)
 msgid "Belarusian"
-msgstr ""
+msgstr "Bielorusso"
 
 #: tmp_strings.xml:81(item)
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgaro"
 
 #: tmp_strings.xml:82(item)
 msgid "Catalan"
-msgstr ""
+msgstr "Catalano"
 
 #: tmp_strings.xml:83(item)
 msgid "Czech"
@@ -142,7 +142,7 @@ msgstr "Tedesco"
 
 #: tmp_strings.xml:86(item)
 msgid "Greek"
-msgstr ""
+msgstr "Greco"
 
 #: tmp_strings.xml:87(item)
 msgid "English"
@@ -150,7 +150,7 @@ msgstr "Inglese"
 
 #: tmp_strings.xml:88(item)
 msgid "English (United Kingdom)"
-msgstr ""
+msgstr "Inglese (Regno Unito)"
 
 #: tmp_strings.xml:89(item)
 msgid "Spanish"
@@ -158,7 +158,7 @@ msgstr "Spagnolo"
 
 #: tmp_strings.xml:90(item)
 msgid "Persian"
-msgstr ""
+msgstr "Farsi (Persiano)"
 
 #: tmp_strings.xml:91(item)
 msgid "Finnish"
@@ -174,15 +174,15 @@ msgstr "Francese"
 
 #: tmp_strings.xml:94(item)
 msgid "Hindi"
-msgstr ""
+msgstr "Indiano"
 
 #: tmp_strings.xml:95(item)
 msgid "Croatian"
-msgstr ""
+msgstr "Croato"
 
 #: tmp_strings.xml:96(item)
 msgid "Hungarian"
-msgstr ""
+msgstr "Ungherese"
 
 #: tmp_strings.xml:97(item)
 msgid "Italian"
@@ -190,7 +190,7 @@ msgstr "Italiano"
 
 #: tmp_strings.xml:98(item)
 msgid "Hebrew"
-msgstr ""
+msgstr "Ebraico"
 
 #: tmp_strings.xml:99(item)
 msgid "Japanese"
@@ -206,15 +206,15 @@ msgstr "Lao"
 
 #: tmp_strings.xml:102(item)
 msgid "Latvian"
-msgstr ""
+msgstr "Lettone"
 
 #: tmp_strings.xml:103(item)
 msgid "Macedonian"
-msgstr ""
+msgstr "Macedone"
 
 #: tmp_strings.xml:104(item)
 msgid "Norwegian Bokmal"
-msgstr ""
+msgstr "Norvegese Bokmal"
 
 #: tmp_strings.xml:105(item)
 msgid "Dutch"
@@ -226,7 +226,7 @@ msgstr "Occitano (posteriore 1500)"
 
 #: tmp_strings.xml:107(item)
 msgid "Punjabi"
-msgstr ""
+msgstr "Punjabi"
 
 #: tmp_strings.xml:108(item)
 msgid "Polish"
@@ -254,7 +254,7 @@ msgstr "Sardo"
 
 #: tmp_strings.xml:114(item)
 msgid "Sindhi"
-msgstr ""
+msgstr "Sindhi"
 
 #: tmp_strings.xml:115(item)
 msgid "Slovak"
@@ -262,7 +262,7 @@ msgstr "Slovacco"
 
 #: tmp_strings.xml:116(item)
 msgid "Slovenian"
-msgstr ""
+msgstr "Sloveno"
 
 #: tmp_strings.xml:117(item)
 msgid "Swedish"
@@ -270,7 +270,7 @@ msgstr "Svedese"
 
 #: tmp_strings.xml:118(item)
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: tmp_strings.xml:119(item)
 msgid "Turkish"
@@ -278,7 +278,7 @@ msgstr "Turco"
 
 #: tmp_strings.xml:120(item)
 msgid "Uyghur"
-msgstr ""
+msgstr "Uiguri"
 
 #: tmp_strings.xml:121(item)
 msgid "Chinese (Simplified)"

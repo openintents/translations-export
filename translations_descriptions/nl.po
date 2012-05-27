@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Maarten de Vries <maarten.k.de.vries@gmail.com>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,7 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
+"  Maarten de Vries https://launchpad.net/~maarten-k-de-vries\n"
 "  Mark van Kuijk https://launchpad.net/~markvankuyk\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Sjoerd Hiemstra https://launchpad.net/~sjohie"
@@ -29,27 +30,29 @@ msgstr ""
 #. Description of application
 #: tmp_strings.xml:12(string)
 msgid "OI About is a standalone about dialog that is shared between apps."
-msgstr ""
+msgstr "OI About is een aparte dialoog die gedeeld wordt tussen applicaties."
 
 #: tmp_strings.xml:13(string)
 msgid "This application is invoked through the menu of other OI applications."
-msgstr ""
+msgstr "Deze applicatie wordt gestart via het menu van andere OI-applicaties"
 
 #: tmp_strings.xml:14(string)
 msgid ""
 "It allows you to view version information, links, credits, and license of an "
 "application."
 msgstr ""
+"Je kunt er versie-informatie, links, credits en de licentie van een "
+"applicatie mee bekijken."
 
 #: tmp_strings.xml:15(string)
 msgid "Credits include authors, documentation, translators, and artists."
-msgstr ""
+msgstr "In de credits staan auteurs, documentatie, vertalers en artiesten."
 
 #: tmp_strings.xml:16(string)
 msgid ""
 "All of this functionality is brought together in a simplistic and efficient "
 "layout."
-msgstr ""
+msgstr "Al deze functies komen samen in een simpele en efficiënte lay-out."
 
 #: tmp_strings.xml:18(string) tmp_strings.xml:70(string)
 #: tmp_strings.xml:119(string) tmp_strings.xml:172(string)
@@ -96,53 +99,54 @@ msgstr "Eigenschappen:"
 
 #: tmp_strings.xml:30(listitem)
 msgid "Shows general info, credits, and license tabs."
-msgstr ""
+msgstr "Toont algemene info, credits en licentie-tabs."
 
 #: tmp_strings.xml:31(listitem)
 msgid "Shows translators of all language versions."
-msgstr ""
+msgstr "Toont vertalers van alle taalversies."
 
 #: tmp_strings.xml:32(listitem)
 msgid ""
 "Retrieves information from application manifest through default tags and "
 "metadata."
 msgstr ""
+"Haalt info op van een applicatie-manifest, via standaard tags en metadata."
 
 #: tmp_strings.xml:33(listitem)
 msgid "Optionally, all fields can be modified through intent extras."
-msgstr ""
+msgstr "Alle velden kunnen eventueel worden aangepast via Intent Extra's."
 
 #: tmp_strings.xml:35(string)
 msgid "Applications that work with \"OI About\":"
-msgstr ""
+msgstr "Applicaties die werken met OI About:"
 
 #: tmp_strings.xml:36(listitem)
 msgid "OI Notepad"
-msgstr ""
+msgstr "OI Notepad"
 
 #: tmp_strings.xml:37(listitem)
 msgid "OI File manager"
-msgstr ""
+msgstr "OI Bestandsbeheer"
 
 #: tmp_strings.xml:38(listitem)
 msgid "OI Shopping List"
-msgstr ""
+msgstr "OI Boodschappenlijstje"
 
 #: tmp_strings.xml:39(listitem)
 msgid "OI Convert CSV"
-msgstr ""
+msgstr "OI Convert CSV"
 
 #: tmp_strings.xml:40(listitem)
 msgid "OI Safe"
-msgstr ""
+msgstr "OI Kluis"
 
 #: tmp_strings.xml:41(listitem)
 msgid "OI Countdown"
-msgstr ""
+msgstr "OI Countdown"
 
 #: tmp_strings.xml:42(listitem)
 msgid "OI Flashlight"
-msgstr ""
+msgstr "OI Zaklamp"
 
 #: tmp_strings.xml:44(string) tmp_strings.xml:95(string)
 #: tmp_strings.xml:145(string) tmp_strings.xml:195(string)
@@ -153,11 +157,11 @@ msgstr "Sleutelwoorden:"
 
 #: tmp_strings.xml:45(listitem)
 msgid "About, Credits, Information."
-msgstr ""
+msgstr "Over, Credits, Informatie."
 
 #: tmp_strings.xml:46(listitem)
 msgid "OI, OpenIntents, Open Intents."
-msgstr ""
+msgstr "OI, OpenIntents, Open Intents"
 
 #: tmp_strings.xml:48(string) tmp_strings.xml:101(string)
 #: tmp_strings.xml:151(string) tmp_strings.xml:199(string)
@@ -170,41 +174,46 @@ msgstr "Internationale versies"
 #: tmp_strings.xml:154(string) tmp_strings.xml:202(string)
 #: tmp_strings.xml:259(string) tmp_strings.xml:311(string)
 msgid "Search strings for Market:"
-msgstr ""
+msgstr "Zoektekst voor Market:"
 
 #: tmp_strings.xml:66(string)
 msgid ""
 "OI Countdown is a helpful timer to increase your productivity and plan your "
 "day."
 msgstr ""
+"OI Countdown is een handige timer om je productiviteit te verhogen en je dag "
+"beter in te delen."
 
 #: tmp_strings.xml:67(string)
 msgid ""
 "It allows you to set a variety of different actions to notify you at the end "
 "of a timer."
-msgstr ""
+msgstr "Je kunt er allerlei acties mee instellen, voor als de timer afgaat."
 
 #: tmp_strings.xml:68(string)
 msgid ""
 "Fully customize all your timers, with no limit on how many you can have "
 "running or saved."
 msgstr ""
+"Pas je timers volledig aan, zonder beperking in het aantal timers dat je "
+"opslaat of aanzet."
 
 #: tmp_strings.xml:85(listitem)
 msgid "Set a countdown by choosing a duration or a date."
-msgstr ""
+msgstr "Stel een timer in op basis van doorlooptijd of datum."
 
 #: tmp_strings.xml:86(listitem)
 msgid "Be notified by vibration or any sound of your choice."
-msgstr ""
+msgstr "Notificatie met vibratie of een zelf gekozen geluid."
 
 #: tmp_strings.xml:87(listitem)
 msgid "Have an unlimited number of timers running at the same time."
-msgstr ""
+msgstr "Zet een onbeperkt aantal timers tegelijk aan."
 
 #: tmp_strings.xml:88(listitem)
 msgid "Save your countdowns and give them names to reuse at later times."
 msgstr ""
+"Sla je timers op met een naam, zodat je ze later nog eens kunt gebruiken."
 
 #: tmp_strings.xml:89(listitem)
 msgid "Modify countdowns, even while they are still running"
@@ -216,22 +225,22 @@ msgstr "Beschikbare extensies voor \"OI Countdown\""
 
 #: tmp_strings.xml:92(listitem)
 msgid "Launch applications through Android shortcuts"
-msgstr ""
+msgstr "Start applicaties op via Android-snelkoppelingen"
 
 #: tmp_strings.xml:93(listitem)
 msgid "Use OI About to show license information"
-msgstr ""
+msgstr "Gebruik OI About om de licentie-informatie te tonen"
 
 #. Keywords: List several related key words and variations in your language and in English that people might search for.
 #: tmp_strings.xml:97(listitem)
 msgid "countdown, timer, alert"
-msgstr ""
+msgstr "countdown, timer, alert, alarm, waarschuwing"
 
 #. Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for.
 #: tmp_strings.xml:99(listitem) tmp_strings.xml:197(listitem)
 #: tmp_strings.xml:254(listitem) tmp_strings.xml:361(listitem)
 msgid "OI, OpenIntents, Open Intents"
-msgstr ""
+msgstr "OI, OpenIntents, Open Intents"
 
 #. Description of application
 #: tmp_strings.xml:116(string)
@@ -294,7 +303,7 @@ msgstr "Beschikbare extensies voor \"OI File Manager\""
 #: tmp_strings.xml:241(listitem) tmp_strings.xml:297(listitem)
 #: tmp_strings.xml:351(listitem)
 msgid "Show the license information with \"OI About\"."
-msgstr ""
+msgstr "Toon licentie-informatie met OI About"
 
 #: tmp_strings.xml:142(string) tmp_strings.xml:299(string)
 msgid "Applications that work with \"OI File Manager\":"
@@ -320,107 +329,116 @@ msgid ""
 "OI Flashlight is a simple and effective application that helps you find a "
 "way in the dark."
 msgstr ""
+"OI Flashlight is een simpele, effectieve applicatie om te zien in het donker."
 
 #: tmp_strings.xml:168(string)
 msgid ""
 "OI Flashlight locks the display backlight on, clearly illuminating the "
 "surrounding area."
 msgstr ""
+"OI Flashlight zet de backlight van je scherm aan en verlicht zo je omgeving."
 
 #: tmp_strings.xml:169(string)
 msgid ""
 "For devices with a camera flash, OI Flashlight can also use the flash as a "
 "bright torch to brighten the room."
 msgstr ""
+"Als je toestel een flitser heeft, kan OI Flashlight je flitslamp gebruiken."
 
 #: tmp_strings.xml:170(string)
 msgid ""
 "The color of the backlight is completely customizable with OI Color Picker."
-msgstr ""
+msgstr "Je kunt de backlight-kleur zelf kiezen met de OI Kleurkiezer."
 
 #: tmp_strings.xml:184(listitem)
 msgid "Lock the display backlight on."
-msgstr ""
+msgstr "Zet de backlight van het scherm aan."
 
 #: tmp_strings.xml:185(listitem)
 msgid "Lock camera flash on."
-msgstr ""
+msgstr "Zet de flitser aan."
 
 #: tmp_strings.xml:186(listitem)
 msgid "The color of backlight is customizable."
-msgstr ""
+msgstr "De backlight-kleur is aan te passen."
 
 #: tmp_strings.xml:188(string)
 msgid "Available extensions for \"OI Flashlight\":"
-msgstr ""
+msgstr "Beschikbare extensies voor OI Flashlight"
 
 #: tmp_strings.xml:190(listitem)
 msgid "Change the color of the backlight with \"OI Color Picker\"."
-msgstr ""
+msgstr "Stel de backlight-kleur met OI Kleurkiezer"
 
 #: tmp_strings.xml:192(string)
 msgid "Applications that work with \"OI Flashlight\":"
-msgstr ""
+msgstr "Apps die werken met OI Flashlight"
 
 #: tmp_strings.xml:193(listitem) tmp_strings.xml:249(listitem)
 #: tmp_strings.xml:355(listitem)
 msgid "Update with \"OI Update\"."
-msgstr ""
+msgstr "Updaten met OI Update"
 
 #: tmp_strings.xml:196(listitem)
 msgid "Flashlight, light, Backlight"
-msgstr ""
+msgstr "Flashlight, light, licht, backlight, zaklamp, zaklantaarn, lamp"
 
 #. Description of application
 #: tmp_strings.xml:214(string)
 msgid "OI Notepad is a full-featured open source note taking application."
-msgstr ""
+msgstr "OI Notepad is een uitgebreide, open source app voor notities"
 
 #: tmp_strings.xml:215(string)
 msgid ""
 "With it you can tag, search, and send your notes, in addition to basic "
 "functionality such as creating, deleting, and editing notes."
 msgstr ""
+"Je kunt er notities mee taggen, doorzoeke en versturen, naast basisfuncties "
+"als aanmaken, bewerken en verwijderen."
 
 #: tmp_strings.xml:216(string)
 msgid ""
 "Advanced features like encryption, import/export, and voice memos are all "
 "available through extensions."
 msgstr ""
+"Met extensies krijg je geavanceerde opties, zoals encryptie, import/export "
+"en gesproken memo's."
 
 #: tmp_strings.xml:217(string)
 msgid ""
 "All of this functionality is brought together in a simplistic and efficient "
 "layout, customizable through a variety of themes."
 msgstr ""
+"Al deze functies komen bij elkaar in een simpele, efficiënte lay-out die je "
+"kunt aanpassen via thema's."
 
 #: tmp_strings.xml:231(listitem)
 msgid "Add, edit and delete notes."
-msgstr ""
+msgstr "Maak, wijzig en verwijder notities"
 
 #: tmp_strings.xml:232(listitem)
 msgid "Long-press on notes to add tags."
-msgstr ""
+msgstr "Hou je vinger lang op een notitie om tags toe te voegen."
 
 #: tmp_strings.xml:233(listitem)
 msgid "Change font size and sort order."
-msgstr ""
+msgstr "Lettergroote en sorteeropties bewerken."
 
 #: tmp_strings.xml:234(listitem)
 msgid "A clearly arranged layout with a variety of themes."
-msgstr ""
+msgstr "Een duidelijke lay-out met diverse thema's."
 
 #: tmp_strings.xml:235(listitem)
 msgid "Quickly search through notes."
-msgstr ""
+msgstr "Snel notities doorzoeken."
 
 #: tmp_strings.xml:236(listitem)
 msgid "Send notes as MMS or SMS."
-msgstr ""
+msgstr "Notities versturen als MMS of SMS."
 
 #: tmp_strings.xml:238(string)
 msgid "Available extensions for \"OI Notepad\":"
-msgstr ""
+msgstr "Beschikbare extensies voor OI Notepad:"
 
 #: tmp_strings.xml:239(listitem)
 msgid "Record and attach voice memos to notes with \"OI Voice Notes\"."
@@ -429,6 +447,7 @@ msgstr "Neem stem memos op en voeg ze toe met \"OI Voice Notes\""
 #: tmp_strings.xml:240(listitem)
 msgid "With \"OI Convert CSV\" import/export notes from the SD card."
 msgstr ""
+"Met \"OI Convert CSV\" kan je notities importeren/exporteren van een SD kaart"
 
 #: tmp_strings.xml:242(listitem)
 msgid "Insert the date and time into notes with \"OI Insert Date\"."
@@ -444,7 +463,7 @@ msgstr "Applicaties die werken met \"OI Notepad\""
 
 #: tmp_strings.xml:246(listitem)
 msgid "Back up notes with \"My Backup Pro\"."
-msgstr ""
+msgstr "Notities back-uppen met My Backup Pro."
 
 #: tmp_strings.xml:247(listitem)
 msgid "Encrypt notes using \"OI Safe\"."
@@ -452,17 +471,19 @@ msgstr "Beveilig notities met \"OI Safe\""
 
 #: tmp_strings.xml:248(listitem)
 msgid "Manage notes on your SD Card with \"OI File Manager\"."
-msgstr ""
+msgstr "Beheer notities op je SD kaart met OI Bestandsbeheer"
 
 #: tmp_strings.xml:250(listitem)
 msgid ""
 "Share notes through \"Facebook\", \"Gmail\", \"Google+\", \"Twitter\", and "
 "many other applications."
 msgstr ""
+"Deel notities via Facebook, Gmail, Google+, Twitter en vele andere "
+"applicaties."
 
 #: tmp_strings.xml:253(listitem)
 msgid "Note, Notepad, Note book, Notes"
-msgstr ""
+msgstr "Note, Notepad, Note book, Notes, kladblok, notitie, memo"
 
 #. Description of application
 #: tmp_strings.xml:271(string)
@@ -470,57 +491,61 @@ msgid ""
 "OI Safe safely protects all of your passwords and other private data using "
 "industry standard AES encryption."
 msgstr ""
+"OI Kluis beschermt privé-gegevens, zoals wachtwoorden, met de "
+"industriestandaard AES."
 
 #: tmp_strings.xml:272(string)
 msgid ""
 "It also acts as an extension to OI Notepad to encrypt notes created in OI "
 "Notepad."
-msgstr ""
+msgstr "Het is ook een extensie voor OI Notepad, om notities te versleutelen."
 
 #: tmp_strings.xml:286(listitem)
 msgid "Securely protect data using AES encryption."
-msgstr ""
+msgstr "Data beschermen met AES versleuteling."
 
 #: tmp_strings.xml:287(listitem)
 msgid "Freely move data entries between categories."
-msgstr ""
+msgstr "Makkelijk data verschuiven van categorie naar categorie."
 
 #: tmp_strings.xml:288(listitem)
 msgid "Import/Export data entries and databases."
-msgstr ""
+msgstr "Gegevens en databases importeren en exporteren."
 
 #: tmp_strings.xml:289(listitem)
 msgid "Backup/Restore entries."
-msgstr ""
+msgstr "Gegevens back-uppen of terughalen."
 
 #: tmp_strings.xml:290(listitem)
 msgid "Includes secure password generator."
-msgstr ""
+msgstr "Inclusief veilige wachtwoordgenerator."
 
 #: tmp_strings.xml:291(listitem)
 msgid "Automatic timeout to protect encrypted documents."
-msgstr ""
+msgstr "Automatische time-out om beveiligde documenten te beschermen."
 
 #: tmp_strings.xml:292(listitem)
 msgid "Encrypt OI Notepad notes."
-msgstr ""
+msgstr "OI Notepad-notities versleutelen."
 
 #: tmp_strings.xml:293(listitem)
 msgid "Support for Obscura picture safe."
-msgstr ""
+msgstr "Ondersteuning voor Obscura picture safe."
 
 #: tmp_strings.xml:294(listitem)
 msgid "MyBackup Pro."
-msgstr ""
+msgstr "My Backup Pro"
 
 #: tmp_strings.xml:300(listitem)
 msgid "Encrypt notes created in \"OI Notepad\"."
-msgstr ""
+msgstr "Notities versleutelen die aangemaakt zijn met OI Notepad."
 
 #. Keywords: List several related key words and variations in your language and in English that people might search for.
 #: tmp_strings.xml:304(listitem)
 msgid "safe, encrpytion, password, protection"
 msgstr ""
+"safe, encrpytion, password, protection, encryptie, versleuteling, "
+"wachtwoord, beveiliging, kluis"
 
 #. Description of application
 #: tmp_strings.xml:323(string)
@@ -528,87 +553,99 @@ msgid ""
 "OI Shopping List is a powerful application which makes it easy to create and "
 "manage checklists."
 msgstr ""
+"OI Boodschappenlijstje is een krachtige app waarmee je makkelijk checklists "
+"kunt aanmaken en beheren."
 
 #: tmp_strings.xml:324(string)
 msgid ""
 "OI Shopping List makes it easy to add items to a list, check the item off, "
 "and remove it from the list."
 msgstr ""
+"Met OI Boodschappenlijstje kun je makkelijk items toevoegen, afvinken en "
+"volledig verwijderen uit een lijst."
 
 #: tmp_strings.xml:325(string)
 msgid ""
 "The application can track separate prices for each store that you use, and "
 "features a high level of customization."
 msgstr ""
+"De app is makkelijk aan te passen en houdt prijzen bij van alle winkels die "
+"jij gebruikt."
 
 #: tmp_strings.xml:326(string)
 msgid ""
 "Font size, sort order, list columns, and list cleanup behavior are all "
 "settings controlled by the user."
 msgstr ""
+"De gebruiker heeft controle over de tekstgrootte, sorteervolgorde, kolommen "
+"en lijstopschoning."
 
 #: tmp_strings.xml:327(string)
 msgid ""
 "All of these features are brought together in a crisp layout that is "
 "customizable through a variety of themes."
 msgstr ""
+"Al deze opties komen samen in een heldere lay-out, die je met thema's kunt "
+"aanpassen."
 
 #: tmp_strings.xml:341(listitem)
 msgid "Add, edit and delete lists."
-msgstr ""
+msgstr "Lijsten toevoegen, bewerken en verwijderen."
 
 #: tmp_strings.xml:342(listitem)
 msgid "Create, delete, and check items quickly and easily."
-msgstr ""
+msgstr "Snel en makkelijk items aanmaken, afvinken en verwijderen."
 
 #: tmp_strings.xml:343(listitem)
 msgid "Variety of themes."
-msgstr ""
+msgstr "Variëteit aan thema's."
 
 #: tmp_strings.xml:344(listitem)
 msgid "Customizable font size and sort order."
-msgstr ""
+msgstr "Aanpasbare tekstgrootte en sorteervolgorde."
 
 #: tmp_strings.xml:345(listitem)
 msgid "Keep track of separate prices for each store."
-msgstr ""
+msgstr "Hou de verschillende prijzen in elke winkel bij."
 
 #: tmp_strings.xml:346(listitem)
 msgid "Customizable list columns."
-msgstr ""
+msgstr "Aanpasbare kolommen."
 
 #: tmp_strings.xml:348(string)
 msgid "Available extensions for \"OI Shopping List\":"
-msgstr ""
+msgstr "Beschikbare extensies voor OI Boodschappenlijstje:"
 
 #: tmp_strings.xml:349(listitem)
 msgid "Add a recorded message to a note with \"OI Voice Notes\"."
-msgstr ""
+msgstr "Gesproken notitie toevoegen met OI Voice Notes."
 
 #: tmp_strings.xml:350(listitem)
 msgid "Import/export shopping lists with \"OI Convert CSV\"."
-msgstr ""
+msgstr "Boodschappenlijstjes importeren/exporteren met OI Convert CSV."
 
 #: tmp_strings.xml:352(listitem)
 msgid "Enter/check items with \"Barcode OI Plugin\"."
-msgstr ""
+msgstr "Items toevoegen/afvinken met Barcode OI Plugin."
 
 #: tmp_strings.xml:354(string)
 msgid "Applications that work with \"OI Shopping List\":"
-msgstr ""
+msgstr "Apps die samenwerken met OI Boodschappenlijstje:"
 
 #: tmp_strings.xml:356(listitem)
 msgid "Backup lists with \"My Backup Pro\"."
-msgstr ""
+msgstr "Lijstjes back-uppen met My Backup Pro."
 
 #: tmp_strings.xml:357(listitem)
 msgid "Import ingredients of recipes with \"Bites\"."
-msgstr ""
+msgstr "Ingrediënten uit recepten importeren met Bites."
 
 #: tmp_strings.xml:360(listitem)
 msgid "Shopping, List, Shopping List, Checklist"
 msgstr ""
+"Shopping, List, Shopping List, Checklist, boodschappenlijst, winkel, "
+"boodschappen,  afvinken"
 
 #: tmp_strings.xml:366(string)
 msgid "Extensions:"
-msgstr ""
+msgstr "Extensies:"

@@ -55,17 +55,9 @@ msgstr "OI रंगचयनक"
 msgid "Preferences"
 msgstr "प्राथमिकताएं"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr "रंग रखें"
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr "इसी रंग को अगली बार टॉर्च अनुप्रयोग में परयोग करने के लिए रंग सुरक्षित कर लें"
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but 
 #. 		user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
@@ -73,19 +65,43 @@ msgstr ""
 "रंगचयनक को अन्य डेवलपर्स के लिए और उपयोगी बनाने के लिए,हमने इसे स्वयं के अनुप्रोयोग में "
 "विभाजित कर दिया है|"
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
 msgstr "कैमरा फ्लैश का प्रयोग करें"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
 msgstr "स्क्रीन बेकलाइट  के बजाय कैमरा फ्लैश का प्रयोग करें|"
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
 msgstr "कैमरे के प्रकाश को सक्षम करने के लिए दबाएँ (थोडा वक्त ले सकता है)|"
 
-#: tmp_strings.xml:48(string)
+#: tmp_strings.xml:46(string)
 msgid "Press to disable camera light."
 msgstr "कैमरे के प्रकाश को अक्षम करने के लिए दबाएँ"
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr ""
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+
+#: tmp_strings.xml:51(item)
+#, fuzzy
+msgid "Keep Color"
+msgstr "रंग रखें"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr ""
+
+
+

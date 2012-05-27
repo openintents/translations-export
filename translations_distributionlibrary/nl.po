@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Mark van Kuijk <Unknown>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -28,6 +28,7 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  John Andre https://launchpad.net/~john-andre\n"
+"  Maarten de Vries https://launchpad.net/~maarten-k-de-vries\n"
 "  Mark van Kuijk https://launchpad.net/~markvankuyk\n"
 "  Menno Vogel https://launchpad.net/~mennovogel90\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
@@ -97,7 +98,7 @@ msgstr "Nu controleren"
 
 #: tmp_strings.xml:49(string)
 msgid "Get OI Updater"
-msgstr ""
+msgstr "OI Updater ophalen"
 
 #: tmp_strings.xml:50(string)
 msgid "Download application not available."
@@ -106,12 +107,12 @@ msgstr "Het downloaden van de applicatie is niet beschikbaar"
 #. Name of the application "OI Update". Translations of the application name should be consistent.
 #: tmp_strings.xml:53(string)
 msgid "OI Update"
-msgstr ""
+msgstr "OI Update"
 
 #. Menu command to open the "about" or "info" dialog.
 #: tmp_strings.xml:57(string)
 msgid "About"
-msgstr ""
+msgstr "Over"
 
 #. %s is the version number (e.g. "1.2.1")
 #: tmp_strings.xml:59(string)
@@ -125,27 +126,27 @@ msgstr ""
 #. Button text: Get the application "OI About". Translations of the application name should be consistent.
 #: tmp_strings.xml:63(string)
 msgid "Get OI About"
-msgstr ""
+msgstr "OI-informatie (Over) ophalen"
 
 #. Name of the application "OI About". Translations of the application name should be consistent.
 #: tmp_strings.xml:66(string)
 msgid "OI About"
-msgstr ""
+msgstr "Over OI"
 
 #. Name of the application "Barcode OI Plugin". Translations of the application name should be consistent.
 #: tmp_strings.xml:69(string)
 msgid "Barcode OI Plugin"
-msgstr ""
+msgstr "Barcode OI Plugin"
 
 #. Dialog message.
 #: tmp_strings.xml:71(string)
 msgid "No compatible barcode scanner is available."
-msgstr ""
+msgstr "Geen compatibele codescanner beschikbaar"
 
 #. Name of the application "OI File Manager". Translations of the application name should be consistent.
 #: tmp_strings.xml:74(string)
 msgid "OI File Manager"
-msgstr ""
+msgstr "OI Bestandsbeheer"
 
 #. Dialog message.
 #: tmp_strings.xml:76(string)
@@ -155,7 +156,7 @@ msgstr "Het bestandsbeheer is niet beschikbaar"
 #. Name of the application "OI Safe". Translations of the application name should be consistent.
 #: tmp_strings.xml:80(string)
 msgid "OI Safe"
-msgstr ""
+msgstr "OI Kluis"
 
 #. Dialog message.
 #: tmp_strings.xml:82(string)
@@ -168,11 +169,14 @@ msgid ""
 "to restore the master key from a backup file in order to access previously "
 "encrypted data."
 msgstr ""
+"Geen compatibele applicatie beschikbaar voor decryptie.\\n\\nNoot: Je moet "
+"de master key herstellen uit een back-up om eerder gecodeerde gegevens te "
+"openen."
 
 #. Dialog message: %s is the name of an application (e.g. "OI Notepad").
 #: tmp_strings.xml:86(string)
 msgid "Please download %s from the Market or the OpenIntents website."
-msgstr ""
+msgstr "Download %s van de Market op de OpenIntents-website."
 
 #. Dialog message: %s is the name of an application (e.g. "OI Notepad").
 #: tmp_strings.xml:88(string)
@@ -192,30 +196,30 @@ msgstr "Download van het web"
 #. Dialog title: %s is the name of an application (e.g. "OI Notepad").
 #: tmp_strings.xml:94(string)
 msgid "Download %s"
-msgstr ""
+msgstr "%s Downloaden"
 
 #. %s is an application name (e.g. "OI About can be used with the following applications:")
 #: tmp_strings.xml:97(string)
 msgid "%s can be used with the following applications:"
-msgstr ""
+msgstr "%s kan gebruikt worden met de volgende applicaties"
 
 #. %s is an application name (e.g. "Launch OI Notepad")
 #: tmp_strings.xml:99(string)
 msgid "Launch %s"
-msgstr ""
+msgstr "%s starten"
 
 #. %1$s is the current application name. %2$s is another application name, and %3$s is the other application's version name
 #.     (e.g. "OI About requires OI Notepad 1.2.0 or higher.")
 #: tmp_strings.xml:102(string)
 msgid "%1$s requires %2$s %3$s or higher."
-msgstr ""
+msgstr "%1$s vereist %2$s %3$s of hoger."
 
 #. Title of a dialog.
 #: tmp_strings.xml:104(string)
 msgid "Instructions"
-msgstr ""
+msgstr "Aanwijzingen"
 
 #. Error message
 #: tmp_strings.xml:106(string)
 msgid "Application could not be launched"
-msgstr ""
+msgstr "Kan de applicatie niet starten"

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Maarten de Vries <maarten.k.de.vries@gmail.com>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -23,6 +23,7 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
+"  Maarten de Vries https://launchpad.net/~maarten-k-de-vries\n"
 "  Mark van Kuijk https://launchpad.net/~markvankuyk\n"
 "  Menno Vogel https://launchpad.net/~mennovogel90\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
@@ -248,11 +249,11 @@ msgstr "Importeer winkels"
 
 #: tmp_strings.xml:105(string)
 msgid "Import HandyShopper store names only as item tags."
-msgstr ""
+msgstr "HandyShopper-namen alleen importeren als tag"
 
 #: tmp_strings.xml:106(string)
 msgid "Import HandyShopper stores and per-store price and aisle information."
-msgstr ""
+msgstr "HandyShopper-winkels, prijzen per winkel en padinformatie importeren"
 
 #. Permission
 #: tmp_strings.xml:110(string)
@@ -314,7 +315,7 @@ msgstr "Palm CSV"
 
 #: tmp_strings.xml:127(item)
 msgid "JPilot Memo"
-msgstr ""
+msgstr "JPilot Memo"
 
 #: tmp_strings.xml:131(item)
 msgid "MS Outlook Tasks"
@@ -322,7 +323,7 @@ msgstr "MS Outlook Taken"
 
 #: tmp_strings.xml:132(item)
 msgid "HandyShopper"
-msgstr ""
+msgstr "HandyShopper"
 
 #: tmp_strings.xml:136(item) tmp_strings.xml:150(item)
 msgid "DUPLICATE - Allow duplicates of records."
@@ -330,7 +331,7 @@ msgstr "DUPLICEREN - sta duplicaties van gegevens toe."
 
 #: tmp_strings.xml:137(item) tmp_strings.xml:151(item)
 msgid "KEEP - Don't overwrite existing records."
-msgstr ""
+msgstr "BEWAREN - Bestaande gegevens niet overschrijven"
 
 #: tmp_strings.xml:138(item)
 msgid "Overwrite - Overwrite existing records."
@@ -349,6 +350,8 @@ msgstr ""
 msgid ""
 "KEEP - Don't overwrite an existing record, ignore the one in the CSV file."
 msgstr ""
+"BEWAREN - Bestaande gegevens niet overschrijven, negeer de waarden in het "
+"CSV-bestand"
 
 #: tmp_strings.xml:145(item)
 msgid "Overwrite - A record in the CSV will OVERWRITE an existing record."

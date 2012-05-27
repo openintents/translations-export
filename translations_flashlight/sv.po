@@ -1,0 +1,108 @@
+# Swedish translation for openintents
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the openintents package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: openintents\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Carl Fredrik Sima <cf.sima@gmail.com>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Launchpad (build nnnnn)\n"
+
+#. Automatically filled in by Launchpad:
+#: tmp_strings.xml:8(string)
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Carl Fredrik Sima https://launchpad.net/~cf-sima"
+
+#. Short explanation of the application (max. 80 characters)
+#: tmp_strings.xml:11(string)
+msgid "Keep the camera flash or the backlight turned on with OI Flashlight."
+msgstr ""
+"Håll kamerablixten eller bakgrundsbelysningen påslagen med hjälp av  OI "
+"Flashlight."
+
+#. Name of application. Can be localized. OI = OpenIntents should stay unmodified.
+#: tmp_strings.xml:17(string)
+msgid "OI Flashlight"
+msgstr "OI Flashlight"
+
+#: tmp_strings.xml:19(string)
+msgid "The backlight stays turned on."
+msgstr "Bakgrundsbelysningen fortsätter vara påslagen."
+
+#: tmp_strings.xml:21(string)
+msgid "Color"
+msgstr "Färg"
+
+#. Application name should be consistent across translations.
+#: tmp_strings.xml:24(string)
+msgid "OI Color Picker"
+msgstr "OI Color Picker"
+
+#. Title for preferences or settings
+#: tmp_strings.xml:26(string) tmp_strings.xml:33(string)
+msgid "Preferences"
+msgstr "Inställningar"
+
+#. Explanation that is displayed if Color Picker has not been installed yet, but 
+#. 		user tries to access it.
+#: tmp_strings.xml:41(string)
+msgid ""
+"To make the Color Picker more useful to other developers, we have split it "
+"into its own app."
+msgstr ""
+"För att göra Color Picker mer användbart för andra utvecklare så har vi "
+"gjort funktionen till en egen applikation."
+
+#: tmp_strings.xml:42(string)
+msgid "Use camera flash"
+msgstr "Använd kamerablixten"
+
+#: tmp_strings.xml:43(string)
+msgid "Use the camera flash instead of the screen backlight."
+msgstr "Använd kamerablixten istället för bakgrundsbelysningen."
+
+#. Information to enable the camera flash as flashlight.
+#: tmp_strings.xml:45(string)
+msgid "Press to enable camera light (May take a second)."
+msgstr ""
+"Tryck för att använda kamerablixten (Kan ta någon sekund tills den är igång)"
+
+#: tmp_strings.xml:46(string)
+msgid "Press to disable camera light."
+msgstr "Tryck för att slå av kamerablixten."
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr ""
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+
+#: tmp_strings.xml:51(item)
+#, fuzzy
+msgid "Keep Color"
+msgstr "Behåll färgen"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr ""
+
+
+

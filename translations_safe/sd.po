@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: happynawani <Unknown>\n"
 "Language-Team: Sindhi <sd@li.org>\n"
 "Language: sd\n"
 "MIME-Version: 1.0\n"
@@ -23,6 +23,7 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
+"  Abdul-Rahim Nizamani https://launchpad.net/~ghaffari\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  happynawani https://launchpad.net/~happynawani\n"
 "  vishal panjwani https://launchpad.net/~vishal-panjwani15"
@@ -45,7 +46,7 @@ msgstr "इन्ह श्रेणी लाये कोई पासवर�
 msgid "No categories present. Please add one via Menu-&gt;Add"
 msgstr "कोई श्रेणी उपलब्ध काने| कृपया सूची सां जोड्यो-&gt;जोड्यो"
 
-#: tmp_strings.xml:37(string) tmp_strings.xml:206(string)
+#: tmp_strings.xml:37(string) tmp_strings.xml:205(string)
 msgid "Lock"
 msgstr "बंद कयो"
 
@@ -442,55 +443,51 @@ msgid "Version not supported: %s"
 msgstr "ईयो संस्करण समर्थित काने: %s"
 
 #: tmp_strings.xml:130(string)
-msgid "Restore error."
-msgstr "त्रुटी रेस्टोर कयो"
-
-#: tmp_strings.xml:131(string)
 msgid "Bad password."
 msgstr "गन्दा पासवर्ड"
 
-#: tmp_strings.xml:132(string)
+#: tmp_strings.xml:131(string)
 msgid "Restore Database"
 msgstr "डाटाबेस रेस्टोरे कयो"
 
-#: tmp_strings.xml:133(string)
+#: tmp_strings.xml:132(string)
 msgid "Are you sure you want to replace the current data?"
 msgstr "शा तहां वर्तमान डाटा खे प्रतिस्थापित करण ता चाह्यो?"
 
-#: tmp_strings.xml:134(string)
+#: tmp_strings.xml:133(string)
 msgid "Found %1$s passwords from backup dated %2$s."
 msgstr "%2$s जे बैकअप में %1$s पास्वोर्ड मिलें"
 
-#: tmp_strings.xml:135(string)
+#: tmp_strings.xml:134(string)
 msgid "Complete. Passwords restored: %s"
 msgstr "पूरो थी वयो| %s पासवर्ड रेस्टोरे थी वयो"
 
-#: tmp_strings.xml:136(string)
+#: tmp_strings.xml:135(string)
 msgid "copied to Clipboard"
 msgstr "क्लिप्बोअर्द में कॉपी थी बवयो"
 
-#: tmp_strings.xml:137(string)
+#: tmp_strings.xml:136(string)
 msgid "Invalid website"
 msgstr "वेबसाइट गलत तव"
 
-#: tmp_strings.xml:138(string)
+#: tmp_strings.xml:137(string)
 msgid "Database Error"
 msgstr "डेटाबेस त्रुटि"
 
-#: tmp_strings.xml:139(string)
+#: tmp_strings.xml:138(string)
 msgid "Database error. Out of space?"
 msgstr "?डाटाबेस त्रुटि| शा जगह खतम  थी वई"
 
 #. Menu label to open a category
-#: tmp_strings.xml:142(string)
+#: tmp_strings.xml:141(string)
 msgid "Open"
 msgstr "खोल्यो"
 
-#: tmp_strings.xml:144(string)
+#: tmp_strings.xml:143(string)
 msgid "Database Version Error"
 msgstr "डाटाबेस संस्करण त्रुटि"
 
-#: tmp_strings.xml:145(string)
+#: tmp_strings.xml:144(string)
 msgid ""
 "Sorry, but the version of the database is not supported. You must install "
 "the version associated with this database."
@@ -498,217 +495,217 @@ msgstr ""
 "माफ कयो, पर ईयो डाटाबेस जो संस्करण समर्थित काने|तहान्खे सही संस्करण खे इंस्टाल करनो पवंदुव"
 
 #. Menu label to move a password to another category
-#: tmp_strings.xml:148(string)
+#: tmp_strings.xml:147(string)
 msgid "Move"
 msgstr "खिस्कयोस"
 
-#: tmp_strings.xml:150(string)
+#: tmp_strings.xml:149(string)
 msgid "Select Category"
 msgstr "श्रेणी चुन्दयो"
 
 #. Toast that password has been moved to another category
-#: tmp_strings.xml:153(string)
+#: tmp_strings.xml:152(string)
 msgid "Moved to %s"
 msgstr "%s में मोकले श्दयो"
 
-#: tmp_strings.xml:155(string)
+#: tmp_strings.xml:154(string)
 msgid "Settings"
 msgstr "सेटिंग्स"
 
-#: tmp_strings.xml:156(string)
+#: tmp_strings.xml:155(string)
 msgid "Allow external access"
 msgstr "बाहरी उपयोग प्रदान कयो"
 
-#: tmp_strings.xml:157(string)
+#: tmp_strings.xml:156(string)
 msgid "Allow other applications to secure your data with OI Safe"
 msgstr "ब्य्न अनुप्रयोगन खे तहान्जो  डाटा सुरक्षित करण जी अनुमति दीएन्दो  आ"
 
-#: tmp_strings.xml:158(string)
+#: tmp_strings.xml:157(string)
 msgid "OI Safe: Another application requests access."
 msgstr "OI सुरक्षित: ब्यो अनुप्रयोग पहुचायण जी अनुमति तो घूरे"
 
-#: tmp_strings.xml:159(string)
+#: tmp_strings.xml:158(string)
 msgid "Allow other applications to secure your data with OI Safe."
 msgstr "ब्य्न अनुप्रयोगन खे तहान्जो  डाटा सुरक्षित करण जी अनुमति दीएन्दो  आ"
 
-#: tmp_strings.xml:160(string)
+#: tmp_strings.xml:159(string)
 msgid "This can also be set in OI Safe's Menu / Settings."
 msgstr "ईयो OI सुरक्षित जी मेनू/सेत्तिंग्स में भी बदल जी तोह  सगे"
 
 #. Preference title for auto lock timeout
-#: tmp_strings.xml:163(string) tmp_strings.xml:168(string)
+#: tmp_strings.xml:162(string) tmp_strings.xml:167(string)
 msgid "Auto lock timeout"
 msgstr "अपने आप लोकक करने का समये"
 
 #. Preference summary for auto lock timeout
-#: tmp_strings.xml:166(string)
+#: tmp_strings.xml:165(string)
 msgid "Number of minutes before timeout occurs and safe is locked"
 msgstr "मिनटन जी संख्या जेहेंखा पो टाइमआउट थीन्दो आ अऊँ सुरक्षित बंद थी वेंडी आ"
 
 #. Preference title for lock (OI Safe) on screen lock (device)
-#: tmp_strings.xml:171(string)
+#: tmp_strings.xml:170(string)
 msgid "Lock on screen lock"
 msgstr "स्क्रीन बंद में बंद कयो"
 
 #. Preference summary for lock (OI Safe) on screen lock
-#: tmp_strings.xml:174(string)
+#: tmp_strings.xml:173(string)
 msgid "Lock when the screen locks"
 msgstr "स्क्रीन बंद में बंद कयो"
 
 #. Preference title: use a numeric keypad to enter the password
-#: tmp_strings.xml:177(string)
+#: tmp_strings.xml:176(string)
 msgid "Keypad"
 msgstr "कीपैड"
 
 #. Preference summary: for a numeric keypad
-#: tmp_strings.xml:180(string)
+#: tmp_strings.xml:179(string)
 msgid "Use a keypad to enter Master Password"
 msgstr "कीपद जो इस्तेनल कयो मुख्या प्पास्वोर्ड भरण लाये"
 
 #. Preference title for keypad mute
-#: tmp_strings.xml:183(string)
+#: tmp_strings.xml:182(string)
 msgid "Keypad Mute"
 msgstr "कीपैड शांत"
 
 #. Preference summary: Make the keypad sounds mute. 
 #. 	     If a user chooses this, then the keypad does not sound when pressing the keys.
-#: tmp_strings.xml:187(string)
+#: tmp_strings.xml:186(string)
 msgid "Mute keypad sounds"
 msgstr "कीपैड कि आवाज़ बंद"
 
-#: tmp_strings.xml:189(string)
+#: tmp_strings.xml:188(string)
 msgid "Auto backup"
 msgstr "स्वतः बैकअप"
 
-#: tmp_strings.xml:190(string)
+#: tmp_strings.xml:189(string)
 msgid "Automatically prompt to backup passwords"
 msgstr "स्वतः बैकअप का पासवर्ड खे पूछ्यो"
 
-#: tmp_strings.xml:192(string)
+#: tmp_strings.xml:191(string)
 msgid "Auto backup days"
 msgstr "स्वतः बैकअप करण या दिन्यं"
 
-#: tmp_strings.xml:193(string)
+#: tmp_strings.xml:192(string)
 msgid "Number of days to wait before next auto backup"
 msgstr "दिनों जी संख्या स्वतःबैकअप करण सां पहरों"
 
-#: tmp_strings.xml:194(string)
+#: tmp_strings.xml:193(string)
 msgid "Auto Backup Days"
 msgstr "स्वतः बैकअप दिन"
 
-#: tmp_strings.xml:196(string)
+#: tmp_strings.xml:195(string)
 msgid "Default backup path"
 msgstr "देफौल्ट बैकअप पथ"
 
-#: tmp_strings.xml:197(string)
+#: tmp_strings.xml:196(string)
 msgid "Default export path"
 msgstr "देफौल्ट निर्यात पथ"
 
-#: tmp_strings.xml:200(string)
+#: tmp_strings.xml:199(string)
 msgid "Decrypt (OI Safe)"
 msgstr "(विकोड (OI  सुरक्षित"
 
-#: tmp_strings.xml:201(string)
+#: tmp_strings.xml:200(string)
 msgid "Encrypt (OI Safe)"
 msgstr "(गोपनीय(OI  सुरक्षित"
 
-#: tmp_strings.xml:202(string)
+#: tmp_strings.xml:201(string)
 msgid "Get password (OI Safe)"
 msgstr "(पासवर्ड लाए(OI  सुरक्षित"
 
-#: tmp_strings.xml:203(string)
+#: tmp_strings.xml:202(string)
 msgid "Set password (OI Safe)"
 msgstr "(पासवर्ड रख्यो(OI  सुरक्षित"
 
-#: tmp_strings.xml:204(string)
+#: tmp_strings.xml:203(string)
 msgid "Restart timer (OI Safe)"
 msgstr "(ताईमेर वारी सां चालू कयो (OI  सुरक्षित"
 
-#: tmp_strings.xml:205(string)
+#: tmp_strings.xml:204(string)
 msgid "Open OI Safe"
 msgstr "OI सुरक्षित खोल्यो"
 
-#: tmp_strings.xml:207(string)
+#: tmp_strings.xml:206(string)
 msgid "Continue"
 msgstr "|जारी रख्यो"
 
-#: tmp_strings.xml:208(string)
+#: tmp_strings.xml:207(string)
 msgid "Generate Password"
 msgstr "पासवर्ड ठायो"
 
-#: tmp_strings.xml:209(string)
+#: tmp_strings.xml:208(string)
 msgid "Password Length"
 msgstr "पासवर्ड जी लम्बाई"
 
-#: tmp_strings.xml:210(string)
+#: tmp_strings.xml:209(string)
 msgid "Uppercase [A-Z]"
 msgstr "[उपरी केस [A-Z"
 
-#: tmp_strings.xml:211(string)
+#: tmp_strings.xml:210(string)
 msgid "Lowercase [a-z]"
 msgstr "[निचारी केस [a-z"
 
-#: tmp_strings.xml:212(string)
+#: tmp_strings.xml:211(string)
 msgid "Numbers [0-9]"
 msgstr "[संख्या [०-९"
 
-#: tmp_strings.xml:213(string)
+#: tmp_strings.xml:212(string)
 msgid "Symbols [!@#$%^\\*]"
 msgstr "प्रतींको [!@#$%^\\*]"
 
-#: tmp_strings.xml:214(string)
+#: tmp_strings.xml:213(string)
 msgid "Copy to Current Entry"
 msgstr "वर्तमान एंट्री में कॉपी करें"
 
-#: tmp_strings.xml:215(string)
+#: tmp_strings.xml:214(string)
 msgid "Copy to Clipboard"
 msgstr "क्लिपबोर्ड में कॉपी करें"
 
-#: tmp_strings.xml:216(string)
+#: tmp_strings.xml:215(string)
 msgid "Cancel"
 msgstr "|रद्द क्यो"
 
-#: tmp_strings.xml:217(string)
+#: tmp_strings.xml:216(string)
 msgid "Discard changes"
 msgstr "परिवर्तन फेंक छादयो"
 
-#: tmp_strings.xml:218(string)
+#: tmp_strings.xml:217(string)
 msgid "Entry saved"
 msgstr "एंट्री सुरक्षित थी वई"
 
-#: tmp_strings.xml:219(string)
+#: tmp_strings.xml:218(string)
 msgid "Unable to save due to database error"
 msgstr "डाटाबेस त्रुटि जे कारण न बचाऐ सग्यास"
 
-#: tmp_strings.xml:220(string)
+#: tmp_strings.xml:219(string)
 msgid "Last edited"
 msgstr "आखरी बार संशोधित"
 
-#: tmp_strings.xml:221(string)
+#: tmp_strings.xml:220(string)
 msgid "unknown"
 msgstr "अज्ञात"
 
-#: tmp_strings.xml:222(string)
+#: tmp_strings.xml:221(string)
 msgid "Crypto error:"
 msgstr "क्रिप्टो त्रुटि:"
 
-#: tmp_strings.xml:223(string)
+#: tmp_strings.xml:222(string)
 msgid "Unique name"
 msgstr "अनूठा नाम"
 
-#: tmp_strings.xml:224(string)
+#: tmp_strings.xml:223(string)
 msgid "Package access"
 msgstr "पैकेज पहुँच"
 
-#: tmp_strings.xml:225(string)
+#: tmp_strings.xml:224(string)
 msgid "not found"
 msgstr "नहीं मिला"
 
-#: tmp_strings.xml:226(string)
+#: tmp_strings.xml:225(string)
 msgid "New master key"
 msgstr "नयी मुख्य चाबी"
 
-#: tmp_strings.xml:227(string)
+#: tmp_strings.xml:226(string)
 msgid ""
 "A new random master key has been created. Use menu &gt; backup and store "
 "this key in a safe place. Without this key you may lose encrypted data."
@@ -716,125 +713,130 @@ msgstr ""
 "हिक्क नयी क्रमरहित मुख्य चाबी ठई वई आ| इन्ह चाबीय खे सुरक्षित स्थान ते रखन लाये मेनू &gt;"
 "बैकुप जो प्रयोग कयो| इन्ह चाबीय जे बिना तहां पंजो डाटा खोएजी ता सगो"
 
-#: tmp_strings.xml:228(string)
+#: tmp_strings.xml:227(string)
 msgid "Switch mode"
 msgstr "मोड़े बदल्यो"
 
-#: tmp_strings.xml:229(string)
+#: tmp_strings.xml:228(string)
 msgid "Decrypting..."
 msgstr "विकोड थे तो पयों"
 
-#: tmp_strings.xml:230(string)
+#: tmp_strings.xml:229(string)
 msgid "Search"
 msgstr "खोजयो"
 
-#: tmp_strings.xml:231(string)
+#: tmp_strings.xml:230(string)
 msgid "Searching..."
 msgstr "खोज थे ती"
 
-#: tmp_strings.xml:232(string)
+#: tmp_strings.xml:231(string)
 msgid "Type search criteria"
 msgstr "खोजन जो मापदंड लिख्यो"
 
-#: tmp_strings.xml:233(string)
+#: tmp_strings.xml:232(string)
 msgid "Nothing found"
 msgstr "कुछ न मिल्यो"
 
-#: tmp_strings.xml:234(string)
+#: tmp_strings.xml:233(string)
 msgid "Mute"
 msgstr "मूक"
 
-#: tmp_strings.xml:235(string)
+#: tmp_strings.xml:234(string)
 msgid "Sounds"
 msgstr "आवाजें"
 
-#: tmp_strings.xml:236(string)
+#: tmp_strings.xml:235(string)
 msgid "Previous"
 msgstr "पिछला"
 
-#: tmp_strings.xml:237(string)
+#: tmp_strings.xml:236(string)
 msgid "Next"
 msgstr "अगला"
 
-#: tmp_strings.xml:238(string)
+#: tmp_strings.xml:237(string)
 msgid "AutoBackup"
 msgstr "स्वतः बैकअप"
 
-#: tmp_strings.xml:239(string)
+#: tmp_strings.xml:238(string)
 msgid "No backup has been performed yet. Would you like to backup now?"
 msgstr "?हिम्म्ल ताणी कोई बैकअप न थ्यो आ| शा तहां हिम्म्ल बैकअप करण चाहीन्दावा"
 
-#: tmp_strings.xml:240(string)
+#: tmp_strings.xml:239(string)
 msgid "The last backup was %d days ago. Would you like to backup now?"
 msgstr "हिम्म्ल ताणी कोई बैकअप न थ्यो आ| शा तहां हिम्म्ल बैकअप करण चाहीन्दावा ?"
 
-#: tmp_strings.xml:241(string)
+#: tmp_strings.xml:240(string)
 msgid "Turn off autobackup"
 msgstr "स्वतः बैकअप बंद कयो"
 
-#: tmp_strings.xml:242(string)
+#: tmp_strings.xml:241(string)
 msgid "Time to autolock: %s"
 msgstr "स्वतः लोक करण जो समय:%s"
 
-#: tmp_strings.xml:243(string)
+#: tmp_strings.xml:242(string)
 msgid "While not downloaded, default location will be used."
 msgstr "जेस ताणी डाउनलोड नाथो  थे टेस ताणी देफौल्ट जगह इस्तेमाल थीन्दी"
 
-#: tmp_strings.xml:244(string)
+#: tmp_strings.xml:243(string)
 msgid "A backup file was found. Would you like to restore it?"
 msgstr ""
 
-#: tmp_strings.xml:245(string)
+#: tmp_strings.xml:244(string)
 msgid "Backup file found"
 msgstr ""
 
-#: tmp_strings.xml:246(string)
+#: tmp_strings.xml:245(string)
 msgid "0"
 msgstr ""
 
-#: tmp_strings.xml:247(string)
+#: tmp_strings.xml:246(string)
 msgid "1"
 msgstr ""
 
-#: tmp_strings.xml:248(string)
+#: tmp_strings.xml:247(string)
 msgid "2"
 msgstr ""
 
-#: tmp_strings.xml:249(string)
+#: tmp_strings.xml:248(string)
 msgid "3"
 msgstr ""
 
-#: tmp_strings.xml:250(string)
+#: tmp_strings.xml:249(string)
 msgid "4"
 msgstr ""
 
-#: tmp_strings.xml:251(string)
+#: tmp_strings.xml:250(string)
 msgid "5"
 msgstr ""
 
-#: tmp_strings.xml:252(string)
+#: tmp_strings.xml:251(string)
 msgid "6"
 msgstr ""
 
-#: tmp_strings.xml:253(string)
+#: tmp_strings.xml:252(string)
 msgid "7"
 msgstr ""
 
-#: tmp_strings.xml:254(string)
+#: tmp_strings.xml:253(string)
 msgid "8"
 msgstr ""
 
-#: tmp_strings.xml:255(string)
+#: tmp_strings.xml:254(string)
 msgid "9"
 msgstr ""
 
-#: tmp_strings.xml:256(string)
+#: tmp_strings.xml:255(string)
 msgid "#"
 msgstr ""
 
-#: tmp_strings.xml:257(string)
+#: tmp_strings.xml:256(string)
 msgid "*"
 msgstr ""
+
+#: tmp_strings.xml:257(string)
+#, fuzzy
+msgid "Invalid URL"
+msgstr "वेबसाइट गलत तव"
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -897,3 +899,6 @@ msgstr "३० दिन"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "६० दिन"
+
+
+

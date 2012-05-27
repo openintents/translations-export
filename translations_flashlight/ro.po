@@ -59,19 +59,9 @@ msgstr "Selector de culoare OI"
 msgid "Preferences"
 msgstr "Preferințe"
 
-#: tmp_strings.xml:34(string)
-msgid "Keep color"
-msgstr "Păstrează culoarea"
-
-#: tmp_strings.xml:35(string)
-msgid "Save color for next time Flashlight app is started"
-msgstr ""
-"Salvează culoarea pentru următoarea dată când aplicația Flashlight este "
-"pornită."
-
 #. Explanation that is displayed if Color Picker has not been installed yet, but 
 #. 		user tries to access it.
-#: tmp_strings.xml:43(string)
+#: tmp_strings.xml:41(string)
 msgid ""
 "To make the Color Picker more useful to other developers, we have split it "
 "into its own app."
@@ -79,19 +69,45 @@ msgstr ""
 "Pentru a face Selectorul de culoare mai folositor pentru ceilalți "
 "dezvoltatori, l-am separat în propria sa aplicație."
 
-#: tmp_strings.xml:44(string)
+#: tmp_strings.xml:42(string)
 msgid "Use camera flash"
 msgstr "Folosește blițul"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:43(string)
 msgid "Use the camera flash instead of the screen backlight."
 msgstr "Folosește blițul în locul luminii din spatele ecranului."
 
 #. Information to enable the camera flash as flashlight.
-#: tmp_strings.xml:47(string)
+#: tmp_strings.xml:45(string)
 msgid "Press to enable camera light (May take a second)."
 msgstr "Apăsați pentru a activa lumina camerei (Poate dura o secundă)."
 
-#: tmp_strings.xml:48(string)
+#: tmp_strings.xml:46(string)
 msgid "Press to disable camera light."
 msgstr "Apăsați pentru a dezactiva lumina camerei."
+
+#: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
+msgid "Choose Color Options"
+msgstr ""
+
+#: tmp_strings.xml:48(string)
+msgid "Choose either to remember color or to display random colors"
+msgstr ""
+
+#: tmp_strings.xml:51(item)
+#, fuzzy
+msgid "Keep Color"
+msgstr "Păstrează culoarea"
+
+#: tmp_strings.xml:52(item)
+msgid "Random Color"
+msgstr ""
+
+#: tmp_strings.xml:53(item)
+msgid "White"
+msgstr ""
+
+
+
+
+

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Prateek Arora <prateekandroid@gmail.com>\n"
 "Language-Team: Hindi <hi@li.org>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
@@ -25,6 +25,7 @@ msgstr ""
 "Launchpad Contributions:\n"
 "  Atharva Lath https://launchpad.net/~atharvalath96\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
+"  Prateek Arora https://launchpad.net/~prateekandroid\n"
 "  happynawani https://launchpad.net/~happynawani"
 
 #. Short explanation of the application (max. 80 characters)
@@ -313,4 +314,4 @@ msgstr "10 मिनट"
 
 #: tmp_strings.xml:170(string)
 msgid "OI Countdown doesn't have the permission for this task."
-msgstr ""
+msgstr "OI उल्टी गिनती के पास इस कार्य के लिए अनुमति नहीं है।"

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Tanguy Herrmann <Unknown>\n"
 "Language-Team: French <fr@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -23,6 +23,8 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
+"  Stanislas Michalak https://launchpad.net/~stanislas-michalak\n"
+"  Tanguy Herrmann https://launchpad.net/~dolanor\n"
 "  kartik https://launchpad.net/~b-ballkartik96"
 
 #. Description of application
@@ -193,55 +195,64 @@ msgid ""
 "OI Countdown is a helpful timer to increase your productivity and plan your "
 "day."
 msgstr ""
+"OI Countdown est une application de compte à rebours permettant d'accroître "
+"votre productivité et organiser votre journée."
 
 #: tmp_strings.xml:67(string)
 msgid ""
 "It allows you to set a variety of different actions to notify you at the end "
 "of a timer."
 msgstr ""
+"Elle vous permet de paramétrer une variété d'actions pour vous notifier à la "
+"fin d'un compte à rebours."
 
 #: tmp_strings.xml:68(string)
 msgid ""
 "Fully customize all your timers, with no limit on how many you can have "
 "running or saved."
 msgstr ""
+"Personnalisez complètement vos comptes à rebours, sans limite sur le nombre "
+"de compte à rebours lancés ou enregistrés."
 
 #: tmp_strings.xml:85(listitem)
 msgid "Set a countdown by choosing a duration or a date."
-msgstr ""
+msgstr "Paramétrez un compte à rebours en choisissant une durée ou une date."
 
 #: tmp_strings.xml:86(listitem)
 msgid "Be notified by vibration or any sound of your choice."
-msgstr ""
+msgstr "Soyez notifié par une vibration ou n'importe quel son de votre choix."
 
 #: tmp_strings.xml:87(listitem)
 msgid "Have an unlimited number of timers running at the same time."
-msgstr ""
+msgstr "Ayez un nombre illimité de compte à rebours lancé au même moment."
 
 #: tmp_strings.xml:88(listitem)
 msgid "Save your countdowns and give them names to reuse at later times."
 msgstr ""
+"Sauvegardez vos compte à rebours et donnez-leur des noms pour les réutiliser "
+"plus tard."
 
 #: tmp_strings.xml:89(listitem)
 msgid "Modify countdowns, even while they are still running"
 msgstr ""
+"Modifiez des compte à rebours, même s'ils sont encore en train de fonctionner"
 
 #: tmp_strings.xml:91(string)
 msgid "Available extensions for \"OI Countdown\":"
-msgstr ""
+msgstr "Greffons disponible pour \"OI Countdown\":"
 
 #: tmp_strings.xml:92(listitem)
 msgid "Launch applications through Android shortcuts"
-msgstr ""
+msgstr "Lancer des applications avec les raccourcis Android"
 
 #: tmp_strings.xml:93(listitem)
 msgid "Use OI About to show license information"
-msgstr ""
+msgstr "Utilisez OI About pour montrer vos informations de licence"
 
 #. Keywords: List several related key words and variations in your language and in English that people might search for.
 #: tmp_strings.xml:97(listitem)
 msgid "countdown, timer, alert"
-msgstr ""
+msgstr "countdown, timer, alert, compte à rebours, alarme, alerte, minuteur"
 
 #. Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for.
 #: tmp_strings.xml:99(listitem) tmp_strings.xml:197(listitem)

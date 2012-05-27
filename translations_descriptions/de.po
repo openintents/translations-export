@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Dennis Baudys <Unknown>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -18,6 +18,7 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Debug Mode https://launchpad.net/~thedebugmode\n"
+"  Dennis Baudys https://launchpad.net/~thecondordb\n"
 "  Hans https://launchpad.net/~hans-wuerstchen42\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Patrick Eigensatz https://launchpad.net/~p.eigensatz"
@@ -98,11 +99,11 @@ msgstr ""
 #: tmp_strings.xml:230(string) tmp_strings.xml:285(string)
 #: tmp_strings.xml:340(string)
 msgid "Features:"
-msgstr "Eigentschaften:"
+msgstr "Leistungsmerkmale:"
 
 #: tmp_strings.xml:30(listitem)
 msgid "Shows general info, credits, and license tabs."
-msgstr "Zeigt allgemeine Informationen, Danksagungen und Lizenztabs"
+msgstr "Die Reiter Allgemeine Informationen, Danksagungen und Lizenz anzeigen."
 
 #: tmp_strings.xml:31(listitem)
 msgid "Shows translators of all language versions."
