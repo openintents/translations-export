@@ -45,11 +45,11 @@ msgid "Multi Select"
 msgstr ""
 
 #: tmp_strings.xml:39(string) tmp_strings.xml:81(string)
-#: tmp_strings.xml:170(string)
+#: tmp_strings.xml:170(string) tmp_strings.xml:205(string)
 msgid "Delete"
 msgstr "ລຶບ"
 
-#: tmp_strings.xml:40(string)
+#: tmp_strings.xml:40(string) tmp_strings.xml:209(string)
 msgid "Rename"
 msgstr "ປ່ຽນຊື່"
 
@@ -62,14 +62,16 @@ msgid "Open"
 msgstr "ເປີດ"
 
 #: tmp_strings.xml:43(string) tmp_strings.xml:79(string)
+#: tmp_strings.xml:206(string)
 msgid "Move"
 msgstr "ຍ້າຍ"
 
 #: tmp_strings.xml:44(string) tmp_strings.xml:80(string)
+#: tmp_strings.xml:207(string)
 msgid "Copy"
 msgstr ""
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:45(string) tmp_strings.xml:212(string)
 msgid "Details"
 msgstr ""
 
@@ -98,7 +100,7 @@ msgid "Exclude from media scan"
 msgstr ""
 
 #: tmp_strings.xml:52(string)
-msgid "Add to bookmarks"
+msgid "Bookmark"
 msgstr ""
 
 #: tmp_strings.xml:53(string)
@@ -319,7 +321,7 @@ msgid "Application not available"
 msgstr ""
 
 #. Menu item for Settings
-#: tmp_strings.xml:131(string)
+#: tmp_strings.xml:131(string) tmp_strings.xml:201(string)
 msgid "Settings"
 msgstr ""
 
@@ -399,7 +401,8 @@ msgstr ""
 msgid "File successfully saved!"
 msgstr ""
 
-#: tmp_strings.xml:168(string)
+#. new menu strings
+#: tmp_strings.xml:168(string) tmp_strings.xml:197(string)
 msgid "Bookmarks"
 msgstr ""
 
@@ -480,4 +483,75 @@ msgstr ""
 
 #: tmp_strings.xml:194(string)
 msgid "Do you want to change the file extension?"
+msgstr ""
+
+#: tmp_strings.xml:198(string) tmp_strings.xml:226(string)
+msgid "Search"
+msgstr ""
+
+#: tmp_strings.xml:199(string)
+#, fuzzy
+msgid "Create folder"
+msgstr "ສ້າງໂຟເດີໃຫມ່"
+
+#: tmp_strings.xml:200(string)
+msgid "Multiselect"
+msgstr ""
+
+#: tmp_strings.xml:202(string)
+msgid "About"
+msgstr ""
+
+#: tmp_strings.xml:204(string)
+msgid "Compress and send"
+msgstr ""
+
+#: tmp_strings.xml:208(string)
+msgid "Compress"
+msgstr ""
+
+#: tmp_strings.xml:211(string)
+msgid "Extract"
+msgstr ""
+
+#: tmp_strings.xml:213(string)
+msgid "Create shortcut"
+msgstr ""
+
+#: tmp_strings.xml:214(string)
+msgid "Send using:"
+msgstr ""
+
+#. Multi selection action strings
+#: tmp_strings.xml:217(string)
+msgid "selected"
+msgstr ""
+
+#: tmp_strings.xml:219(string)
+msgid "No bookmarks added."
+msgstr ""
+
+#. Search related
+#: tmp_strings.xml:222(string)
+msgid "Search files"
+msgstr ""
+
+#: tmp_strings.xml:223(string)
+msgid "Query error"
+msgstr ""
+
+#: tmp_strings.xml:224(string)
+msgid "Files and folders in storage"
+msgstr ""
+
+#: tmp_strings.xml:225(string)
+msgid "Clear history"
+msgstr ""
+
+#: tmp_strings.xml:227(string)
+msgid "Clear search history?"
+msgstr ""
+
+#: tmp_strings.xml:228(string)
+msgid "Search history cleared"
 msgstr ""

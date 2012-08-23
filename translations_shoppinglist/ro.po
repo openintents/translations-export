@@ -439,19 +439,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Alege ordinea de sortare pentru modul Selectează articole"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "scrie liste de cumpărături"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Schimbă ordinea de sortare a articolelor din listă"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Alege ordinea de sortare pentru modul Selectează articole"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -798,15 +795,13 @@ msgstr "nebifate la început, prioritate, alfabetic după etichete"
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "alfabetic"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "alfabetic"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

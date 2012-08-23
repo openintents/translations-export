@@ -810,9 +810,8 @@ msgid "*"
 msgstr ""
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "Site invalid"
+msgstr ""
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)

@@ -25,9 +25,11 @@ msgstr ""
 "Launchpad Contributions:\n"
 "  Alexander 'FONTER' Zinin https://launchpad.net/~spore-09\n"
 "  Alexander Sapronov https://launchpad.net/~warmonger\n"
+"  Artur https://launchpad.net/~arturyak\n"
 "  Nkolay Parukhin https://launchpad.net/~parukhin\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  Vasily Bogantsev https://launchpad.net/~bas-eurogym\n"
 "  Горобец Виктор (VikTHOR) https://launchpad.net/~victhor"
 
 #. Short explanation of the application (max. 80 characters)
@@ -62,9 +64,8 @@ msgid "Use menu to add new notes."
 msgstr "Используйте меню для добавления новых заметок."
 
 #: tmp_strings.xml:48(string)
-#, fuzzy
 msgid "Use the option above to add new notes."
-msgstr "Используйте меню для добавления новых заметок."
+msgstr ""
 
 #: tmp_strings.xml:50(string) tmp_strings.xml:54(string)
 msgid "Edit note"

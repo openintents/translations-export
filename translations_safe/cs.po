@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: clever_fox <clever_fox@seznam.cz>\n"
+"Last-Translator: clever_fox <xpavli44@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -843,9 +843,8 @@ msgid "*"
 msgstr "*"
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "Nesprávná webová stránka"
+msgstr ""
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -908,6 +907,3 @@ msgstr "30 dní"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 dní"
-
-
-

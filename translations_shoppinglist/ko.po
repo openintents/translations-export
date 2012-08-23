@@ -435,19 +435,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "항목 선택 모드에서의 정렬 순서를 고르세요"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "쇼핑 목록 쓰기"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "목록 항목 순서 바꾸기"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "항목 선택 모드에서의 정렬 순서를 고르세요"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -777,15 +774,13 @@ msgstr "체크되지 않은 항목 먼저, 우선 순위, 태그 일파벳 순"
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "일파벳 순"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "일파벳 순"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Shitiz Garg <Unknown>\n"
+"Last-Translator: OpenIntents devs <Unknown>\n"
 "Language-Team: Hindi <hi@li.org>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
@@ -436,19 +436,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "आइटम चुनने के मोड का क्रम बद्ध चुनिए"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "खरीदारी सूची लिखें"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "सूची आइटम का क्रम बद्ध बदलिए"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "आइटम चुनने के मोड का क्रम बद्ध चुनिए"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -776,15 +773,13 @@ msgstr "अचिन्हित पहले, प्रधानता, टा�
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "वर्णमाला"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "वर्णमाला"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

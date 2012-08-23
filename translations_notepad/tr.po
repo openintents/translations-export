@@ -28,7 +28,8 @@ msgstr ""
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
 "  ariza95 https://launchpad.net/~alirizanazli95\n"
-"  ehturan https://launchpad.net/~ehturan1968"
+"  ehturan https://launchpad.net/~ehturan1968\n"
+"  zeugma https://launchpad.net/~sunder67"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:33(string)
@@ -62,9 +63,8 @@ msgid "Use menu to add new notes."
 msgstr "Yeni not eklemek için menüyü kullanın"
 
 #: tmp_strings.xml:48(string)
-#, fuzzy
 msgid "Use the option above to add new notes."
-msgstr "Yeni not eklemek için menüyü kullanın"
+msgstr ""
 
 #: tmp_strings.xml:50(string) tmp_strings.xml:54(string)
 msgid "Edit note"

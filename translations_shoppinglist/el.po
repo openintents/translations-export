@@ -437,19 +437,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Επιλογή σειράς ταξινόμησης για τη λειτουργία Επιλογής Αντικειμένων."
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "εγγραφή λιστών αγορών"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Αλλαγή σειράς ταξινόμησης στοιχείων λίστας"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Επιλογή σειράς ταξινόμησης για τη λειτουργία Επιλογής Αντικειμένων."
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -794,15 +791,13 @@ msgstr "μη σημειωμένα αρχικά, προτεραιότητα, αλ
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "με αλφαβητική σειρά"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "με αλφαβητική σειρά"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

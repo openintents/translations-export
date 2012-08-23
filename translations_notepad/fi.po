@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Heikki Kulhia <Unknown>\n"
+"Last-Translator: Tommi Saira <Unknown>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -24,12 +24,13 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Peli https://launchpad.net/~peli0101\n"
-"  Tommi Saira https://launchpad.net/~tommisaira"
+"  Tommi Saira https://launchpad.net/~tommisaira\n"
+"  emp https://launchpad.net/~emp500"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:33(string)
 msgid "Create and share your notes with OI Notepad."
-msgstr ""
+msgstr "Luo ja jaa muistiinpanojasi OI Muistiolla."
 
 #. Name of application. Can be localized. OI = OpenIntents should stay unmodified.
 #: tmp_strings.xml:40(string) tmp_strings.xml:55(string)
@@ -58,9 +59,8 @@ msgid "Use menu to add new notes."
 msgstr "Käytä valikkoa lisätäksesia uusia muistiinpanoja."
 
 #: tmp_strings.xml:48(string)
-#, fuzzy
 msgid "Use the option above to add new notes."
-msgstr "Käytä valikkoa lisätäksesia uusia muistiinpanoja."
+msgstr ""
 
 #: tmp_strings.xml:50(string) tmp_strings.xml:54(string)
 msgid "Edit note"
@@ -84,16 +84,16 @@ msgstr "Muistiinpanon otsikko"
 
 #: tmp_strings.xml:58(string)
 msgid "%s (new note)"
-msgstr ""
+msgstr "%s (uusi muistiinpano)"
 
 #: tmp_strings.xml:59(string)
 msgid "%s (edit note)"
-msgstr ""
+msgstr "%s (muokkaa muistiinpanoa)"
 
 #. Title: Pick note for shortcut (to be placed on the home screen)
 #: tmp_strings.xml:62(string)
 msgid "Pick note for shortcut"
-msgstr ""
+msgstr "Valitse muistiinpano josta haluat pikakuvakkeen"
 
 #. Dialog box
 #: tmp_strings.xml:64(string) tmp_strings.xml:134(string)
@@ -111,7 +111,7 @@ msgstr "Virhe ladattaessa muistiinpanoa"
 #. <string name="no_notes">Note list is empty.</string>
 #: tmp_strings.xml:70(string)
 msgid "Share"
-msgstr ""
+msgstr "Jaa"
 
 #: tmp_strings.xml:71(string)
 msgid "Empty note"
@@ -119,7 +119,7 @@ msgstr "Tyhjä muistiinpano"
 
 #: tmp_strings.xml:72(string)
 msgid "No application available for sharing."
-msgstr ""
+msgstr "Ei löytynyt ohjelmaa, jolla voisi jakaa."
 
 #: tmp_strings.xml:74(string)
 msgid "Encrypting note"
@@ -151,7 +151,7 @@ msgstr "Muistiinpano on jo salattu"
 
 #: tmp_strings.xml:81(string)
 msgid "Not encrypted."
-msgstr ""
+msgstr "Ei salattu."
 
 #: tmp_strings.xml:82(string)
 msgid "Encryption failed."
@@ -220,15 +220,15 @@ msgstr "Haluatko todella ylikirjoittaa olemessa tiedostoa?"
 
 #: tmp_strings.xml:101(string)
 msgid "Word count"
-msgstr ""
+msgstr "Sanamäärä"
 
 #: tmp_strings.xml:103(item)
 msgid "One word."
-msgstr ""
+msgstr "Yksi sana."
 
 #: tmp_strings.xml:104(item)
 msgid "%d words."
-msgstr ""
+msgstr "%d sanaa."
 
 #. Menu command to import the currently open note (that has been opened from SD card) into the internal list of notes.
 #: tmp_strings.xml:108(string)
@@ -245,280 +245,288 @@ msgstr "Tekstiä muokattu"
 
 #: tmp_strings.xml:112(string)
 msgid "Do you want to save the changes?"
-msgstr ""
+msgstr "Haluatko tallentaa muutokset?"
 
 #: tmp_strings.xml:114(string)
 msgid "Don't save"
-msgstr ""
+msgstr "Älä tallenna"
 
 #: tmp_strings.xml:116(string)
 msgid "Theme"
-msgstr ""
+msgstr "Teema"
 
 #: tmp_strings.xml:117(string)
 msgid "Pick a theme"
-msgstr ""
+msgstr "Valitse teema"
 
 #. Preference fontsize: default font size
 #: tmp_strings.xml:118(string) tmp_strings.xml:210(item)
 msgid "Default"
-msgstr ""
+msgstr "Oletus"
 
 #: tmp_strings.xml:119(string)
 msgid "Monospaced font"
-msgstr ""
+msgstr "Kiinteävälinen fontti"
 
 #: tmp_strings.xml:120(string)
 msgid "Serif font"
-msgstr ""
+msgstr "Päätteelinen fontti"
 
 #. Search
 #: tmp_strings.xml:123(string) tmp_strings.xml:128(string)
 msgid "Search"
-msgstr ""
+msgstr "Hae"
 
 #. %s is the search string
 #: tmp_strings.xml:126(string)
 msgid "No results found for %s."
-msgstr ""
+msgstr "Tuloksia ei löytynyt hakusanalla %s"
 
 #: tmp_strings.xml:127(string)
 msgid "OI Notepad search"
-msgstr ""
+msgstr "OI Muistion haku"
 
 #. The description that will show up in the search settings for this source.
 #: tmp_strings.xml:131(string)
 msgid "Titles of your notes"
-msgstr ""
+msgstr "Muistiinpanojesi otsikot"
 
 #: tmp_strings.xml:135(string)
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuta"
 
 #: tmp_strings.xml:136(string)
 msgid "Use this theme for all lists"
-msgstr ""
+msgstr "Käytä tätä teemaa kaikille listoille"
 
 #: tmp_strings.xml:137(string)
 msgid "Get more themes"
-msgstr ""
+msgstr "Lataa lisää teemoja"
 
 #: tmp_strings.xml:139(string)
 msgid "All notes"
-msgstr ""
+msgstr "Kaikki muistiinpanot"
 
 #. Title for settings regarding the list of notes
 #: tmp_strings.xml:143(string)
 msgid "Notes List"
-msgstr ""
+msgstr "Muistiinpanolista"
 
 #: tmp_strings.xml:144(string) tmp_strings.xml:145(string)
 msgid "List Sorting Order"
-msgstr ""
+msgstr "Listan järjestelemisen järjestys"
 
 #: tmp_strings.xml:146(string)
 msgid "The order in which notes are shown in the notes list"
-msgstr ""
+msgstr "Järjestys jossa muistiinpanot näytetään muistiinpanolistassa"
 
 #: tmp_strings.xml:147(string)
 msgid "Marquee note titles."
-msgstr ""
+msgstr "Päällystä muistiinpanojen otsikot"
 
 #: tmp_strings.xml:148(string)
 msgid "Continuously scroll note titles that are too long."
 msgstr ""
+"Selaa jatkuvasti niiden muistiinpanojen otsikot, jotka ovat liian pitkiä"
 
 #: tmp_strings.xml:150(string)
 msgid "Note Editor"
-msgstr ""
+msgstr "Muistiinpanoeditori"
 
 #: tmp_strings.xml:151(string)
 msgid "Font size"
-msgstr ""
+msgstr "Fontin koko"
 
 #: tmp_strings.xml:152(string)
 msgid "Change font size"
-msgstr ""
+msgstr "Vaihda fontin koko"
 
 #: tmp_strings.xml:153(string)
 msgid "Choose font size"
-msgstr ""
+msgstr "Valitse fontin koko"
 
 #: tmp_strings.xml:154(string)
 msgid "Auto-create Links"
-msgstr ""
+msgstr "Luo linkit automaattisesti"
 
 #: tmp_strings.xml:155(string)
 msgid "Create links for phone numbers and email/street/web addresses"
 msgstr ""
+"Luo linkit puhelinnumeroille ja sähköposteille/katuosoitteille/www-sivuille"
 
 #: tmp_strings.xml:156(string)
 msgid "Do not create links on notes"
-msgstr ""
+msgstr "Älä luo linkkejä muistiinpanoihin"
 
 #: tmp_strings.xml:157(string)
 msgid "Character count"
-msgstr ""
+msgstr "Merkkimäärä"
 
 #: tmp_strings.xml:158(string)
 msgid "Show character count in editor"
-msgstr ""
+msgstr "Näytä merkkimäärä editorissa"
 
 #: tmp_strings.xml:159(string)
 msgid "Do not show character count in editor"
-msgstr ""
+msgstr "Älä näytä merkkimäärää editorissa"
 
 #: tmp_strings.xml:161(string)
 msgid "Settings"
-msgstr ""
+msgstr "Asetukset"
 
 #: tmp_strings.xml:162(string)
 msgid "Sort Order"
-msgstr ""
+msgstr "Järjestys"
 
 #. Permission to read notes.
 #: tmp_strings.xml:170(string)
 msgid "read notes"
-msgstr ""
+msgstr "lue muistiinpanoja"
 
 #: tmp_strings.xml:171(string)
 msgid ""
 "Allows an application to read notes. Note that encrypted notes are provided "
 "in the encrypted format."
 msgstr ""
+"Sallii ohjelman lukea muistiinpanoja. Ota huomioon, että salatut "
+"muistiinpanot ovat saatavilla vain salatussa muodossa."
 
 #. Permission to write notes.
 #: tmp_strings.xml:173(string)
 msgid "write notes"
-msgstr ""
+msgstr "kirjoita muistiinpanoja"
 
 #: tmp_strings.xml:174(string)
 msgid "Allows an application to create new notes or modify existing notes."
-msgstr ""
+msgstr "Sallii ohjelman luoda uusi muistiinpanoja ja muokata nykyisiä."
 
 #. Permission to read shopping lists.
 #: tmp_strings.xml:178(string)
 msgid "read shopping lists"
-msgstr ""
+msgstr "lue ostoslistoja"
 
 #: tmp_strings.xml:179(string)
 msgid ""
 "Allows an application to read shopping lists. Note that encrypted lists and "
 "items are provided in the encrypted format."
 msgstr ""
+"Sallii ohjelman lukea ostoslistoja. Ota huomioon, että salatut ostoslistat "
+"ja tavarat näytetään salatussa muodossa."
 
 #. Permission to write shopping lists.
 #: tmp_strings.xml:181(string)
 msgid "write shopping lists"
-msgstr ""
+msgstr "kirjoita ostoslistoja"
 
 #: tmp_strings.xml:182(string)
 msgid ""
 "Allows an application to create new lists and items or modify existing ones."
-msgstr ""
+msgstr "Sallii ohjelman luoda uusia listoja ja muokata jo olemassaolevia."
 
 #. Permission to encrypt and decrypt data.
 #: tmp_strings.xml:186(string)
 msgid "encrypt and decrypt data"
-msgstr ""
+msgstr "salaa ja pura salaus tiedostoista"
 
 #: tmp_strings.xml:187(string)
 msgid ""
 "Allows the application to encrypt and decrypt text, and access the passwords "
 "they have stored in OI Safe."
 msgstr ""
+"Sallii ohjelman salata ja purkaa salaus tekstistä, ja saada pääsy "
+"salasanoihin jos ne ovat tallessa OI Turvassa."
 
 #: tmp_strings.xml:196(item)
 msgid "Alphabetical"
-msgstr ""
+msgstr "Aakkosellinen"
 
 #: tmp_strings.xml:197(item)
 msgid "Reverse Alphabetical"
-msgstr ""
+msgstr "Aakkosellinen takaperin"
 
 #: tmp_strings.xml:198(item)
 msgid "Last Modified"
-msgstr ""
+msgstr "Viimeksi muokattu"
 
 #: tmp_strings.xml:199(item)
 msgid "First Modified"
-msgstr ""
+msgstr "Ensimmäiseksi muokattu"
 
 #: tmp_strings.xml:200(item)
 msgid "Newest to Oldest"
-msgstr ""
+msgstr "Uusimmasta vanhimpaan"
 
 #: tmp_strings.xml:201(item)
 msgid "Oldest to Newest"
-msgstr ""
+msgstr "Vanhimmasta uusimpaan"
 
 #. Preference fontsize: tiny font size
 #: tmp_strings.xml:206(item)
 msgid "Tiny"
-msgstr ""
+msgstr "Erittäin pieni"
 
 #. Preference fontsize: small font size
 #: tmp_strings.xml:208(item)
 msgid "Small"
-msgstr ""
+msgstr "Pieni"
 
 #. Preference fontsize: large font size
 #: tmp_strings.xml:212(item)
 msgid "Large"
-msgstr ""
+msgstr "Suuri"
 
 #: tmp_strings.xml:215(string)
 msgid "Add-ons"
-msgstr ""
+msgstr "Lisäosat"
 
 #: tmp_strings.xml:216(string)
 msgid "Get new add-ons"
-msgstr ""
+msgstr "Lataa uusia lisäosia"
 
 #: tmp_strings.xml:217(string)
 msgid "Search for extensions and themes online."
-msgstr ""
+msgstr "Etsi lisäosia ja teemoja internetistä."
 
 #: tmp_strings.xml:218(string)
 msgid "Get add-ons from Market"
-msgstr ""
+msgstr "Lataa lisäosia Marketista"
 
 #: tmp_strings.xml:219(string)
 msgid "Get add-ons from OpenIntents"
-msgstr ""
+msgstr "Lataa lisäosia OpenIntents:ltä"
 
 #: tmp_strings.xml:220(string)
 msgid "Extensions"
-msgstr ""
+msgstr "Laajennokset"
 
 #: tmp_strings.xml:221(string)
 msgid "Themes"
-msgstr ""
+msgstr "Teemat"
 
 #: tmp_strings.xml:222(string)
 msgid "Search for extensions at Android Market."
-msgstr ""
+msgstr "Hae laajennoksia Android Marketista."
 
 #: tmp_strings.xml:223(string)
 msgid "Search for themes at Android Market."
-msgstr ""
+msgstr "Hae teemoja Android Marketista."
 
 #: tmp_strings.xml:224(string)
 msgid "Get extensions from the OpenIntents homepage."
-msgstr ""
+msgstr "Lataa laajennoksia OpenIntents kotisivuilta."
 
 #: tmp_strings.xml:225(string)
 msgid "Get themes from the OpenIntents homepage."
-msgstr ""
+msgstr "Lataa teemoja OpenIntents kotisivuilta."
 
 #: tmp_strings.xml:226(string)
 msgid "Deletion Confirmation"
-msgstr ""
+msgstr "Vahvista poisto"
 
 #: tmp_strings.xml:227(string)
 msgid "Are you sure you want to delete this note?"
-msgstr ""
+msgstr "Oletko aivan varma, että haluat poistaa tämän muistiinpanon?"
 
 #: tmp_strings.xml:229(string)
 msgid "New note"
-msgstr ""
+msgstr "Uusi muistiinpano"

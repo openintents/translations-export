@@ -235,8 +235,8 @@ msgid "Converting..."
 msgstr "فونت فارسی..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "تصويب‌ كردن‌"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -354,3 +354,6 @@ msgid ""
 msgstr ""
 "پشتيبان‌ بازگرداند-- (برداشتن تمام مدارك موجود شما, csv سپس واردات پرونده "
 "كردند."
+
+
+

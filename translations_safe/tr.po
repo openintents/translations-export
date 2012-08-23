@@ -793,56 +793,55 @@ msgstr ""
 
 #: tmp_strings.xml:245(string)
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tmp_strings.xml:246(string)
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: tmp_strings.xml:247(string)
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: tmp_strings.xml:248(string)
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: tmp_strings.xml:249(string)
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: tmp_strings.xml:250(string)
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: tmp_strings.xml:251(string)
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: tmp_strings.xml:252(string)
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: tmp_strings.xml:253(string)
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: tmp_strings.xml:254(string)
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: tmp_strings.xml:255(string)
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: tmp_strings.xml:256(string)
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "Geçersiz web sitesi"
+msgstr ""
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -905,6 +904,3 @@ msgstr "30 gün"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 gün"
-
-
-

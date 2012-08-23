@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Peli <peli0101@googlemail.com>\n"
+"Last-Translator: Stanley <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -29,6 +29,7 @@ msgstr ""
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Patrick Eigensatz https://launchpad.net/~p.eigensatz\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  Stanley https://launchpad.net/~wurfkeks\n"
 "  appricoo https://launchpad.net/~appricoo"
 
 #. Short explanation of the application (max. 80 characters)
@@ -90,24 +91,21 @@ msgstr "Klicken Sie, um das Kameralicht zu deaktivieren."
 
 #: tmp_strings.xml:47(string) tmp_strings.xml:49(string)
 msgid "Choose Color Options"
-msgstr ""
+msgstr "Farb-Optionen"
 
 #: tmp_strings.xml:48(string)
 msgid "Choose either to remember color or to display random colors"
 msgstr ""
+"Wähle, ob die Farbe gespeichert oder eine zufällige angezeigt werden soll."
 
 #: tmp_strings.xml:51(item)
-#, fuzzy
 msgid "Keep Color"
-msgstr "Farbe beibehalten"
+msgstr "Farbe behalten"
 
 #: tmp_strings.xml:52(item)
 msgid "Random Color"
-msgstr ""
+msgstr "Zufällige Farbe"
 
 #: tmp_strings.xml:53(item)
 msgid "White"
-msgstr ""
-
-
-
+msgstr "Weiß"

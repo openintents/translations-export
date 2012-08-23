@@ -239,8 +239,8 @@ msgid "Converting..."
 msgstr "Конвертиране..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "Добре"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -359,3 +359,6 @@ msgid ""
 msgstr ""
 "Възстановяване на резервното копие- ИЗТРИЙ ВСИЧКИ ТВОЙ СЪЩЕСТВУВАЩИ ЗАПИСИ, "
 "след това вмъкни CSV файла."
+
+
+

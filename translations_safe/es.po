@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Fitoschido <fitoschido@gmail.com>\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -23,14 +23,15 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
-"  Fitoschido https://launchpad.net/~fitoschido\n"
+"  Adolfo Jayme Barrientos https://launchpad.net/~fitoschido\n"
 "  Javier Martínez Arrieta https://launchpad.net/~javote87\n"
 "  Martín González https://launchpad.net/~mgonzlezgmz\n"
 "  Monkey https://launchpad.net/~monkey-libre\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Paco Molinero https://launchpad.net/~franciscomol\n"
 "  Peli https://launchpad.net/~peli0101\n"
-"  miwie https://launchpad.net/~mw-miwie"
+"  miwie https://launchpad.net/~mw-miwie\n"
+"  victor tejada yau https://launchpad.net/~victormtyau"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:28(string)
@@ -854,9 +855,8 @@ msgid "*"
 msgstr "*"
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "Página web incorrecta"
+msgstr ""
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -919,6 +919,3 @@ msgstr "30 días"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 días"
-
-
-

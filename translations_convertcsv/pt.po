@@ -237,8 +237,8 @@ msgid "Converting..."
 msgstr "A converter..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "Aceitar"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -354,3 +354,6 @@ msgid ""
 msgstr ""
 "RESTAURAR - Elimina os registos existentes e depois importa os registos do "
 "CSV."
+
+
+

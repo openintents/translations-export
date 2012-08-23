@@ -233,8 +233,8 @@ msgid "Converting..."
 msgstr "ממיר..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "אישור"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -344,3 +344,6 @@ msgstr "כתיבה מחדש - רשומה בתוך CSV תכתוב מחדש רשו
 msgid ""
 "Restore Backup - DELETE ALL YOUR EXISTING RECORDS, then import the CSV file."
 msgstr "שחזור גיבוי - מחק את כל הרשומות הקיימות שלך, ואז ייבא את קובץ ה-CSV"
+
+
+

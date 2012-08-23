@@ -58,9 +58,8 @@ msgid "Use menu to add new notes."
 msgstr "Выкарыстоўвайце меню для дадання новых нататак."
 
 #: tmp_strings.xml:48(string)
-#, fuzzy
 msgid "Use the option above to add new notes."
-msgstr "Выкарыстоўвайце меню для дадання новых нататак."
+msgstr ""
 
 #: tmp_strings.xml:50(string) tmp_strings.xml:54(string)
 msgid "Edit note"

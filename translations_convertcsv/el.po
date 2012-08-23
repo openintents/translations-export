@@ -238,8 +238,8 @@ msgid "Converting..."
 msgstr "Γίνεται μετατροπή..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "Εντάξει"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -366,3 +366,6 @@ msgid ""
 msgstr ""
 "Επαναφορά Αντιγράφου Ασφαλείας - ΔΙΑΓΡΑΦΗ ΟΛΩΝ ΤΩΝ ΥΠΑΡΧΟΝΤΩΝ ΚΑΤΑΧΩΡΗΣΕΩΝ, "
 "έπειτα εισαγωγή του αρχείου CSV."
+
+
+

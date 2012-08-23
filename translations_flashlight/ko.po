@@ -89,9 +89,8 @@ msgid "Choose either to remember color or to display random colors"
 msgstr ""
 
 #: tmp_strings.xml:51(item)
-#, fuzzy
 msgid "Keep Color"
-msgstr "색 유지하기"
+msgstr ""
 
 #: tmp_strings.xml:52(item)
 msgid "Random Color"
@@ -100,6 +99,3 @@ msgstr ""
 #: tmp_strings.xml:53(item)
 msgid "White"
 msgstr ""
-
-
-

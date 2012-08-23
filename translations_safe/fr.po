@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Tanguy Herrmann <Unknown>\n"
+"Last-Translator: OpenIntents devs <Unknown>\n"
 "Language-Team: French <fr@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -862,9 +862,8 @@ msgid "*"
 msgstr "*"
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "Site invalide"
+msgstr ""
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -928,6 +927,3 @@ msgstr "30 jours"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 jours"
-
-
-

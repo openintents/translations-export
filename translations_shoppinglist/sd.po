@@ -435,19 +435,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "पिक्कआईटम मोड़े जे लाये अलग करण वारो क्रम चुन्दयो"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "खरीदारी सूची  लिख्यो"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "सूचीयो आइटम जोअलग करण वारो क्रम बदल्यो"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "पिक्कआईटम मोड़े जे लाये अलग करण वारो क्रम चुन्दयो"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -774,15 +771,13 @@ msgstr "जांच न थ्यल वारा पहरों ,प्रध
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "वर्णमाला"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "वर्णमाला"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

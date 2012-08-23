@@ -436,19 +436,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "בחר סדר מיון עבור מצב בחר פריטים"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "כתוב רשימת קניות"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "שנה סדר מיון לפריטי הרשימה"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "בחר סדר מיון עבור מצב בחר פריטים"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -775,15 +772,13 @@ msgstr "פריטים שלא סומנו, סדר עדיפויות, תגיות אל
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "אלפביתי"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "אלפביתי"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

@@ -437,19 +437,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Escull el criteri d'ordenació per al mode Escull Elements"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "Criteri d'ordenació - Escull elements"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Canvia el criteri d'ordenació dels elements de la llista"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Escull el criteri d'ordenació per al mode Escull Elements"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"

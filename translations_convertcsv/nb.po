@@ -236,8 +236,8 @@ msgid "Converting..."
 msgstr "Konverterer..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "Ok"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -354,3 +354,6 @@ msgid ""
 msgstr ""
 "Gjenopprett sikkerhetskopi - SLETT ALLE DINE EKSISTERENDE POSTER, så "
 "importer CSV-filen."
+
+
+

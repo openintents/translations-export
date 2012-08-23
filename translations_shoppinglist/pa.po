@@ -434,19 +434,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "ਚੁੱਕੋ ਆਇਟਮ ਮੋੜ ਲਈ ਸਾਰਟ ਕ੍ਰਮ ਚੁਨੇਂ"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "ਸਾਰਟ ਕ੍ਰਮ - ਕੋਇਲ ਆਇਟਮ"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "ਸੂਚੀ ਆਇਟੰਸ  ਦੇ ਸਾਰਟ ਕ੍ਰਮ ਬਦਲੀਆਂ"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "ਚੁੱਕੋ ਆਇਟਮ ਮੋੜ ਲਈ ਸਾਰਟ ਕ੍ਰਮ ਚੁਨੇਂ"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"

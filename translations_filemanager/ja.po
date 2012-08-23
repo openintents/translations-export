@@ -25,6 +25,7 @@ msgstr ""
 "Launchpad Contributions:\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  bkiw https://launchpad.net/~bkiw\n"
 "  maimuzo https://launchpad.net/~maimuzo\n"
 "  thebowseat https://launchpad.net/~takeshimochida\n"
 "  tiantian https://launchpad.net/~tsukida-cmkc"
@@ -49,11 +50,11 @@ msgid "Multi Select"
 msgstr "マルチセレクト"
 
 #: tmp_strings.xml:39(string) tmp_strings.xml:81(string)
-#: tmp_strings.xml:170(string)
+#: tmp_strings.xml:170(string) tmp_strings.xml:205(string)
 msgid "Delete"
 msgstr "削除"
 
-#: tmp_strings.xml:40(string)
+#: tmp_strings.xml:40(string) tmp_strings.xml:209(string)
 msgid "Rename"
 msgstr "名前の変更"
 
@@ -66,14 +67,16 @@ msgid "Open"
 msgstr "開く"
 
 #: tmp_strings.xml:43(string) tmp_strings.xml:79(string)
+#: tmp_strings.xml:206(string)
 msgid "Move"
 msgstr "移動"
 
 #: tmp_strings.xml:44(string) tmp_strings.xml:80(string)
+#: tmp_strings.xml:207(string)
 msgid "Copy"
 msgstr "コピー"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:45(string) tmp_strings.xml:212(string)
 msgid "Details"
 msgstr "詳細情報"
 
@@ -102,8 +105,9 @@ msgid "Exclude from media scan"
 msgstr "メディアスキャンから除外する"
 
 #: tmp_strings.xml:52(string)
-msgid "Add to bookmarks"
-msgstr "ブックマークに追加する"
+#, fuzzy
+msgid "Bookmark"
+msgstr "ブックマーク"
 
 #: tmp_strings.xml:53(string)
 msgid "Refresh"
@@ -323,7 +327,7 @@ msgid "Application not available"
 msgstr "アプリが利用できません"
 
 #. Menu item for Settings
-#: tmp_strings.xml:131(string)
+#: tmp_strings.xml:131(string) tmp_strings.xml:201(string)
 msgid "Settings"
 msgstr "設定"
 
@@ -403,7 +407,8 @@ msgstr "エラーが起こりました。"
 msgid "File successfully saved!"
 msgstr "ファイルはうまく保存されました！"
 
-#: tmp_strings.xml:168(string)
+#. new menu strings
+#: tmp_strings.xml:168(string) tmp_strings.xml:197(string)
 msgid "Bookmarks"
 msgstr "ブックマーク"
 
@@ -485,3 +490,82 @@ msgstr "ファイル %s は既に存在します。上書きしたいですか�
 #: tmp_strings.xml:194(string)
 msgid "Do you want to change the file extension?"
 msgstr "ファイル拡張子の変更を保存したいですか？"
+
+#: tmp_strings.xml:198(string) tmp_strings.xml:226(string)
+msgid "Search"
+msgstr ""
+
+#: tmp_strings.xml:199(string)
+#, fuzzy
+msgid "Create folder"
+msgstr "新規フォルダーを作成"
+
+#: tmp_strings.xml:200(string)
+#, fuzzy
+msgid "Multiselect"
+msgstr "マルチセレクト"
+
+#: tmp_strings.xml:202(string)
+msgid "About"
+msgstr ""
+
+#: tmp_strings.xml:204(string)
+#, fuzzy
+msgid "Compress and send"
+msgstr "アーカイブに圧縮する："
+
+#: tmp_strings.xml:208(string)
+#, fuzzy
+msgid "Compress"
+msgstr "圧縮 (ZIP)"
+
+#: tmp_strings.xml:211(string)
+#, fuzzy
+msgid "Extract"
+msgstr "ここに解凍"
+
+#: tmp_strings.xml:213(string)
+msgid "Create shortcut"
+msgstr ""
+
+#: tmp_strings.xml:214(string)
+msgid "Send using:"
+msgstr ""
+
+#. Multi selection action strings
+#: tmp_strings.xml:217(string)
+msgid "selected"
+msgstr ""
+
+#: tmp_strings.xml:219(string)
+#, fuzzy
+msgid "No bookmarks added."
+msgstr "ブックマークが追加されました"
+
+#. Search related
+#: tmp_strings.xml:222(string)
+msgid "Search files"
+msgstr ""
+
+#: tmp_strings.xml:223(string)
+msgid "Query error"
+msgstr ""
+
+#: tmp_strings.xml:224(string)
+msgid "Files and folders in storage"
+msgstr ""
+
+#: tmp_strings.xml:225(string)
+msgid "Clear history"
+msgstr ""
+
+#: tmp_strings.xml:227(string)
+msgid "Clear search history?"
+msgstr ""
+
+#: tmp_strings.xml:228(string)
+msgid "Search history cleared"
+msgstr ""
+
+
+

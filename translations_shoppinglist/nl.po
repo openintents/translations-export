@@ -439,19 +439,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr ""
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "boodschappenlijsten schrijven"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Wijzig sorteer volgorde van lijst items"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Wijzig sorteer volgorde van lijst items"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -784,15 +781,13 @@ msgstr "ongeselecteerd eerst, prioriteit, labels alfabetisch"
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "alfabetisch"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "alfabetisch"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: friedger <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,9 @@ msgstr ""
 "  Evgrafov Vladimir https://launchpad.net/~evgrafov-vladimir\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
-"  Sergey Popov https://launchpad.net/~fil0soff"
+"  Sergey Popov https://launchpad.net/~fil0soff\n"
+"  Vasily Bogantsev https://launchpad.net/~bas-eurogym\n"
+"  friedger https://launchpad.net/~friedger"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:28(string)
@@ -460,7 +462,7 @@ msgstr "Вы уверены, что хотите заменить текущие
 
 #: tmp_strings.xml:133(string)
 msgid "Found %1$s passwords from backup dated %2$s."
-msgstr "Найденно %1$ паролей из резервной копии %1$."
+msgstr "Найденно %1$s паролей из резервной копии %2$s."
 
 #: tmp_strings.xml:134(string)
 msgid "Complete. Passwords restored: %s"
@@ -844,9 +846,8 @@ msgid "*"
 msgstr ""
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "Неправильный сайт"
+msgstr ""
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -909,6 +910,3 @@ msgstr "30 дней"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 дней"
-
-
-

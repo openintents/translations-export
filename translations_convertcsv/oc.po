@@ -230,8 +230,8 @@ msgid "Converting..."
 msgstr "Conversion..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "D'acòrdi"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -342,3 +342,6 @@ msgstr ""
 msgid ""
 "Restore Backup - DELETE ALL YOUR EXISTING RECORDS, then import the CSV file."
 msgstr ""
+
+
+

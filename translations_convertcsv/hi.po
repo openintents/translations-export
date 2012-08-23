@@ -236,8 +236,8 @@ msgid "Converting..."
 msgstr "परिवर्तन हो रहा है..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "ठीक है"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -354,3 +354,6 @@ msgid ""
 "Restore Backup - DELETE ALL YOUR EXISTING RECORDS, then import the CSV file."
 msgstr ""
 "बैकअप पुनर्स्थापित करना - अपने मौजूदा सभी रिकॉर्ड मिटायें, फिर CSV फ़ाइल आयात करते हैं|"
+
+
+

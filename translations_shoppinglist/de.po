@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Stanley <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -31,6 +31,7 @@ msgstr ""
 "  Patrick Eigensatz https://launchpad.net/~p.eigensatz\n"
 "  Peli https://launchpad.net/~peli0101\n"
 "  SpaceCafé https://launchpad.net/~spacecafe\n"
+"  Stanley https://launchpad.net/~wurfkeks\n"
 "  appricoo https://launchpad.net/~appricoo\n"
 "  friedger https://launchpad.net/~friedger\n"
 "  markus.ruderman https://launchpad.net/~markus-ruderman\n"
@@ -444,19 +445,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Sortierung im Auswahlmodus ändern"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "Einkaufslisten schreiben"
+msgstr "Sortierung der EInkaufslisten"
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Sortierung der Einträge auswählen"
+msgstr "Sortierung der Einkaufslisten ändern"
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Sortierung im Auswahlmodus ändern"
+msgstr "Wähle die Sortierreihenfolge"
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -794,15 +792,13 @@ msgstr "nicht markierte zu erst, Wichtigkeit, Stichwörter alphabetisch"
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "alphabetisch"
+msgstr "Alphabetisch aufsteigend"
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "alphabetisch"
+msgstr "Alphabetisch absteigend"
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

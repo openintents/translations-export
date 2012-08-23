@@ -234,8 +234,8 @@ msgid "Converting..."
 msgstr "ئايلاندۇرۇۋاتىدۇ……"
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "جەزملە"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -354,3 +354,6 @@ msgid ""
 msgstr ""
 "زاپاسنى ئەسلىگە كەلتۈر - نۆۋەتتە مەۋجۇت ھەممە خاتىرىنى ئۆچۈرۈپ ئاندىن CSV "
 "ھۆججەت ئەكىرىدۇ."
+
+
+

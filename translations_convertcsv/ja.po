@@ -237,8 +237,8 @@ msgid "Converting..."
 msgstr "変換中..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "OK"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -351,3 +351,6 @@ msgid ""
 "Restore Backup - DELETE ALL YOUR EXISTING RECORDS, then import the CSV file."
 msgstr ""
 "バックアップを復元- すべての記録を削除し、CSV ファイルをインポートします。"
+
+
+

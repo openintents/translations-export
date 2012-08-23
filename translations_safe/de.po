@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Stanley <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -29,6 +29,7 @@ msgstr ""
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Patrick Eigensatz https://launchpad.net/~p.eigensatz\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  Stanley https://launchpad.net/~wurfkeks\n"
 "  appricoo https://launchpad.net/~appricoo\n"
 "  mrx5682 https://launchpad.net/~mrx5682"
 
@@ -857,9 +858,8 @@ msgid "*"
 msgstr "*"
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "Ungültige Webseite"
+msgstr "Ungültige Adresse (URL)"
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -923,6 +923,3 @@ msgstr "30 Tage"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 Tage"
-
-
-

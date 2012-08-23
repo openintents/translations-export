@@ -228,7 +228,7 @@ msgid "Converting..."
 msgstr ""
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
+msgid "OK"
 msgstr ""
 
 #: tmp_strings.xml:104(string)

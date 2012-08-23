@@ -437,19 +437,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "ترتیب بندی از نوع را انتخاب کنید برای حالت آیتم ها را انتخاب"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "لیست های خرید را بنویسید"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "ترتیب موارد لیست را تغییر دهید"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "ترتیب بندی از نوع را انتخاب کنید برای حالت آیتم ها را انتخاب"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -783,15 +780,13 @@ msgstr "بدون کنترل، اولویت، برچسب ها بر اساس حر�
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "الفبایی"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "الفبایی"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

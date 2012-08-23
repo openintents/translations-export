@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Neta Oren <Unknown>\n"
+"Last-Translator: OpenIntents devs <Unknown>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -91,9 +91,8 @@ msgid "Choose either to remember color or to display random colors"
 msgstr ""
 
 #: tmp_strings.xml:51(item)
-#, fuzzy
 msgid "Keep Color"
-msgstr "שמור צבע"
+msgstr ""
 
 #: tmp_strings.xml:52(item)
 msgid "Random Color"
@@ -102,6 +101,3 @@ msgstr ""
 #: tmp_strings.xml:53(item)
 msgid "White"
 msgstr ""
-
-
-

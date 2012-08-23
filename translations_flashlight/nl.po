@@ -23,9 +23,11 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
+"  Bert de Bruijn https://launchpad.net/~lpdebruijn\n"
 "  Henk van der Velden https://launchpad.net/~henkvandervelden86\n"
 "  Maarten de Vries https://launchpad.net/~maarten-k-de-vries\n"
-"  Peli https://launchpad.net/~peli0101"
+"  Peli https://launchpad.net/~peli0101\n"
+"  pjv https://launchpad.net/~pjv"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:11(string)
@@ -93,9 +95,8 @@ msgid "Choose either to remember color or to display random colors"
 msgstr ""
 
 #: tmp_strings.xml:51(item)
-#, fuzzy
 msgid "Keep Color"
-msgstr "Bewaar kleur"
+msgstr ""
 
 #: tmp_strings.xml:52(item)
 msgid "Random Color"
@@ -104,8 +105,3 @@ msgstr ""
 #: tmp_strings.xml:53(item)
 msgid "White"
 msgstr ""
-
-
-
-
-

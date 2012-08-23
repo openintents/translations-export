@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: emp <emp500@hotmail.com>\n"
 "Language-Team: Finnish <fi@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -23,36 +23,37 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Madhu Sudan Saraogi https://launchpad.net/~madhusudansrg4\n"
-"  OpenIntents devs https://launchpad.net/~openintents-devs"
+"  OpenIntents devs https://launchpad.net/~openintents-devs\n"
+"  emp https://launchpad.net/~emp500"
 
 #. Description of application
 #: tmp_strings.xml:12(string)
 msgid "OI About is a standalone about dialog that is shared between apps."
-msgstr "OI Tietoja on itsenäinen noin dialogi, joka on jaettu apps."
+msgstr "OI Info on itsenäinen infodialogi, joka on jaettu ohjelmien kesken."
 
 #: tmp_strings.xml:13(string)
 msgid "This application is invoked through the menu of other OI applications."
-msgstr "Tämä sovellus on vedonnut kautta valikossa muiden OI sovelluksia."
+msgstr "Tämä sovellus käynnistetään toisten OI ohjelmien valikoiden kautta."
 
 #: tmp_strings.xml:14(string)
 msgid ""
 "It allows you to view version information, links, credits, and license of an "
 "application."
 msgstr ""
-"Sen avulla voit katsella versiotiedot, linkkejä, hyvityksiä ja lupa "
-"hakemuksen."
+"Sen avulla voit katsoa versiotietoja,linkkejä,tekijöitä ja ohjelman "
+"lisenssejä."
 
 #: tmp_strings.xml:15(string)
 msgid "Credits include authors, documentation, translators, and artists."
-msgstr ""
-"Krediittiä sisältävät kirjailijat, dokumentointi, kääntäjiä, ja "
-"taiteilijoita."
+msgstr "Tekijät sisältävät kehittäjät, dokumentoijat, kääntäjät ja artistit."
 
 #: tmp_strings.xml:16(string)
 msgid ""
 "All of this functionality is brought together in a simplistic and efficient "
 "layout."
-msgstr "Kaikki tämä toiminnallisuus kootaan yksinkertainen ja tehokas layout."
+msgstr ""
+"Kaikki tämä toiminnallisuus on tuotu yhteen yksinkertaisella ja tehokkaalla "
+"toimintaperiaatteella."
 
 #: tmp_strings.xml:18(string) tmp_strings.xml:70(string)
 #: tmp_strings.xml:119(string) tmp_strings.xml:172(string)
@@ -60,7 +61,8 @@ msgstr "Kaikki tämä toiminnallisuus kootaan yksinkertainen ja tehokas layout."
 #: tmp_strings.xml:332(string)
 msgid ""
 "This application is ad free and does not require the internet permission."
-msgstr "Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa."
+msgstr ""
+"Tässä ohjelmassa EI OLE mainoksia ja ei vaadi internetyhteyttä ja -lupaa."
 
 #: tmp_strings.xml:20(string) tmp_strings.xml:74(string)
 #: tmp_strings.xml:127(string) tmp_strings.xml:174(string)
@@ -69,8 +71,8 @@ msgstr "Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa."
 msgid ""
 "The source code of this free and open source application is available at:"
 msgstr ""
-"Lähdekoodi tämän ilmaisen ja avoimen lähdekoodin sovellus on saatavilla "
-"osoitteessa:"
+"Tämän ilmaisen ja avoimen lähdekoodin ohjelman lähdekoodi on saatavilla "
+"osoitteesta:"
 
 #: tmp_strings.xml:23(string) tmp_strings.xml:77(string)
 #: tmp_strings.xml:121(string) tmp_strings.xml:177(string)
@@ -80,8 +82,8 @@ msgid ""
 "For the complete list of changes and a list of frequently asked questions, "
 "please visit:"
 msgstr ""
-"Täydellinen luettelo muutoksista ja luettelo usein kysyttyihin kysymyksiin "
-"osoitteessa:"
+"Täydellinen luettelo muutoksista ja lista usein kysytyistä kysymyksistä on "
+"saatavilla osoitteessa:"
 
 #: tmp_strings.xml:26(string) tmp_strings.xml:81(string)
 #: tmp_strings.xml:124(string) tmp_strings.xml:180(string)
@@ -89,7 +91,7 @@ msgstr ""
 #: tmp_strings.xml:337(string)
 msgid ""
 "You can help to improve the translation into your language at Launchpad:"
-msgstr "Voit auttaa parantamaan käännös omalla kielelläsi Launchpad:"
+msgstr "Voit auttaa parantamaan käännöksiä omalle kielellesi Launchpadissa:"
 
 #: tmp_strings.xml:29(string) tmp_strings.xml:84(string)
 #: tmp_strings.xml:130(string) tmp_strings.xml:183(string)

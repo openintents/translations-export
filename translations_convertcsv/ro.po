@@ -239,8 +239,8 @@ msgid "Converting..."
 msgstr "Se convertește..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "Ok"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -363,3 +363,6 @@ msgid ""
 msgstr ""
 "Restaurează copia de rezervă - ȘTERGE TOATE ÎNREGISTRĂRILE EXISTENTE, apoi "
 "importă fișierul CSV."
+
+
+

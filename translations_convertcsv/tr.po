@@ -239,8 +239,8 @@ msgid "Converting..."
 msgstr "Çevriliyor..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "Tamam"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -361,3 +361,6 @@ msgid ""
 msgstr ""
 "Yedeklemeyi Geri Al - VAR OLAN BÜTÜN KAYITLARI SİLER, ve CSV dosyasını içe "
 "aktarır."
+
+
+

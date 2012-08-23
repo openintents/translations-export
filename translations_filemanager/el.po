@@ -46,11 +46,11 @@ msgid "Multi Select"
 msgstr "Πολλαπλή Επιλογή"
 
 #: tmp_strings.xml:39(string) tmp_strings.xml:81(string)
-#: tmp_strings.xml:170(string)
+#: tmp_strings.xml:170(string) tmp_strings.xml:205(string)
 msgid "Delete"
 msgstr "Διαγραφή"
 
-#: tmp_strings.xml:40(string)
+#: tmp_strings.xml:40(string) tmp_strings.xml:209(string)
 msgid "Rename"
 msgstr "Μετονομασία"
 
@@ -63,14 +63,16 @@ msgid "Open"
 msgstr "Άνοιγμα"
 
 #: tmp_strings.xml:43(string) tmp_strings.xml:79(string)
+#: tmp_strings.xml:206(string)
 msgid "Move"
 msgstr "Μετακίνηση"
 
 #: tmp_strings.xml:44(string) tmp_strings.xml:80(string)
+#: tmp_strings.xml:207(string)
 msgid "Copy"
 msgstr "Αντιγραφή"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:45(string) tmp_strings.xml:212(string)
 msgid "Details"
 msgstr "Λεπτομέρεις"
 
@@ -99,8 +101,9 @@ msgid "Exclude from media scan"
 msgstr "Εξαίρεση από τη σάρωση μέσων"
 
 #: tmp_strings.xml:52(string)
-msgid "Add to bookmarks"
-msgstr "Προσθήκη στους σελιδοδείκτες"
+#, fuzzy
+msgid "Bookmark"
+msgstr "Σελιδοδείκτες"
 
 #: tmp_strings.xml:53(string)
 msgid "Refresh"
@@ -320,7 +323,7 @@ msgid "Application not available"
 msgstr "Η εφαρμογή δεν είναι διαθέσιμη"
 
 #. Menu item for Settings
-#: tmp_strings.xml:131(string)
+#: tmp_strings.xml:131(string) tmp_strings.xml:201(string)
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 
@@ -402,7 +405,8 @@ msgstr "Προέκυψε ένα σφάλμα."
 msgid "File successfully saved!"
 msgstr "Το αρχείο αποθηκεύτηκε επιτυχώς!"
 
-#: tmp_strings.xml:168(string)
+#. new menu strings
+#: tmp_strings.xml:168(string) tmp_strings.xml:197(string)
 msgid "Bookmarks"
 msgstr "Σελιδοδείκτες"
 
@@ -484,3 +488,82 @@ msgstr "Το αρχείο %s υπάρχει ήδη. Θέλετε να το αν�
 #: tmp_strings.xml:194(string)
 msgid "Do you want to change the file extension?"
 msgstr "Θέλετε να αλλάξτε την επέκταση του αρχείου;"
+
+#: tmp_strings.xml:198(string) tmp_strings.xml:226(string)
+msgid "Search"
+msgstr ""
+
+#: tmp_strings.xml:199(string)
+#, fuzzy
+msgid "Create folder"
+msgstr "Δημιουργία νέου φακέλου"
+
+#: tmp_strings.xml:200(string)
+#, fuzzy
+msgid "Multiselect"
+msgstr "Πολλαπλή Επιλογή"
+
+#: tmp_strings.xml:202(string)
+msgid "About"
+msgstr ""
+
+#: tmp_strings.xml:204(string)
+#, fuzzy
+msgid "Compress and send"
+msgstr "Συμπίεση σε αρχείο:"
+
+#: tmp_strings.xml:208(string)
+#, fuzzy
+msgid "Compress"
+msgstr "Συμπίεση (ZIP)"
+
+#: tmp_strings.xml:211(string)
+#, fuzzy
+msgid "Extract"
+msgstr "Αποσυμπίεση εδώ"
+
+#: tmp_strings.xml:213(string)
+msgid "Create shortcut"
+msgstr ""
+
+#: tmp_strings.xml:214(string)
+msgid "Send using:"
+msgstr ""
+
+#. Multi selection action strings
+#: tmp_strings.xml:217(string)
+msgid "selected"
+msgstr ""
+
+#: tmp_strings.xml:219(string)
+#, fuzzy
+msgid "No bookmarks added."
+msgstr "Προστέθηκε ο σελιδοδείκτης"
+
+#. Search related
+#: tmp_strings.xml:222(string)
+msgid "Search files"
+msgstr ""
+
+#: tmp_strings.xml:223(string)
+msgid "Query error"
+msgstr ""
+
+#: tmp_strings.xml:224(string)
+msgid "Files and folders in storage"
+msgstr ""
+
+#: tmp_strings.xml:225(string)
+msgid "Clear history"
+msgstr ""
+
+#: tmp_strings.xml:227(string)
+msgid "Clear search history?"
+msgstr ""
+
+#: tmp_strings.xml:228(string)
+msgid "Search history cleared"
+msgstr ""
+
+
+

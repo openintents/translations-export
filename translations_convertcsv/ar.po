@@ -234,8 +234,8 @@ msgid "Converting..."
 msgstr "تحويل..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "موافق"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -348,3 +348,6 @@ msgid ""
 msgstr ""
 "استعادة النسخ الاحتياطي - حذف كافة الخاص بك السجلات الموجودة، ثم قم باستيراد "
 "ملف CSV."
+
+
+

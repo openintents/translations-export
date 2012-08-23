@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: ariza95 <Unknown>\n"
+"Last-Translator: zeugma <Unknown>\n"
 "Language-Team: Turkish <tr@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -51,11 +51,11 @@ msgid "Multi Select"
 msgstr "Çoklu Seçme"
 
 #: tmp_strings.xml:39(string) tmp_strings.xml:81(string)
-#: tmp_strings.xml:170(string)
+#: tmp_strings.xml:170(string) tmp_strings.xml:205(string)
 msgid "Delete"
 msgstr "Sil"
 
-#: tmp_strings.xml:40(string)
+#: tmp_strings.xml:40(string) tmp_strings.xml:209(string)
 msgid "Rename"
 msgstr "Yeniden adlandır"
 
@@ -68,14 +68,16 @@ msgid "Open"
 msgstr "Aç"
 
 #: tmp_strings.xml:43(string) tmp_strings.xml:79(string)
+#: tmp_strings.xml:206(string)
 msgid "Move"
 msgstr "Taşı"
 
 #: tmp_strings.xml:44(string) tmp_strings.xml:80(string)
+#: tmp_strings.xml:207(string)
 msgid "Copy"
 msgstr "Kopyala"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:45(string) tmp_strings.xml:212(string)
 msgid "Details"
 msgstr "Detaylar."
 
@@ -104,12 +106,13 @@ msgid "Exclude from media scan"
 msgstr "Medya tarama hariç"
 
 #: tmp_strings.xml:52(string)
-msgid "Add to bookmarks"
-msgstr "Yer imleri ekle"
+#, fuzzy
+msgid "Bookmark"
+msgstr "Yer imleri"
 
 #: tmp_strings.xml:53(string)
 msgid "Refresh"
-msgstr ""
+msgstr "Yenile"
 
 #: tmp_strings.xml:55(string)
 msgid "Create new folder"
@@ -199,7 +202,7 @@ msgstr "%d dosyayı gerçekten silmek istediğinize emin misiniz?"
 #. ZIP is the ZIP compression (NOT the ZIP code!)
 #: tmp_strings.xml:84(string)
 msgid "ZIP"
-msgstr ""
+msgstr "ZIP"
 
 #: tmp_strings.xml:86(string)
 msgid "Select multiple files"
@@ -325,7 +328,7 @@ msgid "Application not available"
 msgstr "Uygulama mevcut değil"
 
 #. Menu item for Settings
-#: tmp_strings.xml:131(string)
+#: tmp_strings.xml:131(string) tmp_strings.xml:201(string)
 msgid "Settings"
 msgstr "Ayarlar"
 
@@ -405,7 +408,8 @@ msgstr "Hata oluştu."
 msgid "File successfully saved!"
 msgstr "Dosya başarılı bir şekilde kaydedildi."
 
-#: tmp_strings.xml:168(string)
+#. new menu strings
+#: tmp_strings.xml:168(string) tmp_strings.xml:197(string)
 msgid "Bookmarks"
 msgstr "Yer imleri"
 
@@ -470,15 +474,15 @@ msgstr ""
 
 #: tmp_strings.xml:189(string)
 msgid "Extract here"
-msgstr ""
+msgstr "Buraya çıkart"
 
 #: tmp_strings.xml:190(string)
 msgid "Extracting..."
-msgstr ""
+msgstr "Açılıyor..."
 
 #: tmp_strings.xml:191(string)
 msgid "Compressing..."
-msgstr ""
+msgstr "Sıkıştırılıyor..."
 
 #: tmp_strings.xml:192(string)
 msgid "File %s exists. Do you want to overwrite it?"
@@ -487,3 +491,81 @@ msgstr ""
 #: tmp_strings.xml:194(string)
 msgid "Do you want to change the file extension?"
 msgstr ""
+
+#: tmp_strings.xml:198(string) tmp_strings.xml:226(string)
+msgid "Search"
+msgstr ""
+
+#: tmp_strings.xml:199(string)
+#, fuzzy
+msgid "Create folder"
+msgstr "Yeni klasör oluştur"
+
+#: tmp_strings.xml:200(string)
+#, fuzzy
+msgid "Multiselect"
+msgstr "Çoklu Seçme"
+
+#: tmp_strings.xml:202(string)
+msgid "About"
+msgstr ""
+
+#: tmp_strings.xml:204(string)
+msgid "Compress and send"
+msgstr ""
+
+#: tmp_strings.xml:208(string)
+#, fuzzy
+msgid "Compress"
+msgstr "Sıkıştırılıyor..."
+
+#: tmp_strings.xml:211(string)
+#, fuzzy
+msgid "Extract"
+msgstr "Buraya çıkart"
+
+#: tmp_strings.xml:213(string)
+msgid "Create shortcut"
+msgstr ""
+
+#: tmp_strings.xml:214(string)
+msgid "Send using:"
+msgstr ""
+
+#. Multi selection action strings
+#: tmp_strings.xml:217(string)
+msgid "selected"
+msgstr ""
+
+#: tmp_strings.xml:219(string)
+#, fuzzy
+msgid "No bookmarks added."
+msgstr "Yer imi eklendi"
+
+#. Search related
+#: tmp_strings.xml:222(string)
+msgid "Search files"
+msgstr ""
+
+#: tmp_strings.xml:223(string)
+msgid "Query error"
+msgstr ""
+
+#: tmp_strings.xml:224(string)
+msgid "Files and folders in storage"
+msgstr ""
+
+#: tmp_strings.xml:225(string)
+msgid "Clear history"
+msgstr ""
+
+#: tmp_strings.xml:227(string)
+msgid "Clear search history?"
+msgstr ""
+
+#: tmp_strings.xml:228(string)
+msgid "Search history cleared"
+msgstr ""
+
+
+

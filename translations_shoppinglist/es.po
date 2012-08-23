@@ -23,11 +23,12 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
+"  Adolfo Jayme Barrientos https://launchpad.net/~fitoschido\n"
 "  Andres3d https://launchpad.net/~andresven2005\n"
 "  Angel Abad https://launchpad.net/~angelabad\n"
-"  Fitoschido https://launchpad.net/~fitoschido\n"
 "  Javier Martínez Arrieta https://launchpad.net/~javote87\n"
 "  JoseRoberto https://launchpad.net/~joseroberto\n"
+"  Joselt Peña https://launchpad.net/~inf3rn41j4p\n"
 "  Martín González https://launchpad.net/~mgonzlezgmz\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Paco Molinero https://launchpad.net/~franciscomol\n"
@@ -444,19 +445,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Cambiar el orden en el modo Escoger Elementos"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "escribir listas de compra"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Cambiar orden de clasificación de la lista de elementos"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Cambiar el orden en el modo Escoger Elementos"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -797,15 +795,13 @@ msgstr "sin marcar, prioridad, etiquetas, alfabético"
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "alfabeticamente"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "alfabeticamente"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

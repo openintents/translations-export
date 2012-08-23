@@ -844,9 +844,8 @@ msgid "*"
 msgstr ""
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "Ugyldig nettside"
+msgstr ""
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -909,6 +908,3 @@ msgstr "30 dager"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "60 dager"
-
-
-

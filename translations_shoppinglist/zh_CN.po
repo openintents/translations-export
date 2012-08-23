@@ -436,19 +436,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "为选择物品模式，挑选排列顺序"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "写购物列表"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "更改列表中物品的顺序"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "为选择物品模式，挑选排列顺序"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -773,15 +770,13 @@ msgstr "未经检查的优先，按字母顺序排列优先"
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "按字母排序"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "按字母排序"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

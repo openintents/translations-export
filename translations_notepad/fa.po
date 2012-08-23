@@ -60,9 +60,8 @@ msgid "Use menu to add new notes."
 msgstr "استفاده از منو به اضافه کردن یادداشت های جدید است"
 
 #: tmp_strings.xml:48(string)
-#, fuzzy
 msgid "Use the option above to add new notes."
-msgstr "استفاده از منو به اضافه کردن یادداشت های جدید است"
+msgstr "از گزینه ی فوق برای افزودن یادداشت‌های جدید استفاده کنید."
 
 #: tmp_strings.xml:50(string) tmp_strings.xml:54(string)
 msgid "Edit note"
@@ -222,15 +221,15 @@ msgstr "آیا شما واقعا می خواهید به بازنویسی فای�
 
 #: tmp_strings.xml:101(string)
 msgid "Word count"
-msgstr ""
+msgstr "شمارش واژه"
 
 #: tmp_strings.xml:103(item)
 msgid "One word."
-msgstr ""
+msgstr "یک واژه."
 
 #: tmp_strings.xml:104(item)
 msgid "%d words."
-msgstr ""
+msgstr "% واژه."
 
 #. Menu command to import the currently open note (that has been opened from SD card) into the internal list of notes.
 #: tmp_strings.xml:108(string)
@@ -360,15 +359,15 @@ msgstr "لینک یادداشت را ایجاد کنید"
 
 #: tmp_strings.xml:157(string)
 msgid "Character count"
-msgstr ""
+msgstr "شمارش نویسار"
 
 #: tmp_strings.xml:158(string)
 msgid "Show character count in editor"
-msgstr ""
+msgstr "نمایش شمارش نویسار در ویرایشگر"
 
 #: tmp_strings.xml:159(string)
 msgid "Do not show character count in editor"
-msgstr ""
+msgstr "عدم نمایش شمارش نویسار در ویرایشگر"
 
 #: tmp_strings.xml:161(string)
 msgid "Settings"

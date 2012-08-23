@@ -28,7 +28,8 @@ msgstr ""
 "  Maarten de Vries https://launchpad.net/~maarten-k-de-vries\n"
 "  Mark van Kuijk https://launchpad.net/~markvankuyk\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
-"  Peli https://launchpad.net/~peli0101"
+"  Peli https://launchpad.net/~peli0101\n"
+"  pjv https://launchpad.net/~pjv"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:11(string)

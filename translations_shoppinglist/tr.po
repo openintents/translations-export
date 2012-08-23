@@ -28,7 +28,8 @@ msgstr ""
 "  Huseyin AKSU https://launchpad.net/~huseyinaksu95\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
-"  ariza95 https://launchpad.net/~alirizanazli95"
+"  ariza95 https://launchpad.net/~alirizanazli95\n"
+"  zeugma https://launchpad.net/~sunder67"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:27(string)
@@ -438,19 +439,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Öğe Seçimi sıralanışını seç"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "Alışveriş listeleri yaz"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Liste öğelerinin sıralanışını değiştir"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Öğe Seçimi sıralanışını seç"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -781,15 +779,13 @@ msgstr "işaretlenmemişler önce, önceliğe göre etiketlerin alfabetik sıras
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "alfabetik"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "alfabetik"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

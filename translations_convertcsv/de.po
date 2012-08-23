@@ -240,8 +240,8 @@ msgid "Converting..."
 msgstr "Konvertiere..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "Ok"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -366,3 +366,6 @@ msgid ""
 msgstr ""
 "Backup wiederherstellen - LÖSCHT ALLE BESTEHENDEN EINTRÄGE und importiert "
 "danach die CSV Datei."
+
+
+

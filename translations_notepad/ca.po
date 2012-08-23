@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Pere Orga <Unknown>\n"
 "Language-Team: Catalan <ca@li.org>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -24,12 +24,13 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Joan Creus https://launchpad.net/~joan-creus-c\n"
-"  OpenIntents devs https://launchpad.net/~openintents-devs"
+"  OpenIntents devs https://launchpad.net/~openintents-devs\n"
+"  Pere Orga https://launchpad.net/~pereorga"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:33(string)
 msgid "Create and share your notes with OI Notepad."
-msgstr ""
+msgstr "Creeu i compartiu notes amb el bloc de notes de l'OI"
 
 #. Name of application. Can be localized. OI = OpenIntents should stay unmodified.
 #: tmp_strings.xml:40(string) tmp_strings.xml:55(string)
@@ -58,9 +59,8 @@ msgid "Use menu to add new notes."
 msgstr "Utilitzeu el menú per afegir notes noves"
 
 #: tmp_strings.xml:48(string)
-#, fuzzy
 msgid "Use the option above to add new notes."
-msgstr "Utilitzeu el menú per afegir notes noves"
+msgstr ""
 
 #: tmp_strings.xml:50(string) tmp_strings.xml:54(string)
 msgid "Edit note"
@@ -220,15 +220,15 @@ msgstr "Estàs segur que vols sobreescriure el fitxer ja existent?"
 
 #: tmp_strings.xml:101(string)
 msgid "Word count"
-msgstr ""
+msgstr "Comptador de paraules"
 
 #: tmp_strings.xml:103(item)
 msgid "One word."
-msgstr ""
+msgstr "Una paraula"
 
 #: tmp_strings.xml:104(item)
 msgid "%d words."
-msgstr ""
+msgstr "%d paraules."
 
 #. Menu command to import the currently open note (that has been opened from SD card) into the internal list of notes.
 #: tmp_strings.xml:108(string)
@@ -358,15 +358,15 @@ msgstr "No creïs enllaços a les notes"
 
 #: tmp_strings.xml:157(string)
 msgid "Character count"
-msgstr ""
+msgstr "Comptador de caràcters"
 
 #: tmp_strings.xml:158(string)
 msgid "Show character count in editor"
-msgstr ""
+msgstr "Mostra el comptador de caràcters a l'editor"
 
 #: tmp_strings.xml:159(string)
 msgid "Do not show character count in editor"
-msgstr ""
+msgstr "No mostris el comptador de caràcters a l'editor"
 
 #: tmp_strings.xml:161(string)
 msgid "Settings"

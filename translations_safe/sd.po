@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: happynawani <Unknown>\n"
+"Last-Translator: OpenIntents devs <Unknown>\n"
 "Language-Team: Sindhi <sd@li.org>\n"
 "Language: sd\n"
 "MIME-Version: 1.0\n"
@@ -834,9 +834,8 @@ msgid "*"
 msgstr ""
 
 #: tmp_strings.xml:257(string)
-#, fuzzy
 msgid "Invalid URL"
-msgstr "वेबसाइट गलत तव"
+msgstr ""
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
@@ -899,6 +898,3 @@ msgstr "३० दिन"
 #: tmp_strings.xml:289(item)
 msgid "60 days"
 msgstr "६० दिन"
-
-
-

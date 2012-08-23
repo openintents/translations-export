@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: clever_fox <clever_fox@seznam.cz>\n"
+"Last-Translator: clever_fox <xpavli44@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -439,19 +439,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Zvolte pořadí položek pro režim \"Vybrat položky\""
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "psát nákupní seznamy"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Změňte, podle čeho se budou položky seznamu řadit"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Zvolte pořadí položek pro režim \"Vybrat položky\""
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -783,15 +780,13 @@ msgstr "nejprve nepřeškrtnuté, priorita, abecedně podle štítků"
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "abecedně"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "abecedně"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

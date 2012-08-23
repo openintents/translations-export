@@ -30,7 +30,8 @@ msgstr ""
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Paco Molinero https://launchpad.net/~franciscomol\n"
 "  Walter Reindeer Martinez H https://launchpad.net/~waltereindeerm\n"
-"  enrigp https://launchpad.net/~enrgarc"
+"  enrigp https://launchpad.net/~enrgarc\n"
+"  miwie https://launchpad.net/~mw-miwie"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:11(string)
@@ -100,9 +101,8 @@ msgid "Choose either to remember color or to display random colors"
 msgstr ""
 
 #: tmp_strings.xml:51(item)
-#, fuzzy
 msgid "Keep Color"
-msgstr "Mantener color"
+msgstr ""
 
 #: tmp_strings.xml:52(item)
 msgid "Random Color"
@@ -111,6 +111,3 @@ msgstr ""
 #: tmp_strings.xml:53(item)
 msgid "White"
 msgstr ""
-
-
-

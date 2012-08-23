@@ -440,19 +440,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Выбрать тип сортировки при отмечании купленных вещей"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "Запись списков покупок"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Изменить порядок сортировки элементов списка"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Выбрать тип сортировки при отмечании купленных вещей"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -788,15 +785,13 @@ msgstr "невыполненные первые, приоритету, тега�
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "алфавитный"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "алфавитный"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

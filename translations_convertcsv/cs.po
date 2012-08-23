@@ -238,8 +238,8 @@ msgid "Converting..."
 msgstr "Převádím..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "OK"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -357,3 +357,6 @@ msgid ""
 msgstr ""
 "Obnovit ze zálohy - SMAŽE VŠECHNY VAŠE EXISTUJÍCÍ ZÁZNAMY, potom importuje "
 "CSV soubor."
+
+
+

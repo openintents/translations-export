@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Peli <peli0101@googlemail.com>\n"
+"Last-Translator: friedger <Unknown>\n"
 "Language-Team: Macedonian <mk@li.org>\n"
 "Language: mk\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,8 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
-"  Peli https://launchpad.net/~peli0101"
+"  Peli https://launchpad.net/~peli0101\n"
+"  friedger https://launchpad.net/~friedger"
 
 #. Short explanation of the application (max. 80 characters)
 #: tmp_strings.xml:27(string)
@@ -33,7 +34,7 @@ msgstr ""
 #. Name of application. Can be localized. OI = OpenIntents should stay unmodified.
 #: tmp_strings.xml:33(string)
 msgid "OI Shopping List"
-msgstr ""
+msgstr "OI Листа за купување"
 
 #: tmp_strings.xml:35(string)
 msgid "New item"
@@ -433,19 +434,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr ""
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "запиши шопинг листи"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Промени го редоследот на листата ставки"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Промени го редоследот на листата ставки"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -773,15 +771,13 @@ msgstr ""
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "по азбучен ред"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "по азбучен ред"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

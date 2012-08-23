@@ -166,11 +166,11 @@ msgstr "Brak elementów"
 
 #: tmp_strings.xml:66(string)
 msgid "No stores available for this list"
-msgstr ""
+msgstr "Brak dostępnych sklepów dla tej listy"
 
 #: tmp_strings.xml:67(string)
 msgid "No tags available for this list"
-msgstr ""
+msgstr "Brak dostępnych tagów dla tej listy"
 
 #. Remove item from this list, but keep it internally, so that the user
 #. 	     can choose it later for inclusion again. Information like
@@ -259,11 +259,11 @@ msgstr "Notatka"
 
 #: tmp_strings.xml:104(string)
 msgid "Stores"
-msgstr ""
+msgstr "Sklepy"
 
 #: tmp_strings.xml:105(string)
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: tmp_strings.xml:107(string)
 msgid "Other Quantity..."
@@ -275,7 +275,7 @@ msgstr "Inny Priorytet..."
 
 #: tmp_strings.xml:109(string)
 msgid "(Unfiltered)"
-msgstr ""
+msgstr "(niefiltrowane)"
 
 #. Total sum of all prices. '%s' is the sum
 #: tmp_strings.xml:112(string)
@@ -441,19 +441,16 @@ msgid "Choose sort order for Pick Items mode"
 msgstr "Wybierz kolejność sortowania elementów listy"
 
 #: tmp_strings.xml:171(string)
-#, fuzzy
 msgid "Sort order - Shopping Lists"
-msgstr "zapis list zakupów"
+msgstr ""
 
 #: tmp_strings.xml:172(string)
-#, fuzzy
 msgid "Change sort order of shopping lists."
-msgstr "Zmień porządek sortowania elementów listy"
+msgstr ""
 
 #: tmp_strings.xml:173(string)
-#, fuzzy
 msgid "Choose sort order for shopping lists"
-msgstr "Wybierz kolejność sortowania elementów listy"
+msgstr ""
 
 #: tmp_strings.xml:174(string)
 msgid "Load last list used"
@@ -485,11 +482,13 @@ msgstr "Chowaj odznaczane elementy"
 
 #: tmp_strings.xml:181(string)
 msgid "Fast Scrolling"
-msgstr ""
+msgstr "Szybkie Przewijanie"
 
 #: tmp_strings.xml:182(string)
 msgid "Scroll handle appears when scrolling 35 items or more."
 msgstr ""
+"Przycisk przewijania pojawia się podczas przewijania co najmniej 35 "
+"elementów."
 
 #: tmp_strings.xml:183(string)
 msgid "Show price"
@@ -523,11 +522,11 @@ msgstr "Zapobiega blokadzie ekranu podczas sprawdzania."
 
 #: tmp_strings.xml:190(string)
 msgid "Filters"
-msgstr ""
+msgstr "Filtry"
 
 #: tmp_strings.xml:191(string)
 msgid "Lists can be filtered by tags or stores."
-msgstr ""
+msgstr "Listy mogą być filtrowane za pomocą tagów lub sklepów."
 
 #: tmp_strings.xml:192(string)
 msgid "Reset Quantity"
@@ -786,15 +785,13 @@ msgstr "niezaznaczone, priorytet, znaczniki alfabetycznie"
 
 #. Preference sort order: Sort by list name in ascending order
 #: tmp_strings.xml:293(item)
-#, fuzzy
 msgid "alphabetical ascending"
-msgstr "alfabetycznie"
+msgstr ""
 
 #. Preference sort order: Sort by list name in descending order
 #: tmp_strings.xml:295(item)
-#, fuzzy
 msgid "alphabetical descending"
-msgstr "alfabetycznie"
+msgstr ""
 
 #: tmp_strings.xml:303(item)
 msgid "Not shown"

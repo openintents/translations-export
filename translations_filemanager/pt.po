@@ -46,11 +46,11 @@ msgid "Multi Select"
 msgstr "Seleção múltipla"
 
 #: tmp_strings.xml:39(string) tmp_strings.xml:81(string)
-#: tmp_strings.xml:170(string)
+#: tmp_strings.xml:170(string) tmp_strings.xml:205(string)
 msgid "Delete"
 msgstr "Eliminar"
 
-#: tmp_strings.xml:40(string)
+#: tmp_strings.xml:40(string) tmp_strings.xml:209(string)
 msgid "Rename"
 msgstr "Mudar nome"
 
@@ -63,14 +63,16 @@ msgid "Open"
 msgstr "Abrir"
 
 #: tmp_strings.xml:43(string) tmp_strings.xml:79(string)
+#: tmp_strings.xml:206(string)
 msgid "Move"
 msgstr "Mover"
 
 #: tmp_strings.xml:44(string) tmp_strings.xml:80(string)
+#: tmp_strings.xml:207(string)
 msgid "Copy"
 msgstr "Copiar"
 
-#: tmp_strings.xml:45(string)
+#: tmp_strings.xml:45(string) tmp_strings.xml:212(string)
 msgid "Details"
 msgstr "Detalhes"
 
@@ -99,8 +101,9 @@ msgid "Exclude from media scan"
 msgstr "Excluir da análise"
 
 #: tmp_strings.xml:52(string)
-msgid "Add to bookmarks"
-msgstr "Adicionar aos marcadores"
+#, fuzzy
+msgid "Bookmark"
+msgstr "Marcadores"
 
 #: tmp_strings.xml:53(string)
 msgid "Refresh"
@@ -320,7 +323,7 @@ msgid "Application not available"
 msgstr "Aplicação não disponível."
 
 #. Menu item for Settings
-#: tmp_strings.xml:131(string)
+#: tmp_strings.xml:131(string) tmp_strings.xml:201(string)
 msgid "Settings"
 msgstr "Definições"
 
@@ -400,7 +403,8 @@ msgstr "Ocorreu um erro."
 msgid "File successfully saved!"
 msgstr "Ficheiro gravado com sucesso."
 
-#: tmp_strings.xml:168(string)
+#. new menu strings
+#: tmp_strings.xml:168(string) tmp_strings.xml:197(string)
 msgid "Bookmarks"
 msgstr "Marcadores"
 
@@ -482,3 +486,82 @@ msgstr "O ficheiro %s já existe. Substituir?"
 #: tmp_strings.xml:194(string)
 msgid "Do you want to change the file extension?"
 msgstr "Pretende alterar a extensão do ficheiro?"
+
+#: tmp_strings.xml:198(string) tmp_strings.xml:226(string)
+msgid "Search"
+msgstr ""
+
+#: tmp_strings.xml:199(string)
+#, fuzzy
+msgid "Create folder"
+msgstr "Criar nova pasta"
+
+#: tmp_strings.xml:200(string)
+#, fuzzy
+msgid "Multiselect"
+msgstr "Seleção múltipla"
+
+#: tmp_strings.xml:202(string)
+msgid "About"
+msgstr ""
+
+#: tmp_strings.xml:204(string)
+#, fuzzy
+msgid "Compress and send"
+msgstr "Comprimir para o arquivo:"
+
+#: tmp_strings.xml:208(string)
+#, fuzzy
+msgid "Compress"
+msgstr "Comprimir (ZIP)"
+
+#: tmp_strings.xml:211(string)
+#, fuzzy
+msgid "Extract"
+msgstr "Extrair aqui"
+
+#: tmp_strings.xml:213(string)
+msgid "Create shortcut"
+msgstr ""
+
+#: tmp_strings.xml:214(string)
+msgid "Send using:"
+msgstr ""
+
+#. Multi selection action strings
+#: tmp_strings.xml:217(string)
+msgid "selected"
+msgstr ""
+
+#: tmp_strings.xml:219(string)
+#, fuzzy
+msgid "No bookmarks added."
+msgstr "Marcador adicionado"
+
+#. Search related
+#: tmp_strings.xml:222(string)
+msgid "Search files"
+msgstr ""
+
+#: tmp_strings.xml:223(string)
+msgid "Query error"
+msgstr ""
+
+#: tmp_strings.xml:224(string)
+msgid "Files and folders in storage"
+msgstr ""
+
+#: tmp_strings.xml:225(string)
+msgid "Clear history"
+msgstr ""
+
+#: tmp_strings.xml:227(string)
+msgid "Clear search history?"
+msgstr ""
+
+#: tmp_strings.xml:228(string)
+msgid "Search history cleared"
+msgstr ""
+
+
+
