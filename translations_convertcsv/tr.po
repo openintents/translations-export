@@ -361,6 +361,3 @@ msgid ""
 msgstr ""
 "Yedeklemeyi Geri Al - VAR OLAN BÜTÜN KAYITLARI SİLER, ve CSV dosyasını içe "
 "aktarır."
-
-
-

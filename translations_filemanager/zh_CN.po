@@ -87,9 +87,8 @@ msgid "Exclude from media scan"
 msgstr "从媒体扫描中排除"
 
 #: tmp_strings.xml:46(string)
-#, fuzzy
 msgid "Bookmark"
-msgstr "书签"
+msgstr ""
 
 #: tmp_strings.xml:48(string)
 msgid "Create new folder"
@@ -129,9 +128,8 @@ msgid "Select multiple files"
 msgstr "选择多个文件"
 
 #: tmp_strings.xml:60(string)
-#, fuzzy
 msgid "File picker"
-msgstr "文件已复制。"
+msgstr ""
 
 #. Strings for details table
 #: tmp_strings.xml:63(string)
@@ -309,14 +307,12 @@ msgid "Could not extract the item"
 msgstr "无法解压该项目"
 
 #: tmp_strings.xml:136(string)
-#, fuzzy
 msgid "Extracting…"
-msgstr "正在解压缩..."
+msgstr ""
 
 #: tmp_strings.xml:137(string)
-#, fuzzy
 msgid "Compressing…"
-msgstr "正在压缩..."
+msgstr ""
 
 #. new menu strings
 #: tmp_strings.xml:140(string) tmp_strings.xml:169(string)
@@ -328,28 +324,24 @@ msgid "Search"
 msgstr ""
 
 #: tmp_strings.xml:142(string)
-#, fuzzy
 msgid "Create folder"
-msgstr "新建文件夹"
+msgstr ""
 
 #: tmp_strings.xml:143(string)
 msgid "Paste"
 msgstr ""
 
 #: tmp_strings.xml:144(string)
-#, fuzzy
 msgid "Multiselect"
-msgstr "多选"
+msgstr ""
 
 #: tmp_strings.xml:151(string)
-#, fuzzy
 msgid "Compress"
-msgstr "压缩(ZIP)"
+msgstr ""
 
 #: tmp_strings.xml:154(string)
-#, fuzzy
 msgid "Extract"
-msgstr "解压到这里"
+msgstr ""
 
 #: tmp_strings.xml:156(string)
 msgid "Create shortcut"
@@ -377,9 +369,8 @@ msgid "No items checked"
 msgstr ""
 
 #: tmp_strings.xml:166(string)
-#, fuzzy
 msgid "No bookmarks added."
-msgstr "书签已添加"
+msgstr ""
 
 #: tmp_strings.xml:167(string)
 msgid "Bookmark added"
@@ -426,28 +417,24 @@ msgstr ""
 
 #. Dialogs
 #: tmp_strings.xml:187(string)
-#, fuzzy
 msgid "Successfully deleted"
-msgstr "文件保存成功！"
+msgstr ""
 
 #: tmp_strings.xml:188(string)
-#, fuzzy
 msgid "Some files not deleted"
-msgstr "文件已删除。"
+msgstr ""
 
 #: tmp_strings.xml:189(string)
 msgid "Deleting…"
 msgstr ""
 
 #: tmp_strings.xml:190(string)
-#, fuzzy
 msgid "Successfully renamed"
-msgstr "文件保存成功！"
+msgstr ""
 
 #: tmp_strings.xml:191(string)
-#, fuzzy
 msgid "Couldn't rename"
-msgstr "无法重命名文件。"
+msgstr ""
 
 #: tmp_strings.xml:192(string)
 msgid "Loading…"
@@ -458,19 +445,16 @@ msgid "Successfully created directory"
 msgstr ""
 
 #: tmp_strings.xml:194(string)
-#, fuzzy
 msgid "Couldn't create directory"
-msgstr "无法建立新文件夹。"
+msgstr ""
 
 #: tmp_strings.xml:195(string)
-#, fuzzy
 msgid "Zip file name"
-msgstr "文件已重命名。"
+msgstr ""
 
 #: tmp_strings.xml:196(string)
-#, fuzzy
 msgid "File exists"
-msgstr "文件不存在。"
+msgstr ""
 
 #: tmp_strings.xml:197(string)
 msgid "Overwrite old file?"
@@ -486,9 +470,8 @@ msgid "Copying…"
 msgstr ""
 
 #: tmp_strings.xml:203(string)
-#, fuzzy
 msgid "Successfully copied"
-msgstr "文件保存成功！"
+msgstr ""
 
 #: tmp_strings.xml:204(string)
 msgid "Some or all items couldn't be copied!"
@@ -499,9 +482,8 @@ msgid "Moving…"
 msgstr ""
 
 #: tmp_strings.xml:206(string)
-#, fuzzy
 msgid "Successfully moved"
-msgstr "文件保存成功！"
+msgstr ""
 
 #: tmp_strings.xml:207(string)
 msgid "Some or all items couldn't be moved!"
@@ -510,105 +492,3 @@ msgstr ""
 #: tmp_strings.xml:208(string)
 msgid "Nothing to paste. Copy or cut files first."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

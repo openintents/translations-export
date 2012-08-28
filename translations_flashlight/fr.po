@@ -27,6 +27,7 @@ msgstr ""
 "  Anges https://launchpad.net/~az24\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  Stanislas Michalak https://launchpad.net/~stanislas-michalak\n"
 "  Tanguy Herrmann https://launchpad.net/~dolanor\n"
 "  Thibault Févry https://launchpad.net/~thibaultfevry"
 

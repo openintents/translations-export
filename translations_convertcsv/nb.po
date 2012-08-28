@@ -354,6 +354,3 @@ msgid ""
 msgstr ""
 "Gjenopprett sikkerhetskopi - SLETT ALLE DINE EKSISTERENDE POSTER, så "
 "importer CSV-filen."
-
-
-

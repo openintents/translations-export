@@ -351,6 +351,3 @@ msgid ""
 "Restore Backup - DELETE ALL YOUR EXISTING RECORDS, then import the CSV file."
 msgstr ""
 "Restore Backup - DELETE ALL YOUR EXISTING RECORDS, then import the CSV file."
-
-
-

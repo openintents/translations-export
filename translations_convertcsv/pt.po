@@ -354,6 +354,3 @@ msgid ""
 msgstr ""
 "RESTAURAR - Elimina os registos existentes e depois importa os registos do "
 "CSV."
-
-
-

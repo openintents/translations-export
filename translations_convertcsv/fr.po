@@ -364,6 +364,3 @@ msgid ""
 msgstr ""
 "Restaurer la sauvegarde - supprimer tous vos enregistrements existants, puis "
 "importer le fichier CSV."
-
-
-

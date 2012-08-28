@@ -357,6 +357,3 @@ msgid ""
 msgstr ""
 "Obnovit ze zálohy - SMAŽE VŠECHNY VAŠE EXISTUJÍCÍ ZÁZNAMY, potom importuje "
 "CSV soubor."
-
-
-

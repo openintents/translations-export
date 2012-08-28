@@ -127,9 +127,8 @@ msgid "Select multiple files"
 msgstr "Selecione varios arquivos"
 
 #: tmp_strings.xml:60(string)
-#, fuzzy
 msgid "File picker"
-msgstr "Arquivo copiado."
+msgstr ""
 
 #. Strings for details table
 #: tmp_strings.xml:63(string)
@@ -324,18 +323,16 @@ msgid "Search"
 msgstr ""
 
 #: tmp_strings.xml:142(string)
-#, fuzzy
 msgid "Create folder"
-msgstr "Criar nova pasta"
+msgstr ""
 
 #: tmp_strings.xml:143(string)
 msgid "Paste"
 msgstr ""
 
 #: tmp_strings.xml:144(string)
-#, fuzzy
 msgid "Multiselect"
-msgstr "Seleção múltipla"
+msgstr ""
 
 #: tmp_strings.xml:151(string)
 msgid "Compress"
@@ -423,9 +420,8 @@ msgid "Successfully deleted"
 msgstr ""
 
 #: tmp_strings.xml:188(string)
-#, fuzzy
 msgid "Some files not deleted"
-msgstr "Arquivo deletado."
+msgstr ""
 
 #: tmp_strings.xml:189(string)
 msgid "Deleting…"
@@ -436,9 +432,8 @@ msgid "Successfully renamed"
 msgstr ""
 
 #: tmp_strings.xml:191(string)
-#, fuzzy
 msgid "Couldn't rename"
-msgstr "Não é possível renomar arquivo."
+msgstr ""
 
 #: tmp_strings.xml:192(string)
 msgid "Loading…"
@@ -449,19 +444,16 @@ msgid "Successfully created directory"
 msgstr ""
 
 #: tmp_strings.xml:194(string)
-#, fuzzy
 msgid "Couldn't create directory"
-msgstr "Não é possível criar nova pasta."
+msgstr ""
 
 #: tmp_strings.xml:195(string)
-#, fuzzy
 msgid "Zip file name"
-msgstr "Arquivo renomeado."
+msgstr ""
 
 #: tmp_strings.xml:196(string)
-#, fuzzy
 msgid "File exists"
-msgstr "Arquivo não existe."
+msgstr ""
 
 #: tmp_strings.xml:197(string)
 msgid "Overwrite old file?"
@@ -499,60 +491,3 @@ msgstr ""
 #: tmp_strings.xml:208(string)
 msgid "Nothing to paste. Copy or cut files first."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

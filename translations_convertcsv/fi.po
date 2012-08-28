@@ -357,6 +357,3 @@ msgid ""
 msgstr ""
 "Palauta Kopiosta - POISTA KAIKKI SINUN OLEMASSA LEVYT, sitten tuoda CSV-"
 "tiedoston."
-
-
-

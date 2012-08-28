@@ -87,9 +87,8 @@ msgid "Exclude from media scan"
 msgstr "मीडिया स्कैन माँ अपवर्जित कयो"
 
 #: tmp_strings.xml:46(string)
-#, fuzzy
 msgid "Bookmark"
-msgstr "बुकमार्क"
+msgstr ""
 
 #: tmp_strings.xml:48(string)
 msgid "Create new folder"
@@ -129,9 +128,8 @@ msgid "Select multiple files"
 msgstr "हिक्क खान वधीक फईलोयूं चुन्द्यो"
 
 #: tmp_strings.xml:60(string)
-#, fuzzy
 msgid "File picker"
-msgstr "फाईल कॉपी थी वई"
+msgstr ""
 
 #. Strings for details table
 #: tmp_strings.xml:63(string)
@@ -309,14 +307,12 @@ msgid "Could not extract the item"
 msgstr "आइटम खे एक्स्त्रक्ट न करे सग्यास"
 
 #: tmp_strings.xml:136(string)
-#, fuzzy
 msgid "Extracting…"
-msgstr "एक्स्त्रक्ट थे तो पयो..."
+msgstr ""
 
 #: tmp_strings.xml:137(string)
-#, fuzzy
 msgid "Compressing…"
-msgstr "कम्प्रेस थे तो पयो..."
+msgstr ""
 
 #. new menu strings
 #: tmp_strings.xml:140(string) tmp_strings.xml:169(string)
@@ -328,28 +324,24 @@ msgid "Search"
 msgstr ""
 
 #: tmp_strings.xml:142(string)
-#, fuzzy
 msgid "Create folder"
-msgstr "नयो फ़ोल्डर ठायो"
+msgstr ""
 
 #: tmp_strings.xml:143(string)
 msgid "Paste"
 msgstr ""
 
 #: tmp_strings.xml:144(string)
-#, fuzzy
 msgid "Multiselect"
-msgstr "बहु चयन"
+msgstr ""
 
 #: tmp_strings.xml:151(string)
-#, fuzzy
 msgid "Compress"
-msgstr "संपीड़ित कयो (ZIP)"
+msgstr ""
 
 #: tmp_strings.xml:154(string)
-#, fuzzy
 msgid "Extract"
-msgstr "हित्ते एक्स्त्रक्ट कयो"
+msgstr ""
 
 #: tmp_strings.xml:156(string)
 msgid "Create shortcut"
@@ -377,9 +369,8 @@ msgid "No items checked"
 msgstr ""
 
 #: tmp_strings.xml:166(string)
-#, fuzzy
 msgid "No bookmarks added."
-msgstr "बुकमार्क जोडयो"
+msgstr ""
 
 #: tmp_strings.xml:167(string)
 msgid "Bookmark added"
@@ -426,28 +417,24 @@ msgstr ""
 
 #. Dialogs
 #: tmp_strings.xml:187(string)
-#, fuzzy
 msgid "Successfully deleted"
-msgstr "!फाईल सफलतापूवक सुरक्षित थी वई"
+msgstr ""
 
 #: tmp_strings.xml:188(string)
-#, fuzzy
 msgid "Some files not deleted"
-msgstr "फाईल मिटी वई"
+msgstr ""
 
 #: tmp_strings.xml:189(string)
 msgid "Deleting…"
 msgstr ""
 
 #: tmp_strings.xml:190(string)
-#, fuzzy
 msgid "Successfully renamed"
-msgstr "!फाईल सफलतापूवक सुरक्षित थी वई"
+msgstr ""
 
 #: tmp_strings.xml:191(string)
-#, fuzzy
 msgid "Couldn't rename"
-msgstr "फाईल यो  नाम न बदले सग्यास"
+msgstr ""
 
 #: tmp_strings.xml:192(string)
 msgid "Loading…"
@@ -458,19 +445,16 @@ msgid "Successfully created directory"
 msgstr ""
 
 #: tmp_strings.xml:194(string)
-#, fuzzy
 msgid "Couldn't create directory"
-msgstr "नयो फ़ोल्डर न ठाए सग्यास"
+msgstr ""
 
 #: tmp_strings.xml:195(string)
-#, fuzzy
 msgid "Zip file name"
-msgstr "फाईल जो नाम बदल जी वयो"
+msgstr ""
 
 #: tmp_strings.xml:196(string)
-#, fuzzy
 msgid "File exists"
-msgstr "फाईल मौजूद काने"
+msgstr ""
 
 #: tmp_strings.xml:197(string)
 msgid "Overwrite old file?"
@@ -486,9 +470,8 @@ msgid "Copying…"
 msgstr ""
 
 #: tmp_strings.xml:203(string)
-#, fuzzy
 msgid "Successfully copied"
-msgstr "!फाईल सफलतापूवक सुरक्षित थी वई"
+msgstr ""
 
 #: tmp_strings.xml:204(string)
 msgid "Some or all items couldn't be copied!"
@@ -499,9 +482,8 @@ msgid "Moving…"
 msgstr ""
 
 #: tmp_strings.xml:206(string)
-#, fuzzy
 msgid "Successfully moved"
-msgstr "!फाईल सफलतापूवक सुरक्षित थी वई"
+msgstr ""
 
 #: tmp_strings.xml:207(string)
 msgid "Some or all items couldn't be moved!"
@@ -510,102 +492,3 @@ msgstr ""
 #: tmp_strings.xml:208(string)
 msgid "Nothing to paste. Copy or cut files first."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

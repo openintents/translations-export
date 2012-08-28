@@ -365,6 +365,3 @@ msgid ""
 msgstr ""
 "Herstel reservekopie - VERWIJDER AL UW BESTAANDE GEGEVENS, importeer dan het "
 "CSV bestand."
-
-
-

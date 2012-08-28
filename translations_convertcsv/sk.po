@@ -357,6 +357,3 @@ msgid ""
 msgstr ""
 "OBNOVIŤ ZÁLOHU - Vymazať všetky Vaše existujúce záznamy a následne "
 "importovať CSV súbor."
-
-
-

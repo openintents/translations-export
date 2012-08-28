@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Stefan Kardos <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -25,6 +25,7 @@ msgstr ""
 "Launchpad Contributions:\n"
 "  Hans https://launchpad.net/~hans-wuerstchen42\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
+"  Stefan Kardos https://launchpad.net/~ato2gx51-stefan\n"
 "  Vincent Schüßler https://launchpad.net/~tq-vincent\n"
 "  appricoo https://launchpad.net/~appricoo"
 
@@ -241,7 +242,7 @@ msgstr "Konvertiere..."
 
 #: tmp_strings.xml:103(string)
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"
@@ -366,6 +367,3 @@ msgid ""
 msgstr ""
 "Backup wiederherstellen - LÖSCHT ALLE BESTEHENDEN EINTRÄGE und importiert "
 "danach die CSV Datei."
-
-
-

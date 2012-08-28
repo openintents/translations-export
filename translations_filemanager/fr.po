@@ -27,6 +27,7 @@ msgstr ""
 "  Anges https://launchpad.net/~az24\n"
 "  Arnaud https://launchpad.net/~arnaud-champollion\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  Stanislas Michalak https://launchpad.net/~stanislas-michalak\n"
 "  kawazzzzzz@yahoo.fr https://launchpad.net/~kawazzzzzz"
 
 #. Short explanation of the application (max. 80 characters)
@@ -88,9 +89,8 @@ msgid "Exclude from media scan"
 msgstr "Exclure des recherches"
 
 #: tmp_strings.xml:46(string)
-#, fuzzy
 msgid "Bookmark"
-msgstr "Signets"
+msgstr ""
 
 #: tmp_strings.xml:48(string)
 msgid "Create new folder"
@@ -130,9 +130,8 @@ msgid "Select multiple files"
 msgstr "Sélectionner plusieurs fichiers"
 
 #: tmp_strings.xml:60(string)
-#, fuzzy
 msgid "File picker"
-msgstr "Fichier copié."
+msgstr ""
 
 #. Strings for details table
 #: tmp_strings.xml:63(string)
@@ -312,14 +311,12 @@ msgid "Could not extract the item"
 msgstr "Impossible d'extraire le fichier"
 
 #: tmp_strings.xml:136(string)
-#, fuzzy
 msgid "Extracting…"
-msgstr "Extraction en cours ..."
+msgstr ""
 
 #: tmp_strings.xml:137(string)
-#, fuzzy
 msgid "Compressing…"
-msgstr "Compression en cours ..."
+msgstr ""
 
 #. new menu strings
 #: tmp_strings.xml:140(string) tmp_strings.xml:169(string)
@@ -331,28 +328,24 @@ msgid "Search"
 msgstr ""
 
 #: tmp_strings.xml:142(string)
-#, fuzzy
 msgid "Create folder"
-msgstr "Créer un nouveau dossier"
+msgstr ""
 
 #: tmp_strings.xml:143(string)
 msgid "Paste"
 msgstr ""
 
 #: tmp_strings.xml:144(string)
-#, fuzzy
 msgid "Multiselect"
-msgstr "Sélectionnez multi"
+msgstr ""
 
 #: tmp_strings.xml:151(string)
-#, fuzzy
 msgid "Compress"
-msgstr "Compresser (ZIP)"
+msgstr ""
 
 #: tmp_strings.xml:154(string)
-#, fuzzy
 msgid "Extract"
-msgstr "Extraire ici"
+msgstr ""
 
 #: tmp_strings.xml:156(string)
 msgid "Create shortcut"
@@ -380,9 +373,8 @@ msgid "No items checked"
 msgstr ""
 
 #: tmp_strings.xml:166(string)
-#, fuzzy
 msgid "No bookmarks added."
-msgstr "Signet ajouté"
+msgstr ""
 
 #: tmp_strings.xml:167(string)
 msgid "Bookmark added"
@@ -429,28 +421,24 @@ msgstr ""
 
 #. Dialogs
 #: tmp_strings.xml:187(string)
-#, fuzzy
 msgid "Successfully deleted"
-msgstr "Fichier sauvegardé avec succès"
+msgstr ""
 
 #: tmp_strings.xml:188(string)
-#, fuzzy
 msgid "Some files not deleted"
-msgstr "Fichier supprimé."
+msgstr ""
 
 #: tmp_strings.xml:189(string)
 msgid "Deleting…"
 msgstr ""
 
 #: tmp_strings.xml:190(string)
-#, fuzzy
 msgid "Successfully renamed"
-msgstr "Fichier sauvegardé avec succès"
+msgstr ""
 
 #: tmp_strings.xml:191(string)
-#, fuzzy
 msgid "Couldn't rename"
-msgstr "Impossible de renommer le fichier."
+msgstr ""
 
 #: tmp_strings.xml:192(string)
 msgid "Loading…"
@@ -461,19 +449,16 @@ msgid "Successfully created directory"
 msgstr ""
 
 #: tmp_strings.xml:194(string)
-#, fuzzy
 msgid "Couldn't create directory"
-msgstr "Impossible de créer le nouveau dossier."
+msgstr ""
 
 #: tmp_strings.xml:195(string)
-#, fuzzy
 msgid "Zip file name"
-msgstr "Fichier renommé."
+msgstr ""
 
 #: tmp_strings.xml:196(string)
-#, fuzzy
 msgid "File exists"
-msgstr "Le fichier n'existe pas."
+msgstr ""
 
 #: tmp_strings.xml:197(string)
 msgid "Overwrite old file?"
@@ -489,9 +474,8 @@ msgid "Copying…"
 msgstr ""
 
 #: tmp_strings.xml:203(string)
-#, fuzzy
 msgid "Successfully copied"
-msgstr "Fichier sauvegardé avec succès"
+msgstr ""
 
 #: tmp_strings.xml:204(string)
 msgid "Some or all items couldn't be copied!"
@@ -502,9 +486,8 @@ msgid "Moving…"
 msgstr ""
 
 #: tmp_strings.xml:206(string)
-#, fuzzy
 msgid "Successfully moved"
-msgstr "Fichier sauvegardé avec succès"
+msgstr ""
 
 #: tmp_strings.xml:207(string)
 msgid "Some or all items couldn't be moved!"
@@ -513,105 +496,3 @@ msgstr ""
 #: tmp_strings.xml:208(string)
 msgid "Nothing to paste. Copy or cut files first."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

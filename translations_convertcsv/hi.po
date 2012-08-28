@@ -354,6 +354,3 @@ msgid ""
 "Restore Backup - DELETE ALL YOUR EXISTING RECORDS, then import the CSV file."
 msgstr ""
 "बैकअप पुनर्स्थापित करना - अपने मौजूदा सभी रिकॉर्ड मिटायें, फिर CSV फ़ाइल आयात करते हैं|"
-
-
-

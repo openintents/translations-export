@@ -357,6 +357,3 @@ msgid ""
 msgstr ""
 "Przywróć kopię zapasową - USUŃ WSZYSTKIE ISTNIEJĄCE ZAPISY, potem importuj "
 "plik CSV."
-
-
-

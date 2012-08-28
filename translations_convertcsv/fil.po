@@ -237,8 +237,8 @@ msgid "Converting..."
 msgstr "Pinapalitan..."
 
 #: tmp_strings.xml:103(string)
-msgid "Ok"
-msgstr "Ok"
+msgid "OK"
+msgstr ""
 
 #: tmp_strings.xml:104(string)
 msgid "Import stores"

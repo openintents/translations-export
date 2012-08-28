@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: OpenIntents devs <Unknown>\n"
+"Last-Translator: Stanislas Michalak <stanislas.michalak@gmail.com>\n"
 "Language-Team: French <fr@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -29,6 +29,7 @@ msgstr ""
 "  Matěj Konečný https://launchpad.net/~matejkon\n"
 "  OpenIntents devs https://launchpad.net/~openintents-devs\n"
 "  Peli https://launchpad.net/~peli0101\n"
+"  Stanislas Michalak https://launchpad.net/~stanislas-michalak\n"
 "  Tanguy Herrmann https://launchpad.net/~dolanor\n"
 "  beudbeud https://launchpad.net/~beudbeud\n"
 "  kartik https://launchpad.net/~b-ballkartik96"
@@ -863,7 +864,7 @@ msgstr "*"
 
 #: tmp_strings.xml:257(string)
 msgid "Invalid URL"
-msgstr ""
+msgstr "URL invalide"
 
 #. Permission to access master password
 #: tmp_strings.xml:265(string)
